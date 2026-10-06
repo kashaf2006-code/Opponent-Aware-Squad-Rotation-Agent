@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# OACSRA - large/raw dataset
+data/raw_data/cricket_all_tables.sqlite/cricket_all_tables.sqlite
+
+# OACSRA - temporary database inspection script
+data/inspect_database.py
+
+# VS Code local settings
+.vscode/
