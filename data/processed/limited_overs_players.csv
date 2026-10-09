@@ -1,0 +1,2172 @@
+match_id,person_name,identifier,team,role,match_type,start_date,team1,team2,winner
+1243019,Babar Azam,8a75e999,Pakistan,player,T20,2021-02-11,Pakistan,South Africa,Pakistan
+1243019,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2021-02-11,Pakistan,South Africa,Pakistan
+1243019,Haider Ali,c13e34f4,Pakistan,player,T20,2021-02-11,Pakistan,South Africa,Pakistan
+1243019,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-02-11,Pakistan,South Africa,Pakistan
+1243019,Hussain Talat,bb4b445b,Pakistan,player,T20,2021-02-11,Pakistan,South Africa,Pakistan
+1243019,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2021-02-11,Pakistan,South Africa,Pakistan
+1243019,Khushdil Shah,fce581b5,Pakistan,player,T20,2021-02-11,Pakistan,South Africa,Pakistan
+1243019,Mohammad Nawaz (3),3086f7a4,Pakistan,player,T20,2021-02-11,Pakistan,South Africa,Pakistan
+1243019,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-02-11,Pakistan,South Africa,Pakistan
+1243019,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2021-02-11,Pakistan,South Africa,Pakistan
+1243019,Usman Qadir,33742f04,Pakistan,player,T20,2021-02-11,Pakistan,South Africa,Pakistan
+1243020,Babar Azam,8a75e999,Pakistan,player,T20,2021-02-13,Pakistan,South Africa,South Africa
+1243020,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2021-02-13,Pakistan,South Africa,South Africa
+1243020,Haider Ali,c13e34f4,Pakistan,player,T20,2021-02-13,Pakistan,South Africa,South Africa
+1243020,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-02-13,Pakistan,South Africa,South Africa
+1243020,Hussain Talat,bb4b445b,Pakistan,player,T20,2021-02-13,Pakistan,South Africa,South Africa
+1243020,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2021-02-13,Pakistan,South Africa,South Africa
+1243020,Khushdil Shah,fce581b5,Pakistan,player,T20,2021-02-13,Pakistan,South Africa,South Africa
+1243020,Mohammad Nawaz (3),3086f7a4,Pakistan,player,T20,2021-02-13,Pakistan,South Africa,South Africa
+1243020,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-02-13,Pakistan,South Africa,South Africa
+1243020,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2021-02-13,Pakistan,South Africa,South Africa
+1243020,Usman Qadir,33742f04,Pakistan,player,T20,2021-02-13,Pakistan,South Africa,South Africa
+1243021,Asif Ali,0a4736eb,Pakistan,player,T20,2021-02-14,South Africa,Pakistan,Pakistan
+1243021,Babar Azam,8a75e999,Pakistan,player,T20,2021-02-14,South Africa,Pakistan,Pakistan
+1243021,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2021-02-14,South Africa,Pakistan,Pakistan
+1243021,Haider Ali,c13e34f4,Pakistan,player,T20,2021-02-14,South Africa,Pakistan,Pakistan
+1243021,Hasan Ali,2911de16,Pakistan,player,T20,2021-02-14,South Africa,Pakistan,Pakistan
+1243021,Hussain Talat,bb4b445b,Pakistan,player,T20,2021-02-14,South Africa,Pakistan,Pakistan
+1243021,Mohammad Nawaz (3),3086f7a4,Pakistan,player,T20,2021-02-14,South Africa,Pakistan,Pakistan
+1243021,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-02-14,South Africa,Pakistan,Pakistan
+1243021,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2021-02-14,South Africa,Pakistan,Pakistan
+1243021,Usman Qadir,33742f04,Pakistan,player,T20,2021-02-14,South Africa,Pakistan,Pakistan
+1243021,Zahid Mahmood,ba158afd,Pakistan,player,T20,2021-02-14,South Africa,Pakistan,Pakistan
+1251572,Asif Ali,0a4736eb,Pakistan,player,ODI,2021-04-02,South Africa,Pakistan,Pakistan
+1251572,Babar Azam,8a75e999,Pakistan,player,ODI,2021-04-02,South Africa,Pakistan,Pakistan
+1251572,Danish Aziz,a4799701,Pakistan,player,ODI,2021-04-02,South Africa,Pakistan,Pakistan
+1251572,Faheem Ashraf,bd4ea627,Pakistan,player,ODI,2021-04-02,South Africa,Pakistan,Pakistan
+1251572,Fakhar Zaman,1777c020,Pakistan,player,ODI,2021-04-02,South Africa,Pakistan,Pakistan
+1251572,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2021-04-02,South Africa,Pakistan,Pakistan
+1251572,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2021-04-02,South Africa,Pakistan,Pakistan
+1251572,Mohammad Hasnain,8596fe80,Pakistan,player,ODI,2021-04-02,South Africa,Pakistan,Pakistan
+1251572,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2021-04-02,South Africa,Pakistan,Pakistan
+1251572,Shadab Khan,9de62878,Pakistan,player,ODI,2021-04-02,South Africa,Pakistan,Pakistan
+1251572,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2021-04-02,South Africa,Pakistan,Pakistan
+1251573,Asif Ali,0a4736eb,Pakistan,player,ODI,2021-04-04,South Africa,Pakistan,South Africa
+1251573,Babar Azam,8a75e999,Pakistan,player,ODI,2021-04-04,South Africa,Pakistan,South Africa
+1251573,Danish Aziz,a4799701,Pakistan,player,ODI,2021-04-04,South Africa,Pakistan,South Africa
+1251573,Faheem Ashraf,bd4ea627,Pakistan,player,ODI,2021-04-04,South Africa,Pakistan,South Africa
+1251573,Fakhar Zaman,1777c020,Pakistan,player,ODI,2021-04-04,South Africa,Pakistan,South Africa
+1251573,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2021-04-04,South Africa,Pakistan,South Africa
+1251573,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2021-04-04,South Africa,Pakistan,South Africa
+1251573,Mohammad Hasnain,8596fe80,Pakistan,player,ODI,2021-04-04,South Africa,Pakistan,South Africa
+1251573,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2021-04-04,South Africa,Pakistan,South Africa
+1251573,Shadab Khan,9de62878,Pakistan,player,ODI,2021-04-04,South Africa,Pakistan,South Africa
+1251573,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2021-04-04,South Africa,Pakistan,South Africa
+1251574,Babar Azam,8a75e999,Pakistan,player,ODI,2021-04-07,Pakistan,South Africa,Pakistan
+1251574,Faheem Ashraf,bd4ea627,Pakistan,player,ODI,2021-04-07,Pakistan,South Africa,Pakistan
+1251574,Fakhar Zaman,1777c020,Pakistan,player,ODI,2021-04-07,Pakistan,South Africa,Pakistan
+1251574,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2021-04-07,Pakistan,South Africa,Pakistan
+1251574,Hasan Ali,2911de16,Pakistan,player,ODI,2021-04-07,Pakistan,South Africa,Pakistan
+1251574,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2021-04-07,Pakistan,South Africa,Pakistan
+1251574,Mohammad Nawaz (3),3086f7a4,Pakistan,player,ODI,2021-04-07,Pakistan,South Africa,Pakistan
+1251574,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2021-04-07,Pakistan,South Africa,Pakistan
+1251574,Sarfraz Ahmed,2254ab79,Pakistan,player,ODI,2021-04-07,Pakistan,South Africa,Pakistan
+1251574,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2021-04-07,Pakistan,South Africa,Pakistan
+1251574,Usman Qadir,33742f04,Pakistan,player,ODI,2021-04-07,Pakistan,South Africa,Pakistan
+1251575,Babar Azam,8a75e999,Pakistan,player,T20,2021-04-10,South Africa,Pakistan,Pakistan
+1251575,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2021-04-10,South Africa,Pakistan,Pakistan
+1251575,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-04-10,South Africa,Pakistan,Pakistan
+1251575,Haider Ali,c13e34f4,Pakistan,player,T20,2021-04-10,South Africa,Pakistan,Pakistan
+1251575,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-04-10,South Africa,Pakistan,Pakistan
+1251575,Hasan Ali,2911de16,Pakistan,player,T20,2021-04-10,South Africa,Pakistan,Pakistan
+1251575,Mohammad Hafeez,9ab63e7b,Pakistan,player,T20,2021-04-10,South Africa,Pakistan,Pakistan
+1251575,Mohammad Nawaz (3),3086f7a4,Pakistan,player,T20,2021-04-10,South Africa,Pakistan,Pakistan
+1251575,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-04-10,South Africa,Pakistan,Pakistan
+1251575,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2021-04-10,South Africa,Pakistan,Pakistan
+1251575,Usman Qadir,33742f04,Pakistan,player,T20,2021-04-10,South Africa,Pakistan,Pakistan
+1251576,Babar Azam,8a75e999,Pakistan,player,T20,2021-04-12,Pakistan,South Africa,South Africa
+1251576,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2021-04-12,Pakistan,South Africa,South Africa
+1251576,Haider Ali,c13e34f4,Pakistan,player,T20,2021-04-12,Pakistan,South Africa,South Africa
+1251576,Hasan Ali,2911de16,Pakistan,player,T20,2021-04-12,Pakistan,South Africa,South Africa
+1251576,Mohammad Hafeez,9ab63e7b,Pakistan,player,T20,2021-04-12,Pakistan,South Africa,South Africa
+1251576,Mohammad Hasnain,8596fe80,Pakistan,player,T20,2021-04-12,Pakistan,South Africa,South Africa
+1251576,Mohammad Nawaz (3),3086f7a4,Pakistan,player,T20,2021-04-12,Pakistan,South Africa,South Africa
+1251576,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-04-12,Pakistan,South Africa,South Africa
+1251576,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2021-04-12,Pakistan,South Africa,South Africa
+1251576,Sharjeel Khan,193ef196,Pakistan,player,T20,2021-04-12,Pakistan,South Africa,South Africa
+1251576,Usman Qadir,33742f04,Pakistan,player,T20,2021-04-12,Pakistan,South Africa,South Africa
+1251577,Asif Ali,0a4736eb,Pakistan,player,T20,2021-04-14,South Africa,Pakistan,Pakistan
+1251577,Babar Azam,8a75e999,Pakistan,player,T20,2021-04-14,South Africa,Pakistan,Pakistan
+1251577,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2021-04-14,South Africa,Pakistan,Pakistan
+1251577,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-04-14,South Africa,Pakistan,Pakistan
+1251577,Haider Ali,c13e34f4,Pakistan,player,T20,2021-04-14,South Africa,Pakistan,Pakistan
+1251577,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-04-14,South Africa,Pakistan,Pakistan
+1251577,Hasan Ali,2911de16,Pakistan,player,T20,2021-04-14,South Africa,Pakistan,Pakistan
+1251577,Mohammad Hafeez,9ab63e7b,Pakistan,player,T20,2021-04-14,South Africa,Pakistan,Pakistan
+1251577,Mohammad Nawaz (3),3086f7a4,Pakistan,player,T20,2021-04-14,South Africa,Pakistan,Pakistan
+1251577,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-04-14,South Africa,Pakistan,Pakistan
+1251577,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2021-04-14,South Africa,Pakistan,Pakistan
+1251578,Asif Ali,0a4736eb,Pakistan,player,T20,2021-04-16,South Africa,Pakistan,Pakistan
+1251578,Babar Azam,8a75e999,Pakistan,player,T20,2021-04-16,South Africa,Pakistan,Pakistan
+1251578,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2021-04-16,South Africa,Pakistan,Pakistan
+1251578,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-04-16,South Africa,Pakistan,Pakistan
+1251578,Haider Ali,c13e34f4,Pakistan,player,T20,2021-04-16,South Africa,Pakistan,Pakistan
+1251578,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-04-16,South Africa,Pakistan,Pakistan
+1251578,Hasan Ali,2911de16,Pakistan,player,T20,2021-04-16,South Africa,Pakistan,Pakistan
+1251578,Mohammad Hafeez,9ab63e7b,Pakistan,player,T20,2021-04-16,South Africa,Pakistan,Pakistan
+1251578,Mohammad Nawaz (3),3086f7a4,Pakistan,player,T20,2021-04-16,South Africa,Pakistan,Pakistan
+1251578,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-04-16,South Africa,Pakistan,Pakistan
+1251578,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2021-04-16,South Africa,Pakistan,Pakistan
+1257183,Babar Azam,8a75e999,Pakistan,player,T20,2021-04-21,Pakistan,Zimbabwe,Pakistan
+1257183,Danish Aziz,a4799701,Pakistan,player,T20,2021-04-21,Pakistan,Zimbabwe,Pakistan
+1257183,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2021-04-21,Pakistan,Zimbabwe,Pakistan
+1257183,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-04-21,Pakistan,Zimbabwe,Pakistan
+1257183,Haider Ali,c13e34f4,Pakistan,player,T20,2021-04-21,Pakistan,Zimbabwe,Pakistan
+1257183,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-04-21,Pakistan,Zimbabwe,Pakistan
+1257183,Mohammad Hafeez,9ab63e7b,Pakistan,player,T20,2021-04-21,Pakistan,Zimbabwe,Pakistan
+1257183,Mohammad Hasnain,8596fe80,Pakistan,player,T20,2021-04-21,Pakistan,Zimbabwe,Pakistan
+1257183,Mohammad Nawaz (3),3086f7a4,Pakistan,player,T20,2021-04-21,Pakistan,Zimbabwe,Pakistan
+1257183,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-04-21,Pakistan,Zimbabwe,Pakistan
+1257183,Usman Qadir,33742f04,Pakistan,player,T20,2021-04-21,Pakistan,Zimbabwe,Pakistan
+1257184,Arshad Iqbal,ed031922,Pakistan,player,T20,2021-04-23,Zimbabwe,Pakistan,Zimbabwe
+1257184,Asif Ali,0a4736eb,Pakistan,player,T20,2021-04-23,Zimbabwe,Pakistan,Zimbabwe
+1257184,Babar Azam,8a75e999,Pakistan,player,T20,2021-04-23,Zimbabwe,Pakistan,Zimbabwe
+1257184,Danish Aziz,a4799701,Pakistan,player,T20,2021-04-23,Zimbabwe,Pakistan,Zimbabwe
+1257184,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2021-04-23,Zimbabwe,Pakistan,Zimbabwe
+1257184,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-04-23,Zimbabwe,Pakistan,Zimbabwe
+1257184,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-04-23,Zimbabwe,Pakistan,Zimbabwe
+1257184,Mohammad Hafeez,9ab63e7b,Pakistan,player,T20,2021-04-23,Zimbabwe,Pakistan,Zimbabwe
+1257184,Mohammad Hasnain,8596fe80,Pakistan,player,T20,2021-04-23,Zimbabwe,Pakistan,Zimbabwe
+1257184,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-04-23,Zimbabwe,Pakistan,Zimbabwe
+1257184,Usman Qadir,33742f04,Pakistan,player,T20,2021-04-23,Zimbabwe,Pakistan,Zimbabwe
+1257185,Babar Azam,8a75e999,Pakistan,player,T20,2021-04-25,Pakistan,Zimbabwe,Pakistan
+1257185,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2021-04-25,Pakistan,Zimbabwe,Pakistan
+1257185,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-04-25,Pakistan,Zimbabwe,Pakistan
+1257185,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-04-25,Pakistan,Zimbabwe,Pakistan
+1257185,Hasan Ali,2911de16,Pakistan,player,T20,2021-04-25,Pakistan,Zimbabwe,Pakistan
+1257185,Mohammad Hafeez,9ab63e7b,Pakistan,player,T20,2021-04-25,Pakistan,Zimbabwe,Pakistan
+1257185,Mohammad Hasnain,8596fe80,Pakistan,player,T20,2021-04-25,Pakistan,Zimbabwe,Pakistan
+1257185,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-04-25,Pakistan,Zimbabwe,Pakistan
+1257185,Sarfraz Ahmed,2254ab79,Pakistan,player,T20,2021-04-25,Pakistan,Zimbabwe,Pakistan
+1257185,Sharjeel Khan,193ef196,Pakistan,player,T20,2021-04-25,Pakistan,Zimbabwe,Pakistan
+1257185,Usman Qadir,33742f04,Pakistan,player,T20,2021-04-25,Pakistan,Zimbabwe,Pakistan
+1239537,Babar Azam,8a75e999,Pakistan,player,ODI,2021-07-08,Pakistan,England,England
+1239537,Faheem Ashraf,bd4ea627,Pakistan,player,ODI,2021-07-08,Pakistan,England,England
+1239537,Fakhar Zaman,1777c020,Pakistan,player,ODI,2021-07-08,Pakistan,England,England
+1239537,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2021-07-08,Pakistan,England,England
+1239537,Hasan Ali,2911de16,Pakistan,player,ODI,2021-07-08,Pakistan,England,England
+1239537,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2021-07-08,Pakistan,England,England
+1239537,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2021-07-08,Pakistan,England,England
+1239537,Saud Shakeel,d07c1b2f,Pakistan,player,ODI,2021-07-08,Pakistan,England,England
+1239537,Shadab Khan,9de62878,Pakistan,player,ODI,2021-07-08,Pakistan,England,England
+1239537,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2021-07-08,Pakistan,England,England
+1239537,Sohaib Maqsood,b98b5e1c,Pakistan,player,ODI,2021-07-08,Pakistan,England,England
+1239538,Babar Azam,8a75e999,Pakistan,player,ODI,2021-07-10,England,Pakistan,England
+1239538,Faheem Ashraf,bd4ea627,Pakistan,player,ODI,2021-07-10,England,Pakistan,England
+1239538,Fakhar Zaman,1777c020,Pakistan,player,ODI,2021-07-10,England,Pakistan,England
+1239538,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2021-07-10,England,Pakistan,England
+1239538,Hasan Ali,2911de16,Pakistan,player,ODI,2021-07-10,England,Pakistan,England
+1239538,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2021-07-10,England,Pakistan,England
+1239538,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2021-07-10,England,Pakistan,England
+1239538,Saud Shakeel,d07c1b2f,Pakistan,player,ODI,2021-07-10,England,Pakistan,England
+1239538,Shadab Khan,9de62878,Pakistan,player,ODI,2021-07-10,England,Pakistan,England
+1239538,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2021-07-10,England,Pakistan,England
+1239538,Sohaib Maqsood,b98b5e1c,Pakistan,player,ODI,2021-07-10,England,Pakistan,England
+1239539,Babar Azam,8a75e999,Pakistan,player,ODI,2021-07-13,Pakistan,England,England
+1239539,Faheem Ashraf,bd4ea627,Pakistan,player,ODI,2021-07-13,Pakistan,England,England
+1239539,Fakhar Zaman,1777c020,Pakistan,player,ODI,2021-07-13,Pakistan,England,England
+1239539,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2021-07-13,Pakistan,England,England
+1239539,Hasan Ali,2911de16,Pakistan,player,ODI,2021-07-13,Pakistan,England,England
+1239539,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2021-07-13,Pakistan,England,England
+1239539,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2021-07-13,Pakistan,England,England
+1239539,Saud Shakeel,d07c1b2f,Pakistan,player,ODI,2021-07-13,Pakistan,England,England
+1239539,Shadab Khan,9de62878,Pakistan,player,ODI,2021-07-13,Pakistan,England,England
+1239539,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2021-07-13,Pakistan,England,England
+1239539,Sohaib Maqsood,b98b5e1c,Pakistan,player,ODI,2021-07-13,Pakistan,England,England
+1239540,Azam Khan,ee8f1a6d,Pakistan,player,T20,2021-07-16,Pakistan,England,Pakistan
+1239540,Babar Azam,8a75e999,Pakistan,player,T20,2021-07-16,Pakistan,England,Pakistan
+1239540,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-07-16,Pakistan,England,Pakistan
+1239540,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-07-16,Pakistan,England,Pakistan
+1239540,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2021-07-16,Pakistan,England,Pakistan
+1239540,Mohammad Hafeez,9ab63e7b,Pakistan,player,T20,2021-07-16,Pakistan,England,Pakistan
+1239540,Mohammad Hasnain,8596fe80,Pakistan,player,T20,2021-07-16,Pakistan,England,Pakistan
+1239540,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-07-16,Pakistan,England,Pakistan
+1239540,Shadab Khan,9de62878,Pakistan,player,T20,2021-07-16,Pakistan,England,Pakistan
+1239540,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2021-07-16,Pakistan,England,Pakistan
+1239540,Sohaib Maqsood,b98b5e1c,Pakistan,player,T20,2021-07-16,Pakistan,England,Pakistan
+1239541,Azam Khan,ee8f1a6d,Pakistan,player,T20,2021-07-18,England,Pakistan,England
+1239541,Babar Azam,8a75e999,Pakistan,player,T20,2021-07-18,England,Pakistan,England
+1239541,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-07-18,England,Pakistan,England
+1239541,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-07-18,England,Pakistan,England
+1239541,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2021-07-18,England,Pakistan,England
+1239541,Mohammad Hafeez,9ab63e7b,Pakistan,player,T20,2021-07-18,England,Pakistan,England
+1239541,Mohammad Hasnain,8596fe80,Pakistan,player,T20,2021-07-18,England,Pakistan,England
+1239541,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-07-18,England,Pakistan,England
+1239541,Shadab Khan,9de62878,Pakistan,player,T20,2021-07-18,England,Pakistan,England
+1239541,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2021-07-18,England,Pakistan,England
+1239541,Sohaib Maqsood,b98b5e1c,Pakistan,player,T20,2021-07-18,England,Pakistan,England
+1239542,Babar Azam,8a75e999,Pakistan,player,T20,2021-07-20,Pakistan,England,England
+1239542,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-07-20,Pakistan,England,England
+1239542,Hasan Ali,2911de16,Pakistan,player,T20,2021-07-20,Pakistan,England,England
+1239542,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2021-07-20,Pakistan,England,England
+1239542,Mohammad Hafeez,9ab63e7b,Pakistan,player,T20,2021-07-20,Pakistan,England,England
+1239542,Mohammad Hasnain,8596fe80,Pakistan,player,T20,2021-07-20,Pakistan,England,England
+1239542,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-07-20,Pakistan,England,England
+1239542,Shadab Khan,9de62878,Pakistan,player,T20,2021-07-20,Pakistan,England,England
+1239542,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2021-07-20,Pakistan,England,England
+1239542,Sohaib Maqsood,b98b5e1c,Pakistan,player,T20,2021-07-20,Pakistan,England,England
+1239542,Usman Qadir,33742f04,Pakistan,player,T20,2021-07-20,Pakistan,England,England
+1263164,Azam Khan,ee8f1a6d,Pakistan,player,T20,2021-07-28,West Indies,Pakistan,
+1263164,Babar Azam,8a75e999,Pakistan,player,T20,2021-07-28,West Indies,Pakistan,
+1263164,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-07-28,West Indies,Pakistan,
+1263164,Hasan Ali,2911de16,Pakistan,player,T20,2021-07-28,West Indies,Pakistan,
+1263164,Mohammad Hafeez,9ab63e7b,Pakistan,player,T20,2021-07-28,West Indies,Pakistan,
+1263164,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-07-28,West Indies,Pakistan,
+1263164,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2021-07-28,West Indies,Pakistan,
+1263164,Shadab Khan,9de62878,Pakistan,player,T20,2021-07-28,West Indies,Pakistan,
+1263164,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2021-07-28,West Indies,Pakistan,
+1263164,Sharjeel Khan,193ef196,Pakistan,player,T20,2021-07-28,West Indies,Pakistan,
+1263164,Usman Qadir,33742f04,Pakistan,player,T20,2021-07-28,West Indies,Pakistan,
+1263165,Babar Azam,8a75e999,Pakistan,player,T20,2021-07-31,Pakistan,West Indies,Pakistan
+1263165,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-07-31,Pakistan,West Indies,Pakistan
+1263165,Hasan Ali,2911de16,Pakistan,player,T20,2021-07-31,Pakistan,West Indies,Pakistan
+1263165,Mohammad Hafeez,9ab63e7b,Pakistan,player,T20,2021-07-31,Pakistan,West Indies,Pakistan
+1263165,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-07-31,Pakistan,West Indies,Pakistan
+1263165,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2021-07-31,Pakistan,West Indies,Pakistan
+1263165,Shadab Khan,9de62878,Pakistan,player,T20,2021-07-31,Pakistan,West Indies,Pakistan
+1263165,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2021-07-31,Pakistan,West Indies,Pakistan
+1263165,Sharjeel Khan,193ef196,Pakistan,player,T20,2021-07-31,Pakistan,West Indies,Pakistan
+1263165,Sohaib Maqsood,b98b5e1c,Pakistan,player,T20,2021-07-31,Pakistan,West Indies,Pakistan
+1263165,Usman Qadir,33742f04,Pakistan,player,T20,2021-07-31,Pakistan,West Indies,Pakistan
+1263166,Babar Azam,8a75e999,Pakistan,player,T20,2021-08-01,West Indies,Pakistan,
+1263166,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-08-01,West Indies,Pakistan,
+1263166,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-08-01,West Indies,Pakistan,
+1263166,Hasan Ali,2911de16,Pakistan,player,T20,2021-08-01,West Indies,Pakistan,
+1263166,Mohammad Hafeez,9ab63e7b,Pakistan,player,T20,2021-08-01,West Indies,Pakistan,
+1263166,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-08-01,West Indies,Pakistan,
+1263166,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2021-08-01,West Indies,Pakistan,
+1263166,Shadab Khan,9de62878,Pakistan,player,T20,2021-08-01,West Indies,Pakistan,
+1263166,Sharjeel Khan,193ef196,Pakistan,player,T20,2021-08-01,West Indies,Pakistan,
+1263166,Sohaib Maqsood,b98b5e1c,Pakistan,player,T20,2021-08-01,West Indies,Pakistan,
+1263166,Usman Qadir,33742f04,Pakistan,player,T20,2021-08-01,West Indies,Pakistan,
+1263167,Babar Azam,8a75e999,Pakistan,player,T20,2021-08-03,West Indies,Pakistan,
+1263167,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-08-03,West Indies,Pakistan,
+1263167,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-08-03,West Indies,Pakistan,
+1263167,Hasan Ali,2911de16,Pakistan,player,T20,2021-08-03,West Indies,Pakistan,
+1263167,Mohammad Hafeez,9ab63e7b,Pakistan,player,T20,2021-08-03,West Indies,Pakistan,
+1263167,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-08-03,West Indies,Pakistan,
+1263167,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2021-08-03,West Indies,Pakistan,
+1263167,Shadab Khan,9de62878,Pakistan,player,T20,2021-08-03,West Indies,Pakistan,
+1263167,Sharjeel Khan,193ef196,Pakistan,player,T20,2021-08-03,West Indies,Pakistan,
+1263167,Sohaib Maqsood,b98b5e1c,Pakistan,player,T20,2021-08-03,West Indies,Pakistan,
+1263167,Usman Qadir,33742f04,Pakistan,player,T20,2021-08-03,West Indies,Pakistan,
+1273727,Asif Ali,0a4736eb,Pakistan,player,T20,2021-10-24,India,Pakistan,Pakistan
+1273727,Babar Azam,8a75e999,Pakistan,player,T20,2021-10-24,India,Pakistan,Pakistan
+1273727,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-10-24,India,Pakistan,Pakistan
+1273727,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-10-24,India,Pakistan,Pakistan
+1273727,Hasan Ali,2911de16,Pakistan,player,T20,2021-10-24,India,Pakistan,Pakistan
+1273727,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2021-10-24,India,Pakistan,Pakistan
+1273727,Mohammad Hafeez,9ab63e7b,Pakistan,player,T20,2021-10-24,India,Pakistan,Pakistan
+1273727,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-10-24,India,Pakistan,Pakistan
+1273727,Shadab Khan,9de62878,Pakistan,player,T20,2021-10-24,India,Pakistan,Pakistan
+1273727,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2021-10-24,India,Pakistan,Pakistan
+1273727,Shoaib Malik,64c34cd0,Pakistan,player,T20,2021-10-24,India,Pakistan,Pakistan
+1273730,Asif Ali,0a4736eb,Pakistan,player,T20,2021-10-26,New Zealand,Pakistan,Pakistan
+1273730,Babar Azam,8a75e999,Pakistan,player,T20,2021-10-26,New Zealand,Pakistan,Pakistan
+1273730,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-10-26,New Zealand,Pakistan,Pakistan
+1273730,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-10-26,New Zealand,Pakistan,Pakistan
+1273730,Hasan Ali,2911de16,Pakistan,player,T20,2021-10-26,New Zealand,Pakistan,Pakistan
+1273730,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2021-10-26,New Zealand,Pakistan,Pakistan
+1273730,Mohammad Hafeez,9ab63e7b,Pakistan,player,T20,2021-10-26,New Zealand,Pakistan,Pakistan
+1273730,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-10-26,New Zealand,Pakistan,Pakistan
+1273730,Shadab Khan,9de62878,Pakistan,player,T20,2021-10-26,New Zealand,Pakistan,Pakistan
+1273730,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2021-10-26,New Zealand,Pakistan,Pakistan
+1273730,Shoaib Malik,64c34cd0,Pakistan,player,T20,2021-10-26,New Zealand,Pakistan,Pakistan
+1273742,Asif Ali,0a4736eb,Pakistan,player,T20,2021-11-02,Pakistan,Namibia,Pakistan
+1273742,Babar Azam,8a75e999,Pakistan,player,T20,2021-11-02,Pakistan,Namibia,Pakistan
+1273742,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-11-02,Pakistan,Namibia,Pakistan
+1273742,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-11-02,Pakistan,Namibia,Pakistan
+1273742,Hasan Ali,2911de16,Pakistan,player,T20,2021-11-02,Pakistan,Namibia,Pakistan
+1273742,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2021-11-02,Pakistan,Namibia,Pakistan
+1273742,Mohammad Hafeez,9ab63e7b,Pakistan,player,T20,2021-11-02,Pakistan,Namibia,Pakistan
+1273742,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-11-02,Pakistan,Namibia,Pakistan
+1273742,Shadab Khan,9de62878,Pakistan,player,T20,2021-11-02,Pakistan,Namibia,Pakistan
+1273742,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2021-11-02,Pakistan,Namibia,Pakistan
+1273742,Shoaib Malik,64c34cd0,Pakistan,player,T20,2021-11-02,Pakistan,Namibia,Pakistan
+1273752,Asif Ali,0a4736eb,Pakistan,player,T20,2021-11-07,Pakistan,Scotland,Pakistan
+1273752,Babar Azam,8a75e999,Pakistan,player,T20,2021-11-07,Pakistan,Scotland,Pakistan
+1273752,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-11-07,Pakistan,Scotland,Pakistan
+1273752,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-11-07,Pakistan,Scotland,Pakistan
+1273752,Hasan Ali,2911de16,Pakistan,player,T20,2021-11-07,Pakistan,Scotland,Pakistan
+1273752,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2021-11-07,Pakistan,Scotland,Pakistan
+1273752,Mohammad Hafeez,9ab63e7b,Pakistan,player,T20,2021-11-07,Pakistan,Scotland,Pakistan
+1273752,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-11-07,Pakistan,Scotland,Pakistan
+1273752,Shadab Khan,9de62878,Pakistan,player,T20,2021-11-07,Pakistan,Scotland,Pakistan
+1273752,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2021-11-07,Pakistan,Scotland,Pakistan
+1273752,Shoaib Malik,64c34cd0,Pakistan,player,T20,2021-11-07,Pakistan,Scotland,Pakistan
+1273755,Asif Ali,0a4736eb,Pakistan,player,T20,2021-11-11,Pakistan,Australia,Australia
+1273755,Babar Azam,8a75e999,Pakistan,player,T20,2021-11-11,Pakistan,Australia,Australia
+1273755,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-11-11,Pakistan,Australia,Australia
+1273755,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-11-11,Pakistan,Australia,Australia
+1273755,Hasan Ali,2911de16,Pakistan,player,T20,2021-11-11,Pakistan,Australia,Australia
+1273755,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2021-11-11,Pakistan,Australia,Australia
+1273755,Mohammad Hafeez,9ab63e7b,Pakistan,player,T20,2021-11-11,Pakistan,Australia,Australia
+1273755,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-11-11,Pakistan,Australia,Australia
+1273755,Shadab Khan,9de62878,Pakistan,player,T20,2021-11-11,Pakistan,Australia,Australia
+1273755,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2021-11-11,Pakistan,Australia,Australia
+1273755,Shoaib Malik,64c34cd0,Pakistan,player,T20,2021-11-11,Pakistan,Australia,Australia
+1277974,Babar Azam,8a75e999,Pakistan,player,T20,2021-11-19,Bangladesh,Pakistan,Pakistan
+1277974,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-11-19,Bangladesh,Pakistan,Pakistan
+1277974,Haider Ali,c13e34f4,Pakistan,player,T20,2021-11-19,Bangladesh,Pakistan,Pakistan
+1277974,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-11-19,Bangladesh,Pakistan,Pakistan
+1277974,Hasan Ali,2911de16,Pakistan,player,T20,2021-11-19,Bangladesh,Pakistan,Pakistan
+1277974,Khushdil Shah,fce581b5,Pakistan,player,T20,2021-11-19,Bangladesh,Pakistan,Pakistan
+1277974,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2021-11-19,Bangladesh,Pakistan,Pakistan
+1277974,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-11-19,Bangladesh,Pakistan,Pakistan
+1277974,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2021-11-19,Bangladesh,Pakistan,Pakistan
+1277974,Shadab Khan,9de62878,Pakistan,player,T20,2021-11-19,Bangladesh,Pakistan,Pakistan
+1277974,Shoaib Malik,64c34cd0,Pakistan,player,T20,2021-11-19,Bangladesh,Pakistan,Pakistan
+1277975,Babar Azam,8a75e999,Pakistan,player,T20,2021-11-20,Bangladesh,Pakistan,Pakistan
+1277975,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-11-20,Bangladesh,Pakistan,Pakistan
+1277975,Haider Ali,c13e34f4,Pakistan,player,T20,2021-11-20,Bangladesh,Pakistan,Pakistan
+1277975,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-11-20,Bangladesh,Pakistan,Pakistan
+1277975,Khushdil Shah,fce581b5,Pakistan,player,T20,2021-11-20,Bangladesh,Pakistan,Pakistan
+1277975,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2021-11-20,Bangladesh,Pakistan,Pakistan
+1277975,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-11-20,Bangladesh,Pakistan,Pakistan
+1277975,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2021-11-20,Bangladesh,Pakistan,Pakistan
+1277975,Shadab Khan,9de62878,Pakistan,player,T20,2021-11-20,Bangladesh,Pakistan,Pakistan
+1277975,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2021-11-20,Bangladesh,Pakistan,Pakistan
+1277975,Shoaib Malik,64c34cd0,Pakistan,player,T20,2021-11-20,Bangladesh,Pakistan,Pakistan
+1277976,Babar Azam,8a75e999,Pakistan,player,T20,2021-11-22,Bangladesh,Pakistan,Pakistan
+1277976,Haider Ali,c13e34f4,Pakistan,player,T20,2021-11-22,Bangladesh,Pakistan,Pakistan
+1277976,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-11-22,Bangladesh,Pakistan,Pakistan
+1277976,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2021-11-22,Bangladesh,Pakistan,Pakistan
+1277976,Khushdil Shah,fce581b5,Pakistan,player,T20,2021-11-22,Bangladesh,Pakistan,Pakistan
+1277976,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2021-11-22,Bangladesh,Pakistan,Pakistan
+1277976,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-11-22,Bangladesh,Pakistan,Pakistan
+1277976,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2021-11-22,Bangladesh,Pakistan,Pakistan
+1277976,Sarfraz Ahmed,2254ab79,Pakistan,player,T20,2021-11-22,Bangladesh,Pakistan,Pakistan
+1277976,Shahnawaz Dhani,7ccbb09f,Pakistan,player,T20,2021-11-22,Bangladesh,Pakistan,Pakistan
+1277976,Usman Qadir,33742f04,Pakistan,player,T20,2021-11-22,Bangladesh,Pakistan,Pakistan
+1287773,Asif Ali,0a4736eb,Pakistan,player,T20,2021-12-13,Pakistan,West Indies,Pakistan
+1287773,Babar Azam,8a75e999,Pakistan,player,T20,2021-12-13,Pakistan,West Indies,Pakistan
+1287773,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-12-13,Pakistan,West Indies,Pakistan
+1287773,Haider Ali,c13e34f4,Pakistan,player,T20,2021-12-13,Pakistan,West Indies,Pakistan
+1287773,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-12-13,Pakistan,West Indies,Pakistan
+1287773,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2021-12-13,Pakistan,West Indies,Pakistan
+1287773,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2021-12-13,Pakistan,West Indies,Pakistan
+1287773,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-12-13,Pakistan,West Indies,Pakistan
+1287773,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2021-12-13,Pakistan,West Indies,Pakistan
+1287773,Shadab Khan,9de62878,Pakistan,player,T20,2021-12-13,Pakistan,West Indies,Pakistan
+1287773,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2021-12-13,Pakistan,West Indies,Pakistan
+1287774,Asif Ali,0a4736eb,Pakistan,player,T20,2021-12-14,Pakistan,West Indies,Pakistan
+1287774,Babar Azam,8a75e999,Pakistan,player,T20,2021-12-14,Pakistan,West Indies,Pakistan
+1287774,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-12-14,Pakistan,West Indies,Pakistan
+1287774,Haider Ali,c13e34f4,Pakistan,player,T20,2021-12-14,Pakistan,West Indies,Pakistan
+1287774,Haris Rauf,24bb1c2f,Pakistan,player,T20,2021-12-14,Pakistan,West Indies,Pakistan
+1287774,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2021-12-14,Pakistan,West Indies,Pakistan
+1287774,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2021-12-14,Pakistan,West Indies,Pakistan
+1287774,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-12-14,Pakistan,West Indies,Pakistan
+1287774,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2021-12-14,Pakistan,West Indies,Pakistan
+1287774,Shadab Khan,9de62878,Pakistan,player,T20,2021-12-14,Pakistan,West Indies,Pakistan
+1287774,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2021-12-14,Pakistan,West Indies,Pakistan
+1287775,Asif Ali,0a4736eb,Pakistan,player,T20,2021-12-16,West Indies,Pakistan,Pakistan
+1287775,Babar Azam,8a75e999,Pakistan,player,T20,2021-12-16,West Indies,Pakistan,Pakistan
+1287775,Fakhar Zaman,1777c020,Pakistan,player,T20,2021-12-16,West Indies,Pakistan,Pakistan
+1287775,Haider Ali,c13e34f4,Pakistan,player,T20,2021-12-16,West Indies,Pakistan,Pakistan
+1287775,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2021-12-16,West Indies,Pakistan,Pakistan
+1287775,Mohammad Hasnain,8596fe80,Pakistan,player,T20,2021-12-16,West Indies,Pakistan,Pakistan
+1287775,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2021-12-16,West Indies,Pakistan,Pakistan
+1287775,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2021-12-16,West Indies,Pakistan,Pakistan
+1287775,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2021-12-16,West Indies,Pakistan,Pakistan
+1287775,Shadab Khan,9de62878,Pakistan,player,T20,2021-12-16,West Indies,Pakistan,Pakistan
+1287775,Shahnawaz Dhani,7ccbb09f,Pakistan,player,T20,2021-12-16,West Indies,Pakistan,Pakistan
+1288313,Babar Azam,8a75e999,Pakistan,player,ODI,2022-03-29,Australia,Pakistan,Australia
+1288313,Fakhar Zaman,1777c020,Pakistan,player,ODI,2022-03-29,Australia,Pakistan,Australia
+1288313,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2022-03-29,Australia,Pakistan,Australia
+1288313,Hasan Ali,2911de16,Pakistan,player,ODI,2022-03-29,Australia,Pakistan,Australia
+1288313,Iftikhar Ahmed,29e253dd,Pakistan,player,ODI,2022-03-29,Australia,Pakistan,Australia
+1288313,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2022-03-29,Australia,Pakistan,Australia
+1288313,Khushdil Shah,fce581b5,Pakistan,player,ODI,2022-03-29,Australia,Pakistan,Australia
+1288313,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2022-03-29,Australia,Pakistan,Australia
+1288313,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2022-03-29,Australia,Pakistan,Australia
+1288313,Saud Shakeel,d07c1b2f,Pakistan,player,ODI,2022-03-29,Australia,Pakistan,Australia
+1288313,Zahid Mahmood,ba158afd,Pakistan,player,ODI,2022-03-29,Australia,Pakistan,Australia
+1288314,Babar Azam,8a75e999,Pakistan,player,ODI,2022-03-31,Australia,Pakistan,Pakistan
+1288314,Fakhar Zaman,1777c020,Pakistan,player,ODI,2022-03-31,Australia,Pakistan,Pakistan
+1288314,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2022-03-31,Australia,Pakistan,Pakistan
+1288314,Iftikhar Ahmed,29e253dd,Pakistan,player,ODI,2022-03-31,Australia,Pakistan,Pakistan
+1288314,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2022-03-31,Australia,Pakistan,Pakistan
+1288314,Khushdil Shah,fce581b5,Pakistan,player,ODI,2022-03-31,Australia,Pakistan,Pakistan
+1288314,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2022-03-31,Australia,Pakistan,Pakistan
+1288314,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2022-03-31,Australia,Pakistan,Pakistan
+1288314,Saud Shakeel,d07c1b2f,Pakistan,player,ODI,2022-03-31,Australia,Pakistan,Pakistan
+1288314,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2022-03-31,Australia,Pakistan,Pakistan
+1288314,Zahid Mahmood,ba158afd,Pakistan,player,ODI,2022-03-31,Australia,Pakistan,Pakistan
+1288315,Asif Ali,0a4736eb,Pakistan,player,ODI,2022-04-02,Australia,Pakistan,Pakistan
+1288315,Babar Azam,8a75e999,Pakistan,player,ODI,2022-04-02,Australia,Pakistan,Pakistan
+1288315,Fakhar Zaman,1777c020,Pakistan,player,ODI,2022-04-02,Australia,Pakistan,Pakistan
+1288315,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2022-04-02,Australia,Pakistan,Pakistan
+1288315,Iftikhar Ahmed,29e253dd,Pakistan,player,ODI,2022-04-02,Australia,Pakistan,Pakistan
+1288315,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2022-04-02,Australia,Pakistan,Pakistan
+1288315,Khushdil Shah,fce581b5,Pakistan,player,ODI,2022-04-02,Australia,Pakistan,Pakistan
+1288315,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2022-04-02,Australia,Pakistan,Pakistan
+1288315,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2022-04-02,Australia,Pakistan,Pakistan
+1288315,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2022-04-02,Australia,Pakistan,Pakistan
+1288315,Zahid Mahmood,ba158afd,Pakistan,player,ODI,2022-04-02,Australia,Pakistan,Pakistan
+1288316,Asif Ali,0a4736eb,Pakistan,player,T20,2022-04-05,Pakistan,Australia,Australia
+1288316,Babar Azam,8a75e999,Pakistan,player,T20,2022-04-05,Pakistan,Australia,Australia
+1288316,Fakhar Zaman,1777c020,Pakistan,player,T20,2022-04-05,Pakistan,Australia,Australia
+1288316,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-04-05,Pakistan,Australia,Australia
+1288316,Hasan Ali,2911de16,Pakistan,player,T20,2022-04-05,Pakistan,Australia,Australia
+1288316,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-04-05,Pakistan,Australia,Australia
+1288316,Khushdil Shah,fce581b5,Pakistan,player,T20,2022-04-05,Pakistan,Australia,Australia
+1288316,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-04-05,Pakistan,Australia,Australia
+1288316,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2022-04-05,Pakistan,Australia,Australia
+1288316,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2022-04-05,Pakistan,Australia,Australia
+1288316,Usman Qadir,33742f04,Pakistan,player,T20,2022-04-05,Pakistan,Australia,Australia
+1315038,Babar Azam,8a75e999,Pakistan,player,ODI,2022-06-08,West Indies,Pakistan,Pakistan
+1315038,Fakhar Zaman,1777c020,Pakistan,player,ODI,2022-06-08,West Indies,Pakistan,Pakistan
+1315038,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2022-06-08,West Indies,Pakistan,Pakistan
+1315038,Hasan Ali,2911de16,Pakistan,player,ODI,2022-06-08,West Indies,Pakistan,Pakistan
+1315038,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2022-06-08,West Indies,Pakistan,Pakistan
+1315038,Khushdil Shah,fce581b5,Pakistan,player,ODI,2022-06-08,West Indies,Pakistan,Pakistan
+1315038,Mohammad Haris,ff3f6fc1,Pakistan,player,ODI,2022-06-08,West Indies,Pakistan,Pakistan
+1315038,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2022-06-08,West Indies,Pakistan,Pakistan
+1315038,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2022-06-08,West Indies,Pakistan,Pakistan
+1315038,Shadab Khan,9de62878,Pakistan,player,ODI,2022-06-08,West Indies,Pakistan,Pakistan
+1315038,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2022-06-08,West Indies,Pakistan,Pakistan
+1315039,Babar Azam,8a75e999,Pakistan,player,ODI,2022-06-10,Pakistan,West Indies,Pakistan
+1315039,Fakhar Zaman,1777c020,Pakistan,player,ODI,2022-06-10,Pakistan,West Indies,Pakistan
+1315039,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2022-06-10,Pakistan,West Indies,Pakistan
+1315039,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2022-06-10,Pakistan,West Indies,Pakistan
+1315039,Khushdil Shah,fce581b5,Pakistan,player,ODI,2022-06-10,Pakistan,West Indies,Pakistan
+1315039,Mohammad Haris,ff3f6fc1,Pakistan,player,ODI,2022-06-10,Pakistan,West Indies,Pakistan
+1315039,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2022-06-10,Pakistan,West Indies,Pakistan
+1315039,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2022-06-10,Pakistan,West Indies,Pakistan
+1315039,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2022-06-10,Pakistan,West Indies,Pakistan
+1315039,Shadab Khan,9de62878,Pakistan,player,ODI,2022-06-10,Pakistan,West Indies,Pakistan
+1315039,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2022-06-10,Pakistan,West Indies,Pakistan
+1315040,Babar Azam,8a75e999,Pakistan,player,ODI,2022-06-12,Pakistan,West Indies,Pakistan
+1315040,Fakhar Zaman,1777c020,Pakistan,player,ODI,2022-06-12,Pakistan,West Indies,Pakistan
+1315040,Hasan Ali,2911de16,Pakistan,player,ODI,2022-06-12,Pakistan,West Indies,Pakistan
+1315040,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2022-06-12,Pakistan,West Indies,Pakistan
+1315040,Khushdil Shah,fce581b5,Pakistan,player,ODI,2022-06-12,Pakistan,West Indies,Pakistan
+1315040,Mohammad Haris,ff3f6fc1,Pakistan,player,ODI,2022-06-12,Pakistan,West Indies,Pakistan
+1315040,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2022-06-12,Pakistan,West Indies,Pakistan
+1315040,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2022-06-12,Pakistan,West Indies,Pakistan
+1315040,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2022-06-12,Pakistan,West Indies,Pakistan
+1315040,Shadab Khan,9de62878,Pakistan,player,ODI,2022-06-12,Pakistan,West Indies,Pakistan
+1315040,Shahnawaz Dhani,7ccbb09f,Pakistan,player,ODI,2022-06-12,Pakistan,West Indies,Pakistan
+1311737,Agha Salman,89c16049,Pakistan,player,ODI,2022-08-16,Pakistan,Netherlands,Pakistan
+1311737,Babar Azam,8a75e999,Pakistan,player,ODI,2022-08-16,Pakistan,Netherlands,Pakistan
+1311737,Fakhar Zaman,1777c020,Pakistan,player,ODI,2022-08-16,Pakistan,Netherlands,Pakistan
+1311737,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2022-08-16,Pakistan,Netherlands,Pakistan
+1311737,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2022-08-16,Pakistan,Netherlands,Pakistan
+1311737,Khushdil Shah,fce581b5,Pakistan,player,ODI,2022-08-16,Pakistan,Netherlands,Pakistan
+1311737,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2022-08-16,Pakistan,Netherlands,Pakistan
+1311737,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2022-08-16,Pakistan,Netherlands,Pakistan
+1311737,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2022-08-16,Pakistan,Netherlands,Pakistan
+1311737,Naseem Shah,9c9af282,Pakistan,player,ODI,2022-08-16,Pakistan,Netherlands,Pakistan
+1311737,Shadab Khan,9de62878,Pakistan,player,ODI,2022-08-16,Pakistan,Netherlands,Pakistan
+1311738,Agha Salman,89c16049,Pakistan,player,ODI,2022-08-18,Netherlands,Pakistan,Pakistan
+1311738,Babar Azam,8a75e999,Pakistan,player,ODI,2022-08-18,Netherlands,Pakistan,Pakistan
+1311738,Fakhar Zaman,1777c020,Pakistan,player,ODI,2022-08-18,Netherlands,Pakistan,Pakistan
+1311738,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2022-08-18,Netherlands,Pakistan,Pakistan
+1311738,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2022-08-18,Netherlands,Pakistan,Pakistan
+1311738,Khushdil Shah,fce581b5,Pakistan,player,ODI,2022-08-18,Netherlands,Pakistan,Pakistan
+1311738,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2022-08-18,Netherlands,Pakistan,Pakistan
+1311738,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2022-08-18,Netherlands,Pakistan,Pakistan
+1311738,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2022-08-18,Netherlands,Pakistan,Pakistan
+1311738,Naseem Shah,9c9af282,Pakistan,player,ODI,2022-08-18,Netherlands,Pakistan,Pakistan
+1311738,Shadab Khan,9de62878,Pakistan,player,ODI,2022-08-18,Netherlands,Pakistan,Pakistan
+1311739,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2022-08-21,Pakistan,Netherlands,Pakistan
+1311739,Agha Salman,89c16049,Pakistan,player,ODI,2022-08-21,Pakistan,Netherlands,Pakistan
+1311739,Babar Azam,8a75e999,Pakistan,player,ODI,2022-08-21,Pakistan,Netherlands,Pakistan
+1311739,Fakhar Zaman,1777c020,Pakistan,player,ODI,2022-08-21,Pakistan,Netherlands,Pakistan
+1311739,Khushdil Shah,fce581b5,Pakistan,player,ODI,2022-08-21,Pakistan,Netherlands,Pakistan
+1311739,Mohammad Haris,ff3f6fc1,Pakistan,player,ODI,2022-08-21,Pakistan,Netherlands,Pakistan
+1311739,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2022-08-21,Pakistan,Netherlands,Pakistan
+1311739,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2022-08-21,Pakistan,Netherlands,Pakistan
+1311739,Naseem Shah,9c9af282,Pakistan,player,ODI,2022-08-21,Pakistan,Netherlands,Pakistan
+1311739,Shahnawaz Dhani,7ccbb09f,Pakistan,player,ODI,2022-08-21,Pakistan,Netherlands,Pakistan
+1311739,Zahid Mahmood,ba158afd,Pakistan,player,ODI,2022-08-21,Pakistan,Netherlands,Pakistan
+1327270,Asif Ali,0a4736eb,Pakistan,player,T20,2022-08-28,Pakistan,India,India
+1327270,Babar Azam,8a75e999,Pakistan,player,T20,2022-08-28,Pakistan,India,India
+1327270,Fakhar Zaman,1777c020,Pakistan,player,T20,2022-08-28,Pakistan,India,India
+1327270,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-08-28,Pakistan,India,India
+1327270,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-08-28,Pakistan,India,India
+1327270,Khushdil Shah,fce581b5,Pakistan,player,T20,2022-08-28,Pakistan,India,India
+1327270,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-08-28,Pakistan,India,India
+1327270,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-08-28,Pakistan,India,India
+1327270,Naseem Shah,9c9af282,Pakistan,player,T20,2022-08-28,Pakistan,India,India
+1327270,Shadab Khan,9de62878,Pakistan,player,T20,2022-08-28,Pakistan,India,India
+1327270,Shahnawaz Dhani,7ccbb09f,Pakistan,player,T20,2022-08-28,Pakistan,India,India
+1327274,Asif Ali,0a4736eb,Pakistan,player,T20,2022-09-02,Pakistan,Hong Kong,Pakistan
+1327274,Babar Azam,8a75e999,Pakistan,player,T20,2022-09-02,Pakistan,Hong Kong,Pakistan
+1327274,Fakhar Zaman,1777c020,Pakistan,player,T20,2022-09-02,Pakistan,Hong Kong,Pakistan
+1327274,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-09-02,Pakistan,Hong Kong,Pakistan
+1327274,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-09-02,Pakistan,Hong Kong,Pakistan
+1327274,Khushdil Shah,fce581b5,Pakistan,player,T20,2022-09-02,Pakistan,Hong Kong,Pakistan
+1327274,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-09-02,Pakistan,Hong Kong,Pakistan
+1327274,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-09-02,Pakistan,Hong Kong,Pakistan
+1327274,Naseem Shah,9c9af282,Pakistan,player,T20,2022-09-02,Pakistan,Hong Kong,Pakistan
+1327274,Shadab Khan,9de62878,Pakistan,player,T20,2022-09-02,Pakistan,Hong Kong,Pakistan
+1327274,Shahnawaz Dhani,7ccbb09f,Pakistan,player,T20,2022-09-02,Pakistan,Hong Kong,Pakistan
+1327276,Asif Ali,0a4736eb,Pakistan,player,T20,2022-09-04,India,Pakistan,Pakistan
+1327276,Babar Azam,8a75e999,Pakistan,player,T20,2022-09-04,India,Pakistan,Pakistan
+1327276,Fakhar Zaman,1777c020,Pakistan,player,T20,2022-09-04,India,Pakistan,Pakistan
+1327276,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-09-04,India,Pakistan,Pakistan
+1327276,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-09-04,India,Pakistan,Pakistan
+1327276,Khushdil Shah,fce581b5,Pakistan,player,T20,2022-09-04,India,Pakistan,Pakistan
+1327276,Mohammad Hasnain,8596fe80,Pakistan,player,T20,2022-09-04,India,Pakistan,Pakistan
+1327276,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-09-04,India,Pakistan,Pakistan
+1327276,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-09-04,India,Pakistan,Pakistan
+1327276,Naseem Shah,9c9af282,Pakistan,player,T20,2022-09-04,India,Pakistan,Pakistan
+1327276,Shadab Khan,9de62878,Pakistan,player,T20,2022-09-04,India,Pakistan,Pakistan
+1327280,Asif Ali,0a4736eb,Pakistan,player,T20,2022-09-09,Pakistan,Sri Lanka,Sri Lanka
+1327280,Babar Azam,8a75e999,Pakistan,player,T20,2022-09-09,Pakistan,Sri Lanka,Sri Lanka
+1327280,Fakhar Zaman,1777c020,Pakistan,player,T20,2022-09-09,Pakistan,Sri Lanka,Sri Lanka
+1327280,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-09-09,Pakistan,Sri Lanka,Sri Lanka
+1327280,Hasan Ali,2911de16,Pakistan,player,T20,2022-09-09,Pakistan,Sri Lanka,Sri Lanka
+1327280,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-09-09,Pakistan,Sri Lanka,Sri Lanka
+1327280,Khushdil Shah,fce581b5,Pakistan,player,T20,2022-09-09,Pakistan,Sri Lanka,Sri Lanka
+1327280,Mohammad Hasnain,8596fe80,Pakistan,player,T20,2022-09-09,Pakistan,Sri Lanka,Sri Lanka
+1327280,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-09-09,Pakistan,Sri Lanka,Sri Lanka
+1327280,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-09-09,Pakistan,Sri Lanka,Sri Lanka
+1327280,Usman Qadir,33742f04,Pakistan,player,T20,2022-09-09,Pakistan,Sri Lanka,Sri Lanka
+1327281,Asif Ali,0a4736eb,Pakistan,player,T20,2022-09-11,Sri Lanka,Pakistan,Sri Lanka
+1327281,Babar Azam,8a75e999,Pakistan,player,T20,2022-09-11,Sri Lanka,Pakistan,Sri Lanka
+1327281,Fakhar Zaman,1777c020,Pakistan,player,T20,2022-09-11,Sri Lanka,Pakistan,Sri Lanka
+1327281,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-09-11,Sri Lanka,Pakistan,Sri Lanka
+1327281,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-09-11,Sri Lanka,Pakistan,Sri Lanka
+1327281,Khushdil Shah,fce581b5,Pakistan,player,T20,2022-09-11,Sri Lanka,Pakistan,Sri Lanka
+1327281,Mohammad Hasnain,8596fe80,Pakistan,player,T20,2022-09-11,Sri Lanka,Pakistan,Sri Lanka
+1327281,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-09-11,Sri Lanka,Pakistan,Sri Lanka
+1327281,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-09-11,Sri Lanka,Pakistan,Sri Lanka
+1327281,Naseem Shah,9c9af282,Pakistan,player,T20,2022-09-11,Sri Lanka,Pakistan,Sri Lanka
+1327281,Shadab Khan,9de62878,Pakistan,player,T20,2022-09-11,Sri Lanka,Pakistan,Sri Lanka
+1327228,Babar Azam,8a75e999,Pakistan,player,T20,2022-09-20,Pakistan,England,England
+1327228,Haider Ali,c13e34f4,Pakistan,player,T20,2022-09-20,Pakistan,England,England
+1327228,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-09-20,Pakistan,England,England
+1327228,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-09-20,Pakistan,England,England
+1327228,Khushdil Shah,fce581b5,Pakistan,player,T20,2022-09-20,Pakistan,England,England
+1327228,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-09-20,Pakistan,England,England
+1327228,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-09-20,Pakistan,England,England
+1327228,Naseem Shah,9c9af282,Pakistan,player,T20,2022-09-20,Pakistan,England,England
+1327228,Shahnawaz Dhani,7ccbb09f,Pakistan,player,T20,2022-09-20,Pakistan,England,England
+1327228,Shan Masood,6843a783,Pakistan,player,T20,2022-09-20,Pakistan,England,England
+1327228,Usman Qadir,33742f04,Pakistan,player,T20,2022-09-20,Pakistan,England,England
+1327229,Babar Azam,8a75e999,Pakistan,player,T20,2022-09-22,England,Pakistan,Pakistan
+1327229,Haider Ali,c13e34f4,Pakistan,player,T20,2022-09-22,England,Pakistan,Pakistan
+1327229,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-09-22,England,Pakistan,Pakistan
+1327229,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-09-22,England,Pakistan,Pakistan
+1327229,Khushdil Shah,fce581b5,Pakistan,player,T20,2022-09-22,England,Pakistan,Pakistan
+1327229,Mohammad Hasnain,8596fe80,Pakistan,player,T20,2022-09-22,England,Pakistan,Pakistan
+1327229,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-09-22,England,Pakistan,Pakistan
+1327229,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-09-22,England,Pakistan,Pakistan
+1327229,Shahnawaz Dhani,7ccbb09f,Pakistan,player,T20,2022-09-22,England,Pakistan,Pakistan
+1327229,Shan Masood,6843a783,Pakistan,player,T20,2022-09-22,England,Pakistan,Pakistan
+1327229,Usman Qadir,33742f04,Pakistan,player,T20,2022-09-22,England,Pakistan,Pakistan
+1327230,Babar Azam,8a75e999,Pakistan,player,T20,2022-09-23,England,Pakistan,England
+1327230,Haider Ali,c13e34f4,Pakistan,player,T20,2022-09-23,England,Pakistan,England
+1327230,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-09-23,England,Pakistan,England
+1327230,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-09-23,England,Pakistan,England
+1327230,Khushdil Shah,fce581b5,Pakistan,player,T20,2022-09-23,England,Pakistan,England
+1327230,Mohammad Hasnain,8596fe80,Pakistan,player,T20,2022-09-23,England,Pakistan,England
+1327230,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-09-23,England,Pakistan,England
+1327230,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-09-23,England,Pakistan,England
+1327230,Shahnawaz Dhani,7ccbb09f,Pakistan,player,T20,2022-09-23,England,Pakistan,England
+1327230,Shan Masood,6843a783,Pakistan,player,T20,2022-09-23,England,Pakistan,England
+1327230,Usman Qadir,33742f04,Pakistan,player,T20,2022-09-23,England,Pakistan,England
+1327231,Asif Ali,0a4736eb,Pakistan,player,T20,2022-09-25,Pakistan,England,Pakistan
+1327231,Babar Azam,8a75e999,Pakistan,player,T20,2022-09-25,Pakistan,England,Pakistan
+1327231,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-09-25,Pakistan,England,Pakistan
+1327231,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-09-25,Pakistan,England,Pakistan
+1327231,Khushdil Shah,fce581b5,Pakistan,player,T20,2022-09-25,Pakistan,England,Pakistan
+1327231,Mohammad Hasnain,8596fe80,Pakistan,player,T20,2022-09-25,Pakistan,England,Pakistan
+1327231,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-09-25,Pakistan,England,Pakistan
+1327231,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-09-25,Pakistan,England,Pakistan
+1327231,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2022-09-25,Pakistan,England,Pakistan
+1327231,Shan Masood,6843a783,Pakistan,player,T20,2022-09-25,Pakistan,England,Pakistan
+1327231,Usman Qadir,33742f04,Pakistan,player,T20,2022-09-25,Pakistan,England,Pakistan
+1327232,Aamer Jamal,a8e54ef4,Pakistan,player,T20,2022-09-28,Pakistan,England,Pakistan
+1327232,Asif Ali,0a4736eb,Pakistan,player,T20,2022-09-28,Pakistan,England,Pakistan
+1327232,Babar Azam,8a75e999,Pakistan,player,T20,2022-09-28,Pakistan,England,Pakistan
+1327232,Haider Ali,c13e34f4,Pakistan,player,T20,2022-09-28,Pakistan,England,Pakistan
+1327232,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-09-28,Pakistan,England,Pakistan
+1327232,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-09-28,Pakistan,England,Pakistan
+1327232,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-09-28,Pakistan,England,Pakistan
+1327232,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-09-28,Pakistan,England,Pakistan
+1327232,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2022-09-28,Pakistan,England,Pakistan
+1327232,Shadab Khan,9de62878,Pakistan,player,T20,2022-09-28,Pakistan,England,Pakistan
+1327232,Shan Masood,6843a783,Pakistan,player,T20,2022-09-28,Pakistan,England,Pakistan
+1327233,Aamer Jamal,a8e54ef4,Pakistan,player,T20,2022-09-30,Pakistan,England,England
+1327233,Asif Ali,0a4736eb,Pakistan,player,T20,2022-09-30,Pakistan,England,England
+1327233,Babar Azam,8a75e999,Pakistan,player,T20,2022-09-30,Pakistan,England,England
+1327233,Haider Ali,c13e34f4,Pakistan,player,T20,2022-09-30,Pakistan,England,England
+1327233,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-09-30,Pakistan,England,England
+1327233,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2022-09-30,Pakistan,England,England
+1327233,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-09-30,Pakistan,England,England
+1327233,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2022-09-30,Pakistan,England,England
+1327233,Shadab Khan,9de62878,Pakistan,player,T20,2022-09-30,Pakistan,England,England
+1327233,Shahnawaz Dhani,7ccbb09f,Pakistan,player,T20,2022-09-30,Pakistan,England,England
+1327233,Shan Masood,6843a783,Pakistan,player,T20,2022-09-30,Pakistan,England,England
+1327234,Asif Ali,0a4736eb,Pakistan,player,T20,2022-10-02,England,Pakistan,England
+1327234,Babar Azam,8a75e999,Pakistan,player,T20,2022-10-02,England,Pakistan,England
+1327234,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-10-02,England,Pakistan,England
+1327234,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-10-02,England,Pakistan,England
+1327234,Khushdil Shah,fce581b5,Pakistan,player,T20,2022-10-02,England,Pakistan,England
+1327234,Mohammad Hasnain,8596fe80,Pakistan,player,T20,2022-10-02,England,Pakistan,England
+1327234,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-10-02,England,Pakistan,England
+1327234,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-10-02,England,Pakistan,England
+1327234,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2022-10-02,England,Pakistan,England
+1327234,Shadab Khan,9de62878,Pakistan,player,T20,2022-10-02,England,Pakistan,England
+1327234,Shan Masood,6843a783,Pakistan,player,T20,2022-10-02,England,Pakistan,England
+1322334,Asif Ali,0a4736eb,Pakistan,player,T20,2022-10-07,Pakistan,Bangladesh,Pakistan
+1322334,Babar Azam,8a75e999,Pakistan,player,T20,2022-10-07,Pakistan,Bangladesh,Pakistan
+1322334,Haider Ali,c13e34f4,Pakistan,player,T20,2022-10-07,Pakistan,Bangladesh,Pakistan
+1322334,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-10-07,Pakistan,Bangladesh,Pakistan
+1322334,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-10-07,Pakistan,Bangladesh,Pakistan
+1322334,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-10-07,Pakistan,Bangladesh,Pakistan
+1322334,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-10-07,Pakistan,Bangladesh,Pakistan
+1322334,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2022-10-07,Pakistan,Bangladesh,Pakistan
+1322334,Shadab Khan,9de62878,Pakistan,player,T20,2022-10-07,Pakistan,Bangladesh,Pakistan
+1322334,Shahnawaz Dhani,7ccbb09f,Pakistan,player,T20,2022-10-07,Pakistan,Bangladesh,Pakistan
+1322334,Shan Masood,6843a783,Pakistan,player,T20,2022-10-07,Pakistan,Bangladesh,Pakistan
+1322335,Asif Ali,0a4736eb,Pakistan,player,T20,2022-10-08,New Zealand,Pakistan,Pakistan
+1322335,Babar Azam,8a75e999,Pakistan,player,T20,2022-10-08,New Zealand,Pakistan,Pakistan
+1322335,Haider Ali,c13e34f4,Pakistan,player,T20,2022-10-08,New Zealand,Pakistan,Pakistan
+1322335,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-10-08,New Zealand,Pakistan,Pakistan
+1322335,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-10-08,New Zealand,Pakistan,Pakistan
+1322335,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-10-08,New Zealand,Pakistan,Pakistan
+1322335,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-10-08,New Zealand,Pakistan,Pakistan
+1322335,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2022-10-08,New Zealand,Pakistan,Pakistan
+1322335,Shadab Khan,9de62878,Pakistan,player,T20,2022-10-08,New Zealand,Pakistan,Pakistan
+1322335,Shahnawaz Dhani,7ccbb09f,Pakistan,player,T20,2022-10-08,New Zealand,Pakistan,Pakistan
+1322335,Shan Masood,6843a783,Pakistan,player,T20,2022-10-08,New Zealand,Pakistan,Pakistan
+1322337,Asif Ali,0a4736eb,Pakistan,player,T20,2022-10-11,Pakistan,New Zealand,New Zealand
+1322337,Babar Azam,8a75e999,Pakistan,player,T20,2022-10-11,Pakistan,New Zealand,New Zealand
+1322337,Haider Ali,c13e34f4,Pakistan,player,T20,2022-10-11,Pakistan,New Zealand,New Zealand
+1322337,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-10-11,Pakistan,New Zealand,New Zealand
+1322337,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-10-11,Pakistan,New Zealand,New Zealand
+1322337,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-10-11,Pakistan,New Zealand,New Zealand
+1322337,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2022-10-11,Pakistan,New Zealand,New Zealand
+1322337,Naseem Shah,9c9af282,Pakistan,player,T20,2022-10-11,Pakistan,New Zealand,New Zealand
+1322337,Shadab Khan,9de62878,Pakistan,player,T20,2022-10-11,Pakistan,New Zealand,New Zealand
+1322337,Shahnawaz Dhani,7ccbb09f,Pakistan,player,T20,2022-10-11,Pakistan,New Zealand,New Zealand
+1322337,Shan Masood,6843a783,Pakistan,player,T20,2022-10-11,Pakistan,New Zealand,New Zealand
+1322339,Asif Ali,0a4736eb,Pakistan,player,T20,2022-10-13,Bangladesh,Pakistan,Pakistan
+1322339,Babar Azam,8a75e999,Pakistan,player,T20,2022-10-13,Bangladesh,Pakistan,Pakistan
+1322339,Haider Ali,c13e34f4,Pakistan,player,T20,2022-10-13,Bangladesh,Pakistan,Pakistan
+1322339,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-10-13,Bangladesh,Pakistan,Pakistan
+1322339,Mohammad Hasnain,8596fe80,Pakistan,player,T20,2022-10-13,Bangladesh,Pakistan,Pakistan
+1322339,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-10-13,Bangladesh,Pakistan,Pakistan
+1322339,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-10-13,Bangladesh,Pakistan,Pakistan
+1322339,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2022-10-13,Bangladesh,Pakistan,Pakistan
+1322339,Naseem Shah,9c9af282,Pakistan,player,T20,2022-10-13,Bangladesh,Pakistan,Pakistan
+1322339,Shadab Khan,9de62878,Pakistan,player,T20,2022-10-13,Bangladesh,Pakistan,Pakistan
+1322339,Shan Masood,6843a783,Pakistan,player,T20,2022-10-13,Bangladesh,Pakistan,Pakistan
+1322340,Asif Ali,0a4736eb,Pakistan,player,T20,2022-10-14,New Zealand,Pakistan,Pakistan
+1322340,Babar Azam,8a75e999,Pakistan,player,T20,2022-10-14,New Zealand,Pakistan,Pakistan
+1322340,Haider Ali,c13e34f4,Pakistan,player,T20,2022-10-14,New Zealand,Pakistan,Pakistan
+1322340,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-10-14,New Zealand,Pakistan,Pakistan
+1322340,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-10-14,New Zealand,Pakistan,Pakistan
+1322340,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-10-14,New Zealand,Pakistan,Pakistan
+1322340,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-10-14,New Zealand,Pakistan,Pakistan
+1322340,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2022-10-14,New Zealand,Pakistan,Pakistan
+1322340,Naseem Shah,9c9af282,Pakistan,player,T20,2022-10-14,New Zealand,Pakistan,Pakistan
+1322340,Shadab Khan,9de62878,Pakistan,player,T20,2022-10-14,New Zealand,Pakistan,Pakistan
+1322340,Shan Masood,6843a783,Pakistan,player,T20,2022-10-14,New Zealand,Pakistan,Pakistan
+1298150,Asif Ali,0a4736eb,Pakistan,player,T20,2022-10-23,Pakistan,India,India
+1298150,Babar Azam,8a75e999,Pakistan,player,T20,2022-10-23,Pakistan,India,India
+1298150,Haider Ali,c13e34f4,Pakistan,player,T20,2022-10-23,Pakistan,India,India
+1298150,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-10-23,Pakistan,India,India
+1298150,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-10-23,Pakistan,India,India
+1298150,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-10-23,Pakistan,India,India
+1298150,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-10-23,Pakistan,India,India
+1298150,Naseem Shah,9c9af282,Pakistan,player,T20,2022-10-23,Pakistan,India,India
+1298150,Shadab Khan,9de62878,Pakistan,player,T20,2022-10-23,Pakistan,India,India
+1298150,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2022-10-23,Pakistan,India,India
+1298150,Shan Masood,6843a783,Pakistan,player,T20,2022-10-23,Pakistan,India,India
+1298158,Babar Azam,8a75e999,Pakistan,player,T20,2022-10-27,Zimbabwe,Pakistan,Zimbabwe
+1298158,Haider Ali,c13e34f4,Pakistan,player,T20,2022-10-27,Zimbabwe,Pakistan,Zimbabwe
+1298158,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-10-27,Zimbabwe,Pakistan,Zimbabwe
+1298158,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-10-27,Zimbabwe,Pakistan,Zimbabwe
+1298158,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-10-27,Zimbabwe,Pakistan,Zimbabwe
+1298158,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-10-27,Zimbabwe,Pakistan,Zimbabwe
+1298158,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2022-10-27,Zimbabwe,Pakistan,Zimbabwe
+1298158,Naseem Shah,9c9af282,Pakistan,player,T20,2022-10-27,Zimbabwe,Pakistan,Zimbabwe
+1298158,Shadab Khan,9de62878,Pakistan,player,T20,2022-10-27,Zimbabwe,Pakistan,Zimbabwe
+1298158,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2022-10-27,Zimbabwe,Pakistan,Zimbabwe
+1298158,Shan Masood,6843a783,Pakistan,player,T20,2022-10-27,Zimbabwe,Pakistan,Zimbabwe
+1298163,Babar Azam,8a75e999,Pakistan,player,T20,2022-10-30,Netherlands,Pakistan,Pakistan
+1298163,Fakhar Zaman,1777c020,Pakistan,player,T20,2022-10-30,Netherlands,Pakistan,Pakistan
+1298163,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-10-30,Netherlands,Pakistan,Pakistan
+1298163,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-10-30,Netherlands,Pakistan,Pakistan
+1298163,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-10-30,Netherlands,Pakistan,Pakistan
+1298163,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-10-30,Netherlands,Pakistan,Pakistan
+1298163,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2022-10-30,Netherlands,Pakistan,Pakistan
+1298163,Naseem Shah,9c9af282,Pakistan,player,T20,2022-10-30,Netherlands,Pakistan,Pakistan
+1298163,Shadab Khan,9de62878,Pakistan,player,T20,2022-10-30,Netherlands,Pakistan,Pakistan
+1298163,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2022-10-30,Netherlands,Pakistan,Pakistan
+1298163,Shan Masood,6843a783,Pakistan,player,T20,2022-10-30,Netherlands,Pakistan,Pakistan
+1298170,Babar Azam,8a75e999,Pakistan,player,T20,2022-11-03,Pakistan,South Africa,Pakistan
+1298170,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-11-03,Pakistan,South Africa,Pakistan
+1298170,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-11-03,Pakistan,South Africa,Pakistan
+1298170,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2022-11-03,Pakistan,South Africa,Pakistan
+1298170,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-11-03,Pakistan,South Africa,Pakistan
+1298170,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-11-03,Pakistan,South Africa,Pakistan
+1298170,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2022-11-03,Pakistan,South Africa,Pakistan
+1298170,Naseem Shah,9c9af282,Pakistan,player,T20,2022-11-03,Pakistan,South Africa,Pakistan
+1298170,Shadab Khan,9de62878,Pakistan,player,T20,2022-11-03,Pakistan,South Africa,Pakistan
+1298170,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2022-11-03,Pakistan,South Africa,Pakistan
+1298170,Shan Masood,6843a783,Pakistan,player,T20,2022-11-03,Pakistan,South Africa,Pakistan
+1298175,Babar Azam,8a75e999,Pakistan,player,T20,2022-11-06,Bangladesh,Pakistan,Pakistan
+1298175,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-11-06,Bangladesh,Pakistan,Pakistan
+1298175,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-11-06,Bangladesh,Pakistan,Pakistan
+1298175,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2022-11-06,Bangladesh,Pakistan,Pakistan
+1298175,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-11-06,Bangladesh,Pakistan,Pakistan
+1298175,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-11-06,Bangladesh,Pakistan,Pakistan
+1298175,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2022-11-06,Bangladesh,Pakistan,Pakistan
+1298175,Naseem Shah,9c9af282,Pakistan,player,T20,2022-11-06,Bangladesh,Pakistan,Pakistan
+1298175,Shadab Khan,9de62878,Pakistan,player,T20,2022-11-06,Bangladesh,Pakistan,Pakistan
+1298175,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2022-11-06,Bangladesh,Pakistan,Pakistan
+1298175,Shan Masood,6843a783,Pakistan,player,T20,2022-11-06,Bangladesh,Pakistan,Pakistan
+1298177,Babar Azam,8a75e999,Pakistan,player,T20,2022-11-09,New Zealand,Pakistan,Pakistan
+1298177,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-11-09,New Zealand,Pakistan,Pakistan
+1298177,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-11-09,New Zealand,Pakistan,Pakistan
+1298177,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2022-11-09,New Zealand,Pakistan,Pakistan
+1298177,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-11-09,New Zealand,Pakistan,Pakistan
+1298177,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-11-09,New Zealand,Pakistan,Pakistan
+1298177,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2022-11-09,New Zealand,Pakistan,Pakistan
+1298177,Naseem Shah,9c9af282,Pakistan,player,T20,2022-11-09,New Zealand,Pakistan,Pakistan
+1298177,Shadab Khan,9de62878,Pakistan,player,T20,2022-11-09,New Zealand,Pakistan,Pakistan
+1298177,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2022-11-09,New Zealand,Pakistan,Pakistan
+1298177,Shan Masood,6843a783,Pakistan,player,T20,2022-11-09,New Zealand,Pakistan,Pakistan
+1298179,Babar Azam,8a75e999,Pakistan,player,T20,2022-11-13,Pakistan,England,England
+1298179,Haris Rauf,24bb1c2f,Pakistan,player,T20,2022-11-13,Pakistan,England,England
+1298179,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2022-11-13,Pakistan,England,England
+1298179,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2022-11-13,Pakistan,England,England
+1298179,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2022-11-13,Pakistan,England,England
+1298179,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2022-11-13,Pakistan,England,England
+1298179,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2022-11-13,Pakistan,England,England
+1298179,Naseem Shah,9c9af282,Pakistan,player,T20,2022-11-13,Pakistan,England,England
+1298179,Shadab Khan,9de62878,Pakistan,player,T20,2022-11-13,Pakistan,England,England
+1298179,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2022-11-13,Pakistan,England,England
+1298179,Shan Masood,6843a783,Pakistan,player,T20,2022-11-13,Pakistan,England,England
+1339611,Agha Salman,89c16049,Pakistan,player,ODI,2023-01-09,New Zealand,Pakistan,Pakistan
+1339611,Babar Azam,8a75e999,Pakistan,player,ODI,2023-01-09,New Zealand,Pakistan,Pakistan
+1339611,Fakhar Zaman,1777c020,Pakistan,player,ODI,2023-01-09,New Zealand,Pakistan,Pakistan
+1339611,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2023-01-09,New Zealand,Pakistan,Pakistan
+1339611,Haris Sohail,7cd0a092,Pakistan,player,ODI,2023-01-09,New Zealand,Pakistan,Pakistan
+1339611,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2023-01-09,New Zealand,Pakistan,Pakistan
+1339611,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2023-01-09,New Zealand,Pakistan,Pakistan
+1339611,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2023-01-09,New Zealand,Pakistan,Pakistan
+1339611,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2023-01-09,New Zealand,Pakistan,Pakistan
+1339611,Naseem Shah,9c9af282,Pakistan,player,ODI,2023-01-09,New Zealand,Pakistan,Pakistan
+1339611,Usama Mir,6dd8b88c,Pakistan,player,ODI,2023-01-09,New Zealand,Pakistan,Pakistan
+1339612,Agha Salman,89c16049,Pakistan,player,ODI,2023-01-11,New Zealand,Pakistan,New Zealand
+1339612,Babar Azam,8a75e999,Pakistan,player,ODI,2023-01-11,New Zealand,Pakistan,New Zealand
+1339612,Fakhar Zaman,1777c020,Pakistan,player,ODI,2023-01-11,New Zealand,Pakistan,New Zealand
+1339612,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2023-01-11,New Zealand,Pakistan,New Zealand
+1339612,Haris Sohail,7cd0a092,Pakistan,player,ODI,2023-01-11,New Zealand,Pakistan,New Zealand
+1339612,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2023-01-11,New Zealand,Pakistan,New Zealand
+1339612,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2023-01-11,New Zealand,Pakistan,New Zealand
+1339612,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2023-01-11,New Zealand,Pakistan,New Zealand
+1339612,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2023-01-11,New Zealand,Pakistan,New Zealand
+1339612,Naseem Shah,9c9af282,Pakistan,player,ODI,2023-01-11,New Zealand,Pakistan,New Zealand
+1339612,Usama Mir,6dd8b88c,Pakistan,player,ODI,2023-01-11,New Zealand,Pakistan,New Zealand
+1339613,Agha Salman,89c16049,Pakistan,player,ODI,2023-01-13,Pakistan,New Zealand,New Zealand
+1339613,Babar Azam,8a75e999,Pakistan,player,ODI,2023-01-13,Pakistan,New Zealand,New Zealand
+1339613,Fakhar Zaman,1777c020,Pakistan,player,ODI,2023-01-13,Pakistan,New Zealand,New Zealand
+1339613,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2023-01-13,Pakistan,New Zealand,New Zealand
+1339613,Haris Sohail,7cd0a092,Pakistan,player,ODI,2023-01-13,Pakistan,New Zealand,New Zealand
+1339613,Kamran Ghulam,35f4cf7e,Pakistan,player,ODI,2023-01-13,Pakistan,New Zealand,New Zealand
+1339613,Mohammad Hasnain,8596fe80,Pakistan,player,ODI,2023-01-13,Pakistan,New Zealand,New Zealand
+1339613,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2023-01-13,Pakistan,New Zealand,New Zealand
+1339613,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2023-01-13,Pakistan,New Zealand,New Zealand
+1339613,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2023-01-13,Pakistan,New Zealand,New Zealand
+1339613,Shan Masood,6843a783,Pakistan,player,ODI,2023-01-13,Pakistan,New Zealand,New Zealand
+1339613,Usama Mir,6dd8b88c,Pakistan,player,ODI,2023-01-13,Pakistan,New Zealand,New Zealand
+1339614,Babar Azam,8a75e999,Pakistan,player,T20,2023-04-14,Pakistan,New Zealand,Pakistan
+1339614,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2023-04-14,Pakistan,New Zealand,Pakistan
+1339614,Fakhar Zaman,1777c020,Pakistan,player,T20,2023-04-14,Pakistan,New Zealand,Pakistan
+1339614,Haris Rauf,24bb1c2f,Pakistan,player,T20,2023-04-14,Pakistan,New Zealand,Pakistan
+1339614,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2023-04-14,Pakistan,New Zealand,Pakistan
+1339614,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2023-04-14,Pakistan,New Zealand,Pakistan
+1339614,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2023-04-14,Pakistan,New Zealand,Pakistan
+1339614,Saim Ayub,33609a8c,Pakistan,player,T20,2023-04-14,Pakistan,New Zealand,Pakistan
+1339614,Shadab Khan,9de62878,Pakistan,player,T20,2023-04-14,Pakistan,New Zealand,Pakistan
+1339614,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2023-04-14,Pakistan,New Zealand,Pakistan
+1339614,Zaman Khan,28392e11,Pakistan,player,T20,2023-04-14,Pakistan,New Zealand,Pakistan
+1339615,Babar Azam,8a75e999,Pakistan,player,T20,2023-04-15,Pakistan,New Zealand,Pakistan
+1339615,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2023-04-15,Pakistan,New Zealand,Pakistan
+1339615,Fakhar Zaman,1777c020,Pakistan,player,T20,2023-04-15,Pakistan,New Zealand,Pakistan
+1339615,Haris Rauf,24bb1c2f,Pakistan,player,T20,2023-04-15,Pakistan,New Zealand,Pakistan
+1339615,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2023-04-15,Pakistan,New Zealand,Pakistan
+1339615,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2023-04-15,Pakistan,New Zealand,Pakistan
+1339615,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2023-04-15,Pakistan,New Zealand,Pakistan
+1339615,Saim Ayub,33609a8c,Pakistan,player,T20,2023-04-15,Pakistan,New Zealand,Pakistan
+1339615,Shadab Khan,9de62878,Pakistan,player,T20,2023-04-15,Pakistan,New Zealand,Pakistan
+1339615,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2023-04-15,Pakistan,New Zealand,Pakistan
+1339615,Zaman Khan,28392e11,Pakistan,player,T20,2023-04-15,Pakistan,New Zealand,Pakistan
+1339616,Babar Azam,8a75e999,Pakistan,player,T20,2023-04-17,New Zealand,Pakistan,New Zealand
+1339616,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2023-04-17,New Zealand,Pakistan,New Zealand
+1339616,Fakhar Zaman,1777c020,Pakistan,player,T20,2023-04-17,New Zealand,Pakistan,New Zealand
+1339616,Haris Rauf,24bb1c2f,Pakistan,player,T20,2023-04-17,New Zealand,Pakistan,New Zealand
+1339616,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2023-04-17,New Zealand,Pakistan,New Zealand
+1339616,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2023-04-17,New Zealand,Pakistan,New Zealand
+1339616,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2023-04-17,New Zealand,Pakistan,New Zealand
+1339616,Naseem Shah,9c9af282,Pakistan,player,T20,2023-04-17,New Zealand,Pakistan,New Zealand
+1339616,Saim Ayub,33609a8c,Pakistan,player,T20,2023-04-17,New Zealand,Pakistan,New Zealand
+1339616,Shadab Khan,9de62878,Pakistan,player,T20,2023-04-17,New Zealand,Pakistan,New Zealand
+1339616,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2023-04-17,New Zealand,Pakistan,New Zealand
+1339617,Babar Azam,8a75e999,Pakistan,player,T20,2023-04-20,New Zealand,Pakistan,
+1339617,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2023-04-20,New Zealand,Pakistan,
+1339617,Fakhar Zaman,1777c020,Pakistan,player,T20,2023-04-20,New Zealand,Pakistan,
+1339617,Haris Rauf,24bb1c2f,Pakistan,player,T20,2023-04-20,New Zealand,Pakistan,
+1339617,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2023-04-20,New Zealand,Pakistan,
+1339617,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2023-04-20,New Zealand,Pakistan,
+1339617,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2023-04-20,New Zealand,Pakistan,
+1339617,Saim Ayub,33609a8c,Pakistan,player,T20,2023-04-20,New Zealand,Pakistan,
+1339617,Shadab Khan,9de62878,Pakistan,player,T20,2023-04-20,New Zealand,Pakistan,
+1339617,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2023-04-20,New Zealand,Pakistan,
+1339617,Zaman Khan,28392e11,Pakistan,player,T20,2023-04-20,New Zealand,Pakistan,
+1339618,Babar Azam,8a75e999,Pakistan,player,T20,2023-04-24,Pakistan,New Zealand,New Zealand
+1339618,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2023-04-24,Pakistan,New Zealand,New Zealand
+1339618,Haris Rauf,24bb1c2f,Pakistan,player,T20,2023-04-24,Pakistan,New Zealand,New Zealand
+1339618,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2023-04-24,Pakistan,New Zealand,New Zealand
+1339618,Ihsanullah,c290033d,Pakistan,player,T20,2023-04-24,Pakistan,New Zealand,New Zealand
+1339618,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2023-04-24,Pakistan,New Zealand,New Zealand
+1339618,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2023-04-24,Pakistan,New Zealand,New Zealand
+1339618,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2023-04-24,Pakistan,New Zealand,New Zealand
+1339618,Saim Ayub,33609a8c,Pakistan,player,T20,2023-04-24,Pakistan,New Zealand,New Zealand
+1339618,Shadab Khan,9de62878,Pakistan,player,T20,2023-04-24,Pakistan,New Zealand,New Zealand
+1339618,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2023-04-24,Pakistan,New Zealand,New Zealand
+1339619,Agha Salman,89c16049,Pakistan,player,ODI,2023-04-27,New Zealand,Pakistan,Pakistan
+1339619,Babar Azam,8a75e999,Pakistan,player,ODI,2023-04-27,New Zealand,Pakistan,Pakistan
+1339619,Fakhar Zaman,1777c020,Pakistan,player,ODI,2023-04-27,New Zealand,Pakistan,Pakistan
+1339619,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2023-04-27,New Zealand,Pakistan,Pakistan
+1339619,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2023-04-27,New Zealand,Pakistan,Pakistan
+1339619,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2023-04-27,New Zealand,Pakistan,Pakistan
+1339619,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2023-04-27,New Zealand,Pakistan,Pakistan
+1339619,Naseem Shah,9c9af282,Pakistan,player,ODI,2023-04-27,New Zealand,Pakistan,Pakistan
+1339619,Shadab Khan,9de62878,Pakistan,player,ODI,2023-04-27,New Zealand,Pakistan,Pakistan
+1339619,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2023-04-27,New Zealand,Pakistan,Pakistan
+1339619,Shan Masood,6843a783,Pakistan,player,ODI,2023-04-27,New Zealand,Pakistan,Pakistan
+1339620,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2023-04-29,New Zealand,Pakistan,Pakistan
+1339620,Agha Salman,89c16049,Pakistan,player,ODI,2023-04-29,New Zealand,Pakistan,Pakistan
+1339620,Babar Azam,8a75e999,Pakistan,player,ODI,2023-04-29,New Zealand,Pakistan,Pakistan
+1339620,Fakhar Zaman,1777c020,Pakistan,player,ODI,2023-04-29,New Zealand,Pakistan,Pakistan
+1339620,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2023-04-29,New Zealand,Pakistan,Pakistan
+1339620,Ihsanullah,c290033d,Pakistan,player,ODI,2023-04-29,New Zealand,Pakistan,Pakistan
+1339620,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2023-04-29,New Zealand,Pakistan,Pakistan
+1339620,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2023-04-29,New Zealand,Pakistan,Pakistan
+1339620,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2023-04-29,New Zealand,Pakistan,Pakistan
+1339620,Naseem Shah,9c9af282,Pakistan,player,ODI,2023-04-29,New Zealand,Pakistan,Pakistan
+1339620,Usama Mir,6dd8b88c,Pakistan,player,ODI,2023-04-29,New Zealand,Pakistan,Pakistan
+1339621,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2023-05-03,Pakistan,New Zealand,Pakistan
+1339621,Agha Salman,89c16049,Pakistan,player,ODI,2023-05-03,Pakistan,New Zealand,Pakistan
+1339621,Babar Azam,8a75e999,Pakistan,player,ODI,2023-05-03,Pakistan,New Zealand,Pakistan
+1339621,Fakhar Zaman,1777c020,Pakistan,player,ODI,2023-05-03,Pakistan,New Zealand,Pakistan
+1339621,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2023-05-03,Pakistan,New Zealand,Pakistan
+1339621,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2023-05-03,Pakistan,New Zealand,Pakistan
+1339621,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2023-05-03,Pakistan,New Zealand,Pakistan
+1339621,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2023-05-03,Pakistan,New Zealand,Pakistan
+1339621,Naseem Shah,9c9af282,Pakistan,player,ODI,2023-05-03,Pakistan,New Zealand,Pakistan
+1339621,Shadab Khan,9de62878,Pakistan,player,ODI,2023-05-03,Pakistan,New Zealand,Pakistan
+1339621,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2023-05-03,Pakistan,New Zealand,Pakistan
+1339622,Agha Salman,89c16049,Pakistan,player,ODI,2023-05-05,Pakistan,New Zealand,Pakistan
+1339622,Babar Azam,8a75e999,Pakistan,player,ODI,2023-05-05,Pakistan,New Zealand,Pakistan
+1339622,Fakhar Zaman,1777c020,Pakistan,player,ODI,2023-05-05,Pakistan,New Zealand,Pakistan
+1339622,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2023-05-05,Pakistan,New Zealand,Pakistan
+1339622,Iftikhar Ahmed,29e253dd,Pakistan,player,ODI,2023-05-05,Pakistan,New Zealand,Pakistan
+1339622,Mohammad Haris,ff3f6fc1,Pakistan,player,ODI,2023-05-05,Pakistan,New Zealand,Pakistan
+1339622,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2023-05-05,Pakistan,New Zealand,Pakistan
+1339622,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2023-05-05,Pakistan,New Zealand,Pakistan
+1339622,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2023-05-05,Pakistan,New Zealand,Pakistan
+1339622,Shan Masood,6843a783,Pakistan,player,ODI,2023-05-05,Pakistan,New Zealand,Pakistan
+1339622,Usama Mir,6dd8b88c,Pakistan,player,ODI,2023-05-05,Pakistan,New Zealand,Pakistan
+1339623,Agha Salman,89c16049,Pakistan,player,ODI,2023-05-07,New Zealand,Pakistan,New Zealand
+1339623,Babar Azam,8a75e999,Pakistan,player,ODI,2023-05-07,New Zealand,Pakistan,New Zealand
+1339623,Fakhar Zaman,1777c020,Pakistan,player,ODI,2023-05-07,New Zealand,Pakistan,New Zealand
+1339623,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2023-05-07,New Zealand,Pakistan,New Zealand
+1339623,Iftikhar Ahmed,29e253dd,Pakistan,player,ODI,2023-05-07,New Zealand,Pakistan,New Zealand
+1339623,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2023-05-07,New Zealand,Pakistan,New Zealand
+1339623,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2023-05-07,New Zealand,Pakistan,New Zealand
+1339623,Shadab Khan,9de62878,Pakistan,player,ODI,2023-05-07,New Zealand,Pakistan,New Zealand
+1339623,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2023-05-07,New Zealand,Pakistan,New Zealand
+1339623,Shan Masood,6843a783,Pakistan,player,ODI,2023-05-07,New Zealand,Pakistan,New Zealand
+1339623,Usama Mir,6dd8b88c,Pakistan,player,ODI,2023-05-07,New Zealand,Pakistan,New Zealand
+1388392,Agha Salman,89c16049,Pakistan,player,ODI,2023-08-30,Pakistan,Nepal,Pakistan
+1388392,Babar Azam,8a75e999,Pakistan,player,ODI,2023-08-30,Pakistan,Nepal,Pakistan
+1388392,Fakhar Zaman,1777c020,Pakistan,player,ODI,2023-08-30,Pakistan,Nepal,Pakistan
+1388392,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2023-08-30,Pakistan,Nepal,Pakistan
+1388392,Iftikhar Ahmed,29e253dd,Pakistan,player,ODI,2023-08-30,Pakistan,Nepal,Pakistan
+1388392,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2023-08-30,Pakistan,Nepal,Pakistan
+1388392,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2023-08-30,Pakistan,Nepal,Pakistan
+1388392,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2023-08-30,Pakistan,Nepal,Pakistan
+1388392,Naseem Shah,9c9af282,Pakistan,player,ODI,2023-08-30,Pakistan,Nepal,Pakistan
+1388392,Shadab Khan,9de62878,Pakistan,player,ODI,2023-08-30,Pakistan,Nepal,Pakistan
+1388392,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2023-08-30,Pakistan,Nepal,Pakistan
+1388394,Agha Salman,89c16049,Pakistan,player,ODI,2023-09-02,India,Pakistan,
+1388394,Babar Azam,8a75e999,Pakistan,player,ODI,2023-09-02,India,Pakistan,
+1388394,Fakhar Zaman,1777c020,Pakistan,player,ODI,2023-09-02,India,Pakistan,
+1388394,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2023-09-02,India,Pakistan,
+1388394,Iftikhar Ahmed,29e253dd,Pakistan,player,ODI,2023-09-02,India,Pakistan,
+1388394,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2023-09-02,India,Pakistan,
+1388394,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2023-09-02,India,Pakistan,
+1388394,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2023-09-02,India,Pakistan,
+1388394,Naseem Shah,9c9af282,Pakistan,player,ODI,2023-09-02,India,Pakistan,
+1388394,Shadab Khan,9de62878,Pakistan,player,ODI,2023-09-02,India,Pakistan,
+1388394,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2023-09-02,India,Pakistan,
+1388401,Agha Salman,89c16049,Pakistan,player,ODI,2023-09-06,Bangladesh,Pakistan,Pakistan
+1388401,Babar Azam,8a75e999,Pakistan,player,ODI,2023-09-06,Bangladesh,Pakistan,Pakistan
+1388401,Faheem Ashraf,bd4ea627,Pakistan,player,ODI,2023-09-06,Bangladesh,Pakistan,Pakistan
+1388401,Fakhar Zaman,1777c020,Pakistan,player,ODI,2023-09-06,Bangladesh,Pakistan,Pakistan
+1388401,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2023-09-06,Bangladesh,Pakistan,Pakistan
+1388401,Iftikhar Ahmed,29e253dd,Pakistan,player,ODI,2023-09-06,Bangladesh,Pakistan,Pakistan
+1388401,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2023-09-06,Bangladesh,Pakistan,Pakistan
+1388401,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2023-09-06,Bangladesh,Pakistan,Pakistan
+1388401,Naseem Shah,9c9af282,Pakistan,player,ODI,2023-09-06,Bangladesh,Pakistan,Pakistan
+1388401,Shadab Khan,9de62878,Pakistan,player,ODI,2023-09-06,Bangladesh,Pakistan,Pakistan
+1388401,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2023-09-06,Bangladesh,Pakistan,Pakistan
+1388406,Agha Salman,89c16049,Pakistan,player,ODI,2023-09-10,India,Pakistan,India
+1388406,Babar Azam,8a75e999,Pakistan,player,ODI,2023-09-10,India,Pakistan,India
+1388406,Faheem Ashraf,bd4ea627,Pakistan,player,ODI,2023-09-10,India,Pakistan,India
+1388406,Fakhar Zaman,1777c020,Pakistan,player,ODI,2023-09-10,India,Pakistan,India
+1388406,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2023-09-10,India,Pakistan,India
+1388406,Iftikhar Ahmed,29e253dd,Pakistan,player,ODI,2023-09-10,India,Pakistan,India
+1388406,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2023-09-10,India,Pakistan,India
+1388406,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2023-09-10,India,Pakistan,India
+1388406,Naseem Shah,9c9af282,Pakistan,player,ODI,2023-09-10,India,Pakistan,India
+1388406,Shadab Khan,9de62878,Pakistan,player,ODI,2023-09-10,India,Pakistan,India
+1388406,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2023-09-10,India,Pakistan,India
+1388410,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2023-09-14,Pakistan,Sri Lanka,Sri Lanka
+1388410,Babar Azam,8a75e999,Pakistan,player,ODI,2023-09-14,Pakistan,Sri Lanka,Sri Lanka
+1388410,Fakhar Zaman,1777c020,Pakistan,player,ODI,2023-09-14,Pakistan,Sri Lanka,Sri Lanka
+1388410,Iftikhar Ahmed,29e253dd,Pakistan,player,ODI,2023-09-14,Pakistan,Sri Lanka,Sri Lanka
+1388410,Mohammad Haris,ff3f6fc1,Pakistan,player,ODI,2023-09-14,Pakistan,Sri Lanka,Sri Lanka
+1388410,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2023-09-14,Pakistan,Sri Lanka,Sri Lanka
+1388410,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2023-09-14,Pakistan,Sri Lanka,Sri Lanka
+1388410,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2023-09-14,Pakistan,Sri Lanka,Sri Lanka
+1388410,Shadab Khan,9de62878,Pakistan,player,ODI,2023-09-14,Pakistan,Sri Lanka,Sri Lanka
+1388410,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2023-09-14,Pakistan,Sri Lanka,Sri Lanka
+1388410,Zaman Khan,28392e11,Pakistan,player,ODI,2023-09-14,Pakistan,Sri Lanka,Sri Lanka
+1399114,Aamer Jamal,a8e54ef4,Pakistan,player,T20,2023-10-03,Pakistan,Hong Kong,Pakistan
+1399114,Arafat Minhas,f2e8b37c,Pakistan,player,T20,2023-10-03,Pakistan,Hong Kong,Pakistan
+1399114,Arshad Iqbal,ed031922,Pakistan,player,T20,2023-10-03,Pakistan,Hong Kong,Pakistan
+1399114,Asif Ali,0a4736eb,Pakistan,player,T20,2023-10-03,Pakistan,Hong Kong,Pakistan
+1399114,Haider Ali,c13e34f4,Pakistan,player,T20,2023-10-03,Pakistan,Hong Kong,Pakistan
+1399114,Khushdil Shah,fce581b5,Pakistan,player,T20,2023-10-03,Pakistan,Hong Kong,Pakistan
+1399114,Mirza Baig,96ce6752,Pakistan,player,T20,2023-10-03,Pakistan,Hong Kong,Pakistan
+1399114,Omair Yousuf,f8e3c0f8,Pakistan,player,T20,2023-10-03,Pakistan,Hong Kong,Pakistan
+1399114,Qasim Akram,b6359668,Pakistan,player,T20,2023-10-03,Pakistan,Hong Kong,Pakistan
+1399114,Rohail Nazir,522bea89,Pakistan,player,T20,2023-10-03,Pakistan,Hong Kong,Pakistan
+1399114,Sufiyan Muqeem,4277234d,Pakistan,player,T20,2023-10-03,Pakistan,Hong Kong,Pakistan
+1384393,Babar Azam,8a75e999,Pakistan,player,ODI,2023-10-06,Pakistan,Netherlands,Pakistan
+1384393,Fakhar Zaman,1777c020,Pakistan,player,ODI,2023-10-06,Pakistan,Netherlands,Pakistan
+1384393,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2023-10-06,Pakistan,Netherlands,Pakistan
+1384393,Hasan Ali,2911de16,Pakistan,player,ODI,2023-10-06,Pakistan,Netherlands,Pakistan
+1384393,Iftikhar Ahmed,29e253dd,Pakistan,player,ODI,2023-10-06,Pakistan,Netherlands,Pakistan
+1384393,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2023-10-06,Pakistan,Netherlands,Pakistan
+1384393,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2023-10-06,Pakistan,Netherlands,Pakistan
+1384393,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2023-10-06,Pakistan,Netherlands,Pakistan
+1384393,Saud Shakeel,d07c1b2f,Pakistan,player,ODI,2023-10-06,Pakistan,Netherlands,Pakistan
+1384393,Shadab Khan,9de62878,Pakistan,player,ODI,2023-10-06,Pakistan,Netherlands,Pakistan
+1384393,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2023-10-06,Pakistan,Netherlands,Pakistan
+1399119,Arafat Minhas,f2e8b37c,Pakistan,player,T20,2023-10-07,Pakistan,Bangladesh,Bangladesh
+1399119,Arshad Iqbal,ed031922,Pakistan,player,T20,2023-10-07,Pakistan,Bangladesh,Bangladesh
+1399119,Asif Ali,0a4736eb,Pakistan,player,T20,2023-10-07,Pakistan,Bangladesh,Bangladesh
+1399119,Khushdil Shah,fce581b5,Pakistan,player,T20,2023-10-07,Pakistan,Bangladesh,Bangladesh
+1399119,Mirza Baig,96ce6752,Pakistan,player,T20,2023-10-07,Pakistan,Bangladesh,Bangladesh
+1399119,Mubasir Khan,7264b765,Pakistan,player,T20,2023-10-07,Pakistan,Bangladesh,Bangladesh
+1399119,Omair Yousuf,f8e3c0f8,Pakistan,player,T20,2023-10-07,Pakistan,Bangladesh,Bangladesh
+1399119,Qasim Akram,b6359668,Pakistan,player,T20,2023-10-07,Pakistan,Bangladesh,Bangladesh
+1399119,Rohail Nazir,522bea89,Pakistan,player,T20,2023-10-07,Pakistan,Bangladesh,Bangladesh
+1399119,Sufiyan Muqeem,4277234d,Pakistan,player,T20,2023-10-07,Pakistan,Bangladesh,Bangladesh
+1399119,Usman Qadir,33742f04,Pakistan,player,T20,2023-10-07,Pakistan,Bangladesh,Bangladesh
+1384399,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2023-10-10,Sri Lanka,Pakistan,Pakistan
+1384399,Babar Azam,8a75e999,Pakistan,player,ODI,2023-10-10,Sri Lanka,Pakistan,Pakistan
+1384399,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2023-10-10,Sri Lanka,Pakistan,Pakistan
+1384399,Hasan Ali,2911de16,Pakistan,player,ODI,2023-10-10,Sri Lanka,Pakistan,Pakistan
+1384399,Iftikhar Ahmed,29e253dd,Pakistan,player,ODI,2023-10-10,Sri Lanka,Pakistan,Pakistan
+1384399,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2023-10-10,Sri Lanka,Pakistan,Pakistan
+1384399,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2023-10-10,Sri Lanka,Pakistan,Pakistan
+1384399,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2023-10-10,Sri Lanka,Pakistan,Pakistan
+1384399,Saud Shakeel,d07c1b2f,Pakistan,player,ODI,2023-10-10,Sri Lanka,Pakistan,Pakistan
+1384399,Shadab Khan,9de62878,Pakistan,player,ODI,2023-10-10,Sri Lanka,Pakistan,Pakistan
+1384399,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2023-10-10,Sri Lanka,Pakistan,Pakistan
+1384403,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2023-10-14,Pakistan,India,India
+1384403,Babar Azam,8a75e999,Pakistan,player,ODI,2023-10-14,Pakistan,India,India
+1384403,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2023-10-14,Pakistan,India,India
+1384403,Hasan Ali,2911de16,Pakistan,player,ODI,2023-10-14,Pakistan,India,India
+1384403,Iftikhar Ahmed,29e253dd,Pakistan,player,ODI,2023-10-14,Pakistan,India,India
+1384403,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2023-10-14,Pakistan,India,India
+1384403,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2023-10-14,Pakistan,India,India
+1384403,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2023-10-14,Pakistan,India,India
+1384403,Saud Shakeel,d07c1b2f,Pakistan,player,ODI,2023-10-14,Pakistan,India,India
+1384403,Shadab Khan,9de62878,Pakistan,player,ODI,2023-10-14,Pakistan,India,India
+1384403,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2023-10-14,Pakistan,India,India
+1384409,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2023-10-20,Australia,Pakistan,Australia
+1384409,Babar Azam,8a75e999,Pakistan,player,ODI,2023-10-20,Australia,Pakistan,Australia
+1384409,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2023-10-20,Australia,Pakistan,Australia
+1384409,Hasan Ali,2911de16,Pakistan,player,ODI,2023-10-20,Australia,Pakistan,Australia
+1384409,Iftikhar Ahmed,29e253dd,Pakistan,player,ODI,2023-10-20,Australia,Pakistan,Australia
+1384409,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2023-10-20,Australia,Pakistan,Australia
+1384409,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2023-10-20,Australia,Pakistan,Australia
+1384409,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2023-10-20,Australia,Pakistan,Australia
+1384409,Saud Shakeel,d07c1b2f,Pakistan,player,ODI,2023-10-20,Australia,Pakistan,Australia
+1384409,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2023-10-20,Australia,Pakistan,Australia
+1384409,Usama Mir,6dd8b88c,Pakistan,player,ODI,2023-10-20,Australia,Pakistan,Australia
+1384417,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2023-10-27,Pakistan,South Africa,South Africa
+1384417,Babar Azam,8a75e999,Pakistan,player,ODI,2023-10-27,Pakistan,South Africa,South Africa
+1384417,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2023-10-27,Pakistan,South Africa,South Africa
+1384417,Iftikhar Ahmed,29e253dd,Pakistan,player,ODI,2023-10-27,Pakistan,South Africa,South Africa
+1384417,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2023-10-27,Pakistan,South Africa,South Africa
+1384417,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2023-10-27,Pakistan,South Africa,South Africa
+1384417,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2023-10-27,Pakistan,South Africa,South Africa
+1384417,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2023-10-27,Pakistan,South Africa,South Africa
+1384417,Saud Shakeel,d07c1b2f,Pakistan,player,ODI,2023-10-27,Pakistan,South Africa,South Africa
+1384417,Shadab Khan,9de62878,Pakistan,player,ODI,2023-10-27,Pakistan,South Africa,South Africa
+1384417,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2023-10-27,Pakistan,South Africa,South Africa
+1384417,Usama Mir,6dd8b88c,Pakistan,player,ODI,2023-10-27,Pakistan,South Africa,South Africa
+1384422,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2023-10-31,Bangladesh,Pakistan,Pakistan
+1384422,Agha Salman,89c16049,Pakistan,player,ODI,2023-10-31,Bangladesh,Pakistan,Pakistan
+1384422,Babar Azam,8a75e999,Pakistan,player,ODI,2023-10-31,Bangladesh,Pakistan,Pakistan
+1384422,Fakhar Zaman,1777c020,Pakistan,player,ODI,2023-10-31,Bangladesh,Pakistan,Pakistan
+1384422,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2023-10-31,Bangladesh,Pakistan,Pakistan
+1384422,Iftikhar Ahmed,29e253dd,Pakistan,player,ODI,2023-10-31,Bangladesh,Pakistan,Pakistan
+1384422,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2023-10-31,Bangladesh,Pakistan,Pakistan
+1384422,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2023-10-31,Bangladesh,Pakistan,Pakistan
+1384422,Saud Shakeel,d07c1b2f,Pakistan,player,ODI,2023-10-31,Bangladesh,Pakistan,Pakistan
+1384422,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2023-10-31,Bangladesh,Pakistan,Pakistan
+1384422,Usama Mir,6dd8b88c,Pakistan,player,ODI,2023-10-31,Bangladesh,Pakistan,Pakistan
+1384426,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2023-11-04,New Zealand,Pakistan,Pakistan
+1384426,Agha Salman,89c16049,Pakistan,player,ODI,2023-11-04,New Zealand,Pakistan,Pakistan
+1384426,Babar Azam,8a75e999,Pakistan,player,ODI,2023-11-04,New Zealand,Pakistan,Pakistan
+1384426,Fakhar Zaman,1777c020,Pakistan,player,ODI,2023-11-04,New Zealand,Pakistan,Pakistan
+1384426,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2023-11-04,New Zealand,Pakistan,Pakistan
+1384426,Hasan Ali,2911de16,Pakistan,player,ODI,2023-11-04,New Zealand,Pakistan,Pakistan
+1384426,Iftikhar Ahmed,29e253dd,Pakistan,player,ODI,2023-11-04,New Zealand,Pakistan,Pakistan
+1384426,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2023-11-04,New Zealand,Pakistan,Pakistan
+1384426,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2023-11-04,New Zealand,Pakistan,Pakistan
+1384426,Saud Shakeel,d07c1b2f,Pakistan,player,ODI,2023-11-04,New Zealand,Pakistan,Pakistan
+1384426,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2023-11-04,New Zealand,Pakistan,Pakistan
+1384435,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2023-11-11,England,Pakistan,England
+1384435,Agha Salman,89c16049,Pakistan,player,ODI,2023-11-11,England,Pakistan,England
+1384435,Babar Azam,8a75e999,Pakistan,player,ODI,2023-11-11,England,Pakistan,England
+1384435,Fakhar Zaman,1777c020,Pakistan,player,ODI,2023-11-11,England,Pakistan,England
+1384435,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2023-11-11,England,Pakistan,England
+1384435,Iftikhar Ahmed,29e253dd,Pakistan,player,ODI,2023-11-11,England,Pakistan,England
+1384435,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2023-11-11,England,Pakistan,England
+1384435,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2023-11-11,England,Pakistan,England
+1384435,Saud Shakeel,d07c1b2f,Pakistan,player,ODI,2023-11-11,England,Pakistan,England
+1384435,Shadab Khan,9de62878,Pakistan,player,ODI,2023-11-11,England,Pakistan,England
+1384435,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2023-11-11,England,Pakistan,England
+1388216,Aamer Jamal,a8e54ef4,Pakistan,player,T20,2024-01-12,New Zealand,Pakistan,New Zealand
+1388216,Abbas Afridi,2cec2a92,Pakistan,player,T20,2024-01-12,New Zealand,Pakistan,New Zealand
+1388216,Azam Khan,ee8f1a6d,Pakistan,player,T20,2024-01-12,New Zealand,Pakistan,New Zealand
+1388216,Babar Azam,8a75e999,Pakistan,player,T20,2024-01-12,New Zealand,Pakistan,New Zealand
+1388216,Fakhar Zaman,1777c020,Pakistan,player,T20,2024-01-12,New Zealand,Pakistan,New Zealand
+1388216,Haris Rauf,24bb1c2f,Pakistan,player,T20,2024-01-12,New Zealand,Pakistan,New Zealand
+1388216,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2024-01-12,New Zealand,Pakistan,New Zealand
+1388216,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2024-01-12,New Zealand,Pakistan,New Zealand
+1388216,Saim Ayub,33609a8c,Pakistan,player,T20,2024-01-12,New Zealand,Pakistan,New Zealand
+1388216,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-01-12,New Zealand,Pakistan,New Zealand
+1388216,Usama Mir,6dd8b88c,Pakistan,player,T20,2024-01-12,New Zealand,Pakistan,New Zealand
+1388217,Aamer Jamal,a8e54ef4,Pakistan,player,T20,2024-01-14,New Zealand,Pakistan,New Zealand
+1388217,Abbas Afridi,2cec2a92,Pakistan,player,T20,2024-01-14,New Zealand,Pakistan,New Zealand
+1388217,Azam Khan,ee8f1a6d,Pakistan,player,T20,2024-01-14,New Zealand,Pakistan,New Zealand
+1388217,Babar Azam,8a75e999,Pakistan,player,T20,2024-01-14,New Zealand,Pakistan,New Zealand
+1388217,Fakhar Zaman,1777c020,Pakistan,player,T20,2024-01-14,New Zealand,Pakistan,New Zealand
+1388217,Haris Rauf,24bb1c2f,Pakistan,player,T20,2024-01-14,New Zealand,Pakistan,New Zealand
+1388217,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2024-01-14,New Zealand,Pakistan,New Zealand
+1388217,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2024-01-14,New Zealand,Pakistan,New Zealand
+1388217,Saim Ayub,33609a8c,Pakistan,player,T20,2024-01-14,New Zealand,Pakistan,New Zealand
+1388217,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-01-14,New Zealand,Pakistan,New Zealand
+1388217,Usama Mir,6dd8b88c,Pakistan,player,T20,2024-01-14,New Zealand,Pakistan,New Zealand
+1388218,Azam Khan,ee8f1a6d,Pakistan,player,T20,2024-01-17,New Zealand,Pakistan,New Zealand
+1388218,Babar Azam,8a75e999,Pakistan,player,T20,2024-01-17,New Zealand,Pakistan,New Zealand
+1388218,Fakhar Zaman,1777c020,Pakistan,player,T20,2024-01-17,New Zealand,Pakistan,New Zealand
+1388218,Haris Rauf,24bb1c2f,Pakistan,player,T20,2024-01-17,New Zealand,Pakistan,New Zealand
+1388218,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2024-01-17,New Zealand,Pakistan,New Zealand
+1388218,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2024-01-17,New Zealand,Pakistan,New Zealand
+1388218,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2024-01-17,New Zealand,Pakistan,New Zealand
+1388218,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2024-01-17,New Zealand,Pakistan,New Zealand
+1388218,Saim Ayub,33609a8c,Pakistan,player,T20,2024-01-17,New Zealand,Pakistan,New Zealand
+1388218,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-01-17,New Zealand,Pakistan,New Zealand
+1388218,Zaman Khan,28392e11,Pakistan,player,T20,2024-01-17,New Zealand,Pakistan,New Zealand
+1388219,Babar Azam,8a75e999,Pakistan,player,T20,2024-01-19,Pakistan,New Zealand,New Zealand
+1388219,Fakhar Zaman,1777c020,Pakistan,player,T20,2024-01-19,Pakistan,New Zealand,New Zealand
+1388219,Haris Rauf,24bb1c2f,Pakistan,player,T20,2024-01-19,Pakistan,New Zealand,New Zealand
+1388219,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2024-01-19,Pakistan,New Zealand,New Zealand
+1388219,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2024-01-19,Pakistan,New Zealand,New Zealand
+1388219,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2024-01-19,Pakistan,New Zealand,New Zealand
+1388219,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2024-01-19,Pakistan,New Zealand,New Zealand
+1388219,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2024-01-19,Pakistan,New Zealand,New Zealand
+1388219,Saim Ayub,33609a8c,Pakistan,player,T20,2024-01-19,Pakistan,New Zealand,New Zealand
+1388219,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-01-19,Pakistan,New Zealand,New Zealand
+1388219,Zaman Khan,28392e11,Pakistan,player,T20,2024-01-19,Pakistan,New Zealand,New Zealand
+1388220,Abbas Afridi,2cec2a92,Pakistan,player,T20,2024-01-21,Pakistan,New Zealand,Pakistan
+1388220,Babar Azam,8a75e999,Pakistan,player,T20,2024-01-21,Pakistan,New Zealand,Pakistan
+1388220,Fakhar Zaman,1777c020,Pakistan,player,T20,2024-01-21,Pakistan,New Zealand,Pakistan
+1388220,Haseebullah Khan,5691931a,Pakistan,player,T20,2024-01-21,Pakistan,New Zealand,Pakistan
+1388220,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2024-01-21,Pakistan,New Zealand,Pakistan
+1388220,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2024-01-21,Pakistan,New Zealand,Pakistan
+1388220,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2024-01-21,Pakistan,New Zealand,Pakistan
+1388220,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2024-01-21,Pakistan,New Zealand,Pakistan
+1388220,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-01-21,Pakistan,New Zealand,Pakistan
+1388220,Usama Mir,6dd8b88c,Pakistan,player,T20,2024-01-21,Pakistan,New Zealand,Pakistan
+1388220,Zaman Khan,28392e11,Pakistan,player,T20,2024-01-21,Pakistan,New Zealand,Pakistan
+1424829,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2024-04-18,New Zealand,Pakistan,
+1424829,Babar Azam,8a75e999,Pakistan,player,T20,2024-04-18,New Zealand,Pakistan,
+1424829,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2024-04-18,New Zealand,Pakistan,
+1424829,Irfan Khan,ee95065d,Pakistan,player,T20,2024-04-18,New Zealand,Pakistan,
+1424829,Mohammad Amir,e174dadd,Pakistan,player,T20,2024-04-18,New Zealand,Pakistan,
+1424829,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2024-04-18,New Zealand,Pakistan,
+1424829,Naseem Shah,9c9af282,Pakistan,player,T20,2024-04-18,New Zealand,Pakistan,
+1424829,Saim Ayub,33609a8c,Pakistan,player,T20,2024-04-18,New Zealand,Pakistan,
+1424829,Shadab Khan,9de62878,Pakistan,player,T20,2024-04-18,New Zealand,Pakistan,
+1424829,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-04-18,New Zealand,Pakistan,
+1424829,Usman Khan,bafb9238,Pakistan,player,T20,2024-04-18,New Zealand,Pakistan,
+1424830,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2024-04-20,New Zealand,Pakistan,Pakistan
+1424830,Babar Azam,8a75e999,Pakistan,player,T20,2024-04-20,New Zealand,Pakistan,Pakistan
+1424830,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2024-04-20,New Zealand,Pakistan,Pakistan
+1424830,Irfan Khan,ee95065d,Pakistan,player,T20,2024-04-20,New Zealand,Pakistan,Pakistan
+1424830,Mohammad Amir,e174dadd,Pakistan,player,T20,2024-04-20,New Zealand,Pakistan,Pakistan
+1424830,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2024-04-20,New Zealand,Pakistan,Pakistan
+1424830,Naseem Shah,9c9af282,Pakistan,player,T20,2024-04-20,New Zealand,Pakistan,Pakistan
+1424830,Saim Ayub,33609a8c,Pakistan,player,T20,2024-04-20,New Zealand,Pakistan,Pakistan
+1424830,Shadab Khan,9de62878,Pakistan,player,T20,2024-04-20,New Zealand,Pakistan,Pakistan
+1424830,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-04-20,New Zealand,Pakistan,Pakistan
+1424830,Usman Khan,bafb9238,Pakistan,player,T20,2024-04-20,New Zealand,Pakistan,Pakistan
+1424831,Abbas Afridi,2cec2a92,Pakistan,player,T20,2024-04-21,Pakistan,New Zealand,New Zealand
+1424831,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2024-04-21,Pakistan,New Zealand,New Zealand
+1424831,Babar Azam,8a75e999,Pakistan,player,T20,2024-04-21,Pakistan,New Zealand,New Zealand
+1424831,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2024-04-21,Pakistan,New Zealand,New Zealand
+1424831,Irfan Khan,ee95065d,Pakistan,player,T20,2024-04-21,Pakistan,New Zealand,New Zealand
+1424831,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2024-04-21,Pakistan,New Zealand,New Zealand
+1424831,Naseem Shah,9c9af282,Pakistan,player,T20,2024-04-21,Pakistan,New Zealand,New Zealand
+1424831,Saim Ayub,33609a8c,Pakistan,player,T20,2024-04-21,Pakistan,New Zealand,New Zealand
+1424831,Shadab Khan,9de62878,Pakistan,player,T20,2024-04-21,Pakistan,New Zealand,New Zealand
+1424831,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-04-21,Pakistan,New Zealand,New Zealand
+1424831,Usman Khan,bafb9238,Pakistan,player,T20,2024-04-21,Pakistan,New Zealand,New Zealand
+1424832,Abbas Afridi,2cec2a92,Pakistan,player,T20,2024-04-25,New Zealand,Pakistan,New Zealand
+1424832,Babar Azam,8a75e999,Pakistan,player,T20,2024-04-25,New Zealand,Pakistan,New Zealand
+1424832,Fakhar Zaman,1777c020,Pakistan,player,T20,2024-04-25,New Zealand,Pakistan,New Zealand
+1424832,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2024-04-25,New Zealand,Pakistan,New Zealand
+1424832,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2024-04-25,New Zealand,Pakistan,New Zealand
+1424832,Mohammad Amir,e174dadd,Pakistan,player,T20,2024-04-25,New Zealand,Pakistan,New Zealand
+1424832,Saim Ayub,33609a8c,Pakistan,player,T20,2024-04-25,New Zealand,Pakistan,New Zealand
+1424832,Shadab Khan,9de62878,Pakistan,player,T20,2024-04-25,New Zealand,Pakistan,New Zealand
+1424832,Usama Mir,6dd8b88c,Pakistan,player,T20,2024-04-25,New Zealand,Pakistan,New Zealand
+1424832,Usman Khan,bafb9238,Pakistan,player,T20,2024-04-25,New Zealand,Pakistan,New Zealand
+1424832,Zaman Khan,28392e11,Pakistan,player,T20,2024-04-25,New Zealand,Pakistan,New Zealand
+1424833,Abbas Afridi,2cec2a92,Pakistan,player,T20,2024-04-27,Pakistan,New Zealand,Pakistan
+1424833,Babar Azam,8a75e999,Pakistan,player,T20,2024-04-27,Pakistan,New Zealand,Pakistan
+1424833,Fakhar Zaman,1777c020,Pakistan,player,T20,2024-04-27,Pakistan,New Zealand,Pakistan
+1424833,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2024-04-27,Pakistan,New Zealand,Pakistan
+1424833,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2024-04-27,Pakistan,New Zealand,Pakistan
+1424833,Mohammad Amir,e174dadd,Pakistan,player,T20,2024-04-27,Pakistan,New Zealand,Pakistan
+1424833,Saim Ayub,33609a8c,Pakistan,player,T20,2024-04-27,Pakistan,New Zealand,Pakistan
+1424833,Shadab Khan,9de62878,Pakistan,player,T20,2024-04-27,Pakistan,New Zealand,Pakistan
+1424833,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-04-27,Pakistan,New Zealand,Pakistan
+1424833,Usama Mir,6dd8b88c,Pakistan,player,T20,2024-04-27,Pakistan,New Zealand,Pakistan
+1424833,Usman Khan,bafb9238,Pakistan,player,T20,2024-04-27,Pakistan,New Zealand,Pakistan
+1426830,Abbas Afridi,2cec2a92,Pakistan,player,T20,2024-05-10,Pakistan,Ireland,Ireland
+1426830,Azam Khan,ee8f1a6d,Pakistan,player,T20,2024-05-10,Pakistan,Ireland,Ireland
+1426830,Babar Azam,8a75e999,Pakistan,player,T20,2024-05-10,Pakistan,Ireland,Ireland
+1426830,Fakhar Zaman,1777c020,Pakistan,player,T20,2024-05-10,Pakistan,Ireland,Ireland
+1426830,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2024-05-10,Pakistan,Ireland,Ireland
+1426830,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2024-05-10,Pakistan,Ireland,Ireland
+1426830,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2024-05-10,Pakistan,Ireland,Ireland
+1426830,Naseem Shah,9c9af282,Pakistan,player,T20,2024-05-10,Pakistan,Ireland,Ireland
+1426830,Saim Ayub,33609a8c,Pakistan,player,T20,2024-05-10,Pakistan,Ireland,Ireland
+1426830,Shadab Khan,9de62878,Pakistan,player,T20,2024-05-10,Pakistan,Ireland,Ireland
+1426830,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-05-10,Pakistan,Ireland,Ireland
+1426831,Abbas Afridi,2cec2a92,Pakistan,player,T20,2024-05-12,Ireland,Pakistan,Pakistan
+1426831,Azam Khan,ee8f1a6d,Pakistan,player,T20,2024-05-12,Ireland,Pakistan,Pakistan
+1426831,Babar Azam,8a75e999,Pakistan,player,T20,2024-05-12,Ireland,Pakistan,Pakistan
+1426831,Fakhar Zaman,1777c020,Pakistan,player,T20,2024-05-12,Ireland,Pakistan,Pakistan
+1426831,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2024-05-12,Ireland,Pakistan,Pakistan
+1426831,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2024-05-12,Ireland,Pakistan,Pakistan
+1426831,Mohammad Amir,e174dadd,Pakistan,player,T20,2024-05-12,Ireland,Pakistan,Pakistan
+1426831,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2024-05-12,Ireland,Pakistan,Pakistan
+1426831,Naseem Shah,9c9af282,Pakistan,player,T20,2024-05-12,Ireland,Pakistan,Pakistan
+1426831,Saim Ayub,33609a8c,Pakistan,player,T20,2024-05-12,Ireland,Pakistan,Pakistan
+1426831,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-05-12,Ireland,Pakistan,Pakistan
+1426832,Abbas Afridi,2cec2a92,Pakistan,player,T20,2024-05-14,Ireland,Pakistan,Pakistan
+1426832,Azam Khan,ee8f1a6d,Pakistan,player,T20,2024-05-14,Ireland,Pakistan,Pakistan
+1426832,Babar Azam,8a75e999,Pakistan,player,T20,2024-05-14,Ireland,Pakistan,Pakistan
+1426832,Fakhar Zaman,1777c020,Pakistan,player,T20,2024-05-14,Ireland,Pakistan,Pakistan
+1426832,Hasan Ali,2911de16,Pakistan,player,T20,2024-05-14,Ireland,Pakistan,Pakistan
+1426832,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2024-05-14,Ireland,Pakistan,Pakistan
+1426832,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2024-05-14,Ireland,Pakistan,Pakistan
+1426832,Mohammad Amir,e174dadd,Pakistan,player,T20,2024-05-14,Ireland,Pakistan,Pakistan
+1426832,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2024-05-14,Ireland,Pakistan,Pakistan
+1426832,Saim Ayub,33609a8c,Pakistan,player,T20,2024-05-14,Ireland,Pakistan,Pakistan
+1426832,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-05-14,Ireland,Pakistan,Pakistan
+1385688,Azam Khan,ee8f1a6d,Pakistan,player,T20,2024-05-25,England,Pakistan,England
+1385688,Babar Azam,8a75e999,Pakistan,player,T20,2024-05-25,England,Pakistan,England
+1385688,Fakhar Zaman,1777c020,Pakistan,player,T20,2024-05-25,England,Pakistan,England
+1385688,Haris Rauf,24bb1c2f,Pakistan,player,T20,2024-05-25,England,Pakistan,England
+1385688,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2024-05-25,England,Pakistan,England
+1385688,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2024-05-25,England,Pakistan,England
+1385688,Mohammad Amir,e174dadd,Pakistan,player,T20,2024-05-25,England,Pakistan,England
+1385688,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2024-05-25,England,Pakistan,England
+1385688,Saim Ayub,33609a8c,Pakistan,player,T20,2024-05-25,England,Pakistan,England
+1385688,Shadab Khan,9de62878,Pakistan,player,T20,2024-05-25,England,Pakistan,England
+1385688,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-05-25,England,Pakistan,England
+1385690,Azam Khan,ee8f1a6d,Pakistan,player,T20,2024-05-30,Pakistan,England,England
+1385690,Babar Azam,8a75e999,Pakistan,player,T20,2024-05-30,Pakistan,England,England
+1385690,Fakhar Zaman,1777c020,Pakistan,player,T20,2024-05-30,Pakistan,England,England
+1385690,Haris Rauf,24bb1c2f,Pakistan,player,T20,2024-05-30,Pakistan,England,England
+1385690,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2024-05-30,Pakistan,England,England
+1385690,Mohammad Amir,e174dadd,Pakistan,player,T20,2024-05-30,Pakistan,England,England
+1385690,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2024-05-30,Pakistan,England,England
+1385690,Naseem Shah,9c9af282,Pakistan,player,T20,2024-05-30,Pakistan,England,England
+1385690,Shadab Khan,9de62878,Pakistan,player,T20,2024-05-30,Pakistan,England,England
+1385690,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-05-30,Pakistan,England,England
+1385690,Usman Khan,bafb9238,Pakistan,player,T20,2024-05-30,Pakistan,England,England
+1415711,Azam Khan,ee8f1a6d,Pakistan,player,T20,2024-06-06,Pakistan,United States of America,
+1415711,Babar Azam,8a75e999,Pakistan,player,T20,2024-06-06,Pakistan,United States of America,
+1415711,Fakhar Zaman,1777c020,Pakistan,player,T20,2024-06-06,Pakistan,United States of America,
+1415711,Haris Rauf,24bb1c2f,Pakistan,player,T20,2024-06-06,Pakistan,United States of America,
+1415711,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2024-06-06,Pakistan,United States of America,
+1415711,Mohammad Amir,e174dadd,Pakistan,player,T20,2024-06-06,Pakistan,United States of America,
+1415711,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2024-06-06,Pakistan,United States of America,
+1415711,Naseem Shah,9c9af282,Pakistan,player,T20,2024-06-06,Pakistan,United States of America,
+1415711,Shadab Khan,9de62878,Pakistan,player,T20,2024-06-06,Pakistan,United States of America,
+1415711,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-06-06,Pakistan,United States of America,
+1415711,Usman Khan,bafb9238,Pakistan,player,T20,2024-06-06,Pakistan,United States of America,
+1415719,Babar Azam,8a75e999,Pakistan,player,T20,2024-06-09,India,Pakistan,India
+1415719,Fakhar Zaman,1777c020,Pakistan,player,T20,2024-06-09,India,Pakistan,India
+1415719,Haris Rauf,24bb1c2f,Pakistan,player,T20,2024-06-09,India,Pakistan,India
+1415719,Iftikhar Ahmed,29e253dd,Pakistan,player,T20,2024-06-09,India,Pakistan,India
+1415719,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2024-06-09,India,Pakistan,India
+1415719,Mohammad Amir,e174dadd,Pakistan,player,T20,2024-06-09,India,Pakistan,India
+1415719,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2024-06-09,India,Pakistan,India
+1415719,Naseem Shah,9c9af282,Pakistan,player,T20,2024-06-09,India,Pakistan,India
+1415719,Shadab Khan,9de62878,Pakistan,player,T20,2024-06-09,India,Pakistan,India
+1415719,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-06-09,India,Pakistan,India
+1415719,Usman Khan,bafb9238,Pakistan,player,T20,2024-06-09,India,Pakistan,India
+1415722,Babar Azam,8a75e999,Pakistan,player,T20,2024-06-11,Canada,Pakistan,Pakistan
+1415722,Fakhar Zaman,1777c020,Pakistan,player,T20,2024-06-11,Canada,Pakistan,Pakistan
+1415722,Haris Rauf,24bb1c2f,Pakistan,player,T20,2024-06-11,Canada,Pakistan,Pakistan
+1415722,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2024-06-11,Canada,Pakistan,Pakistan
+1415722,Mohammad Amir,e174dadd,Pakistan,player,T20,2024-06-11,Canada,Pakistan,Pakistan
+1415722,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2024-06-11,Canada,Pakistan,Pakistan
+1415722,Naseem Shah,9c9af282,Pakistan,player,T20,2024-06-11,Canada,Pakistan,Pakistan
+1415722,Saim Ayub,33609a8c,Pakistan,player,T20,2024-06-11,Canada,Pakistan,Pakistan
+1415722,Shadab Khan,9de62878,Pakistan,player,T20,2024-06-11,Canada,Pakistan,Pakistan
+1415722,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-06-11,Canada,Pakistan,Pakistan
+1415722,Usman Khan,bafb9238,Pakistan,player,T20,2024-06-11,Canada,Pakistan,Pakistan
+1415736,Abbas Afridi,2cec2a92,Pakistan,player,T20,2024-06-16,Ireland,Pakistan,Pakistan
+1415736,Babar Azam,8a75e999,Pakistan,player,T20,2024-06-16,Ireland,Pakistan,Pakistan
+1415736,Fakhar Zaman,1777c020,Pakistan,player,T20,2024-06-16,Ireland,Pakistan,Pakistan
+1415736,Haris Rauf,24bb1c2f,Pakistan,player,T20,2024-06-16,Ireland,Pakistan,Pakistan
+1415736,Imad Wasim,9cb8d7a6,Pakistan,player,T20,2024-06-16,Ireland,Pakistan,Pakistan
+1415736,Mohammad Amir,e174dadd,Pakistan,player,T20,2024-06-16,Ireland,Pakistan,Pakistan
+1415736,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2024-06-16,Ireland,Pakistan,Pakistan
+1415736,Saim Ayub,33609a8c,Pakistan,player,T20,2024-06-16,Ireland,Pakistan,Pakistan
+1415736,Shadab Khan,9de62878,Pakistan,player,T20,2024-06-16,Ireland,Pakistan,Pakistan
+1415736,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-06-16,Ireland,Pakistan,Pakistan
+1415736,Usman Khan,bafb9238,Pakistan,player,T20,2024-06-16,Ireland,Pakistan,Pakistan
+1426549,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2024-11-04,Pakistan,Australia,Australia
+1426549,Agha Salman,89c16049,Pakistan,player,ODI,2024-11-04,Pakistan,Australia,Australia
+1426549,Babar Azam,8a75e999,Pakistan,player,ODI,2024-11-04,Pakistan,Australia,Australia
+1426549,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2024-11-04,Pakistan,Australia,Australia
+1426549,Irfan Khan,ee95065d,Pakistan,player,ODI,2024-11-04,Pakistan,Australia,Australia
+1426549,Kamran Ghulam,35f4cf7e,Pakistan,player,ODI,2024-11-04,Pakistan,Australia,Australia
+1426549,Mohammad Hasnain,8596fe80,Pakistan,player,ODI,2024-11-04,Pakistan,Australia,Australia
+1426549,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2024-11-04,Pakistan,Australia,Australia
+1426549,Naseem Shah,9c9af282,Pakistan,player,ODI,2024-11-04,Pakistan,Australia,Australia
+1426549,Saim Ayub,33609a8c,Pakistan,player,ODI,2024-11-04,Pakistan,Australia,Australia
+1426549,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2024-11-04,Pakistan,Australia,Australia
+1426550,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2024-11-08,Australia,Pakistan,Pakistan
+1426550,Agha Salman,89c16049,Pakistan,player,ODI,2024-11-08,Australia,Pakistan,Pakistan
+1426550,Babar Azam,8a75e999,Pakistan,player,ODI,2024-11-08,Australia,Pakistan,Pakistan
+1426550,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2024-11-08,Australia,Pakistan,Pakistan
+1426550,Irfan Khan,ee95065d,Pakistan,player,ODI,2024-11-08,Australia,Pakistan,Pakistan
+1426550,Kamran Ghulam,35f4cf7e,Pakistan,player,ODI,2024-11-08,Australia,Pakistan,Pakistan
+1426550,Mohammad Hasnain,8596fe80,Pakistan,player,ODI,2024-11-08,Australia,Pakistan,Pakistan
+1426550,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2024-11-08,Australia,Pakistan,Pakistan
+1426550,Naseem Shah,9c9af282,Pakistan,player,ODI,2024-11-08,Australia,Pakistan,Pakistan
+1426550,Saim Ayub,33609a8c,Pakistan,player,ODI,2024-11-08,Australia,Pakistan,Pakistan
+1426550,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2024-11-08,Australia,Pakistan,Pakistan
+1426551,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2024-11-10,Australia,Pakistan,Pakistan
+1426551,Agha Salman,89c16049,Pakistan,player,ODI,2024-11-10,Australia,Pakistan,Pakistan
+1426551,Babar Azam,8a75e999,Pakistan,player,ODI,2024-11-10,Australia,Pakistan,Pakistan
+1426551,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2024-11-10,Australia,Pakistan,Pakistan
+1426551,Irfan Khan,ee95065d,Pakistan,player,ODI,2024-11-10,Australia,Pakistan,Pakistan
+1426551,Kamran Ghulam,35f4cf7e,Pakistan,player,ODI,2024-11-10,Australia,Pakistan,Pakistan
+1426551,Mohammad Hasnain,8596fe80,Pakistan,player,ODI,2024-11-10,Australia,Pakistan,Pakistan
+1426551,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2024-11-10,Australia,Pakistan,Pakistan
+1426551,Naseem Shah,9c9af282,Pakistan,player,ODI,2024-11-10,Australia,Pakistan,Pakistan
+1426551,Saim Ayub,33609a8c,Pakistan,player,ODI,2024-11-10,Australia,Pakistan,Pakistan
+1426551,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2024-11-10,Australia,Pakistan,Pakistan
+1426552,Abbas Afridi,2cec2a92,Pakistan,player,T20,2024-11-14,Australia,Pakistan,Australia
+1426552,Agha Salman,89c16049,Pakistan,player,T20,2024-11-14,Australia,Pakistan,Australia
+1426552,Babar Azam,8a75e999,Pakistan,player,T20,2024-11-14,Australia,Pakistan,Australia
+1426552,Haris Rauf,24bb1c2f,Pakistan,player,T20,2024-11-14,Australia,Pakistan,Australia
+1426552,Haseebullah Khan,5691931a,Pakistan,player,T20,2024-11-14,Australia,Pakistan,Australia
+1426552,Irfan Khan,ee95065d,Pakistan,player,T20,2024-11-14,Australia,Pakistan,Australia
+1426552,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2024-11-14,Australia,Pakistan,Australia
+1426552,Naseem Shah,9c9af282,Pakistan,player,T20,2024-11-14,Australia,Pakistan,Australia
+1426552,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2024-11-14,Australia,Pakistan,Australia
+1426552,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-11-14,Australia,Pakistan,Australia
+1426552,Usman Khan,bafb9238,Pakistan,player,T20,2024-11-14,Australia,Pakistan,Australia
+1426553,Abbas Afridi,2cec2a92,Pakistan,player,T20,2024-11-16,Australia,Pakistan,Australia
+1426553,Agha Salman,89c16049,Pakistan,player,T20,2024-11-16,Australia,Pakistan,Australia
+1426553,Babar Azam,8a75e999,Pakistan,player,T20,2024-11-16,Australia,Pakistan,Australia
+1426553,Haris Rauf,24bb1c2f,Pakistan,player,T20,2024-11-16,Australia,Pakistan,Australia
+1426553,Irfan Khan,ee95065d,Pakistan,player,T20,2024-11-16,Australia,Pakistan,Australia
+1426553,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2024-11-16,Australia,Pakistan,Australia
+1426553,Naseem Shah,9c9af282,Pakistan,player,T20,2024-11-16,Australia,Pakistan,Australia
+1426553,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2024-11-16,Australia,Pakistan,Australia
+1426553,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-11-16,Australia,Pakistan,Australia
+1426553,Sufiyan Muqeem,4277234d,Pakistan,player,T20,2024-11-16,Australia,Pakistan,Australia
+1426553,Usman Khan,bafb9238,Pakistan,player,T20,2024-11-16,Australia,Pakistan,Australia
+1426554,Abbas Afridi,2cec2a92,Pakistan,player,T20,2024-11-18,Pakistan,Australia,Australia
+1426554,Agha Salman,89c16049,Pakistan,player,T20,2024-11-18,Pakistan,Australia,Australia
+1426554,Babar Azam,8a75e999,Pakistan,player,T20,2024-11-18,Pakistan,Australia,Australia
+1426554,Haris Rauf,24bb1c2f,Pakistan,player,T20,2024-11-18,Pakistan,Australia,Australia
+1426554,Haseebullah Khan,5691931a,Pakistan,player,T20,2024-11-18,Pakistan,Australia,Australia
+1426554,Irfan Khan,ee95065d,Pakistan,player,T20,2024-11-18,Pakistan,Australia,Australia
+1426554,Jahandad Khan,22d73540,Pakistan,player,T20,2024-11-18,Pakistan,Australia,Australia
+1426554,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2024-11-18,Pakistan,Australia,Australia
+1426554,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-11-18,Pakistan,Australia,Australia
+1426554,Sufiyan Muqeem,4277234d,Pakistan,player,T20,2024-11-18,Pakistan,Australia,Australia
+1426554,Usman Khan,bafb9238,Pakistan,player,T20,2024-11-18,Pakistan,Australia,Australia
+1444649,Aamer Jamal,a8e54ef4,Pakistan,player,ODI,2024-11-24,Zimbabwe,Pakistan,Zimbabwe
+1444649,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2024-11-24,Zimbabwe,Pakistan,Zimbabwe
+1444649,Agha Salman,89c16049,Pakistan,player,ODI,2024-11-24,Zimbabwe,Pakistan,Zimbabwe
+1444649,Faisal Akram,14661bf3,Pakistan,player,ODI,2024-11-24,Zimbabwe,Pakistan,Zimbabwe
+1444649,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2024-11-24,Zimbabwe,Pakistan,Zimbabwe
+1444649,Haseebullah Khan,5691931a,Pakistan,player,ODI,2024-11-24,Zimbabwe,Pakistan,Zimbabwe
+1444649,Irfan Khan,ee95065d,Pakistan,player,ODI,2024-11-24,Zimbabwe,Pakistan,Zimbabwe
+1444649,Kamran Ghulam,35f4cf7e,Pakistan,player,ODI,2024-11-24,Zimbabwe,Pakistan,Zimbabwe
+1444649,Mohammad Hasnain,8596fe80,Pakistan,player,ODI,2024-11-24,Zimbabwe,Pakistan,Zimbabwe
+1444649,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2024-11-24,Zimbabwe,Pakistan,Zimbabwe
+1444649,Saim Ayub,33609a8c,Pakistan,player,ODI,2024-11-24,Zimbabwe,Pakistan,Zimbabwe
+1444650,Aamer Jamal,a8e54ef4,Pakistan,player,ODI,2024-11-26,Zimbabwe,Pakistan,Pakistan
+1444650,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2024-11-26,Zimbabwe,Pakistan,Pakistan
+1444650,Abrar Ahmed,abb7c76c,Pakistan,player,ODI,2024-11-26,Zimbabwe,Pakistan,Pakistan
+1444650,Agha Salman,89c16049,Pakistan,player,ODI,2024-11-26,Zimbabwe,Pakistan,Pakistan
+1444650,Faisal Akram,14661bf3,Pakistan,player,ODI,2024-11-26,Zimbabwe,Pakistan,Pakistan
+1444650,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2024-11-26,Zimbabwe,Pakistan,Pakistan
+1444650,Irfan Khan,ee95065d,Pakistan,player,ODI,2024-11-26,Zimbabwe,Pakistan,Pakistan
+1444650,Kamran Ghulam,35f4cf7e,Pakistan,player,ODI,2024-11-26,Zimbabwe,Pakistan,Pakistan
+1444650,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2024-11-26,Zimbabwe,Pakistan,Pakistan
+1444650,Saim Ayub,33609a8c,Pakistan,player,ODI,2024-11-26,Zimbabwe,Pakistan,Pakistan
+1444650,Tayyab Tahir,431f8af4,Pakistan,player,ODI,2024-11-26,Zimbabwe,Pakistan,Pakistan
+1444651,Aamer Jamal,a8e54ef4,Pakistan,player,ODI,2024-11-28,Pakistan,Zimbabwe,Pakistan
+1444651,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2024-11-28,Pakistan,Zimbabwe,Pakistan
+1444651,Abrar Ahmed,abb7c76c,Pakistan,player,ODI,2024-11-28,Pakistan,Zimbabwe,Pakistan
+1444651,Agha Salman,89c16049,Pakistan,player,ODI,2024-11-28,Pakistan,Zimbabwe,Pakistan
+1444651,Faisal Akram,14661bf3,Pakistan,player,ODI,2024-11-28,Pakistan,Zimbabwe,Pakistan
+1444651,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2024-11-28,Pakistan,Zimbabwe,Pakistan
+1444651,Irfan Khan,ee95065d,Pakistan,player,ODI,2024-11-28,Pakistan,Zimbabwe,Pakistan
+1444651,Kamran Ghulam,35f4cf7e,Pakistan,player,ODI,2024-11-28,Pakistan,Zimbabwe,Pakistan
+1444651,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2024-11-28,Pakistan,Zimbabwe,Pakistan
+1444651,Saim Ayub,33609a8c,Pakistan,player,ODI,2024-11-28,Pakistan,Zimbabwe,Pakistan
+1444651,Tayyab Tahir,431f8af4,Pakistan,player,ODI,2024-11-28,Pakistan,Zimbabwe,Pakistan
+1444652,Abbas Afridi,2cec2a92,Pakistan,player,T20,2024-12-01,Pakistan,Zimbabwe,Pakistan
+1444652,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2024-12-01,Pakistan,Zimbabwe,Pakistan
+1444652,Agha Salman,89c16049,Pakistan,player,T20,2024-12-01,Pakistan,Zimbabwe,Pakistan
+1444652,Haris Rauf,24bb1c2f,Pakistan,player,T20,2024-12-01,Pakistan,Zimbabwe,Pakistan
+1444652,Irfan Khan,ee95065d,Pakistan,player,T20,2024-12-01,Pakistan,Zimbabwe,Pakistan
+1444652,Jahandad Khan,22d73540,Pakistan,player,T20,2024-12-01,Pakistan,Zimbabwe,Pakistan
+1444652,Omair Yousuf,f8e3c0f8,Pakistan,player,T20,2024-12-01,Pakistan,Zimbabwe,Pakistan
+1444652,Saim Ayub,33609a8c,Pakistan,player,T20,2024-12-01,Pakistan,Zimbabwe,Pakistan
+1444652,Sufiyan Muqeem,4277234d,Pakistan,player,T20,2024-12-01,Pakistan,Zimbabwe,Pakistan
+1444652,Tayyab Tahir,431f8af4,Pakistan,player,T20,2024-12-01,Pakistan,Zimbabwe,Pakistan
+1444652,Usman Khan,bafb9238,Pakistan,player,T20,2024-12-01,Pakistan,Zimbabwe,Pakistan
+1444653,Abbas Afridi,2cec2a92,Pakistan,player,T20,2024-12-03,Zimbabwe,Pakistan,Pakistan
+1444653,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2024-12-03,Zimbabwe,Pakistan,Pakistan
+1444653,Agha Salman,89c16049,Pakistan,player,T20,2024-12-03,Zimbabwe,Pakistan,Pakistan
+1444653,Haris Rauf,24bb1c2f,Pakistan,player,T20,2024-12-03,Zimbabwe,Pakistan,Pakistan
+1444653,Irfan Khan,ee95065d,Pakistan,player,T20,2024-12-03,Zimbabwe,Pakistan,Pakistan
+1444653,Jahandad Khan,22d73540,Pakistan,player,T20,2024-12-03,Zimbabwe,Pakistan,Pakistan
+1444653,Omair Yousuf,f8e3c0f8,Pakistan,player,T20,2024-12-03,Zimbabwe,Pakistan,Pakistan
+1444653,Saim Ayub,33609a8c,Pakistan,player,T20,2024-12-03,Zimbabwe,Pakistan,Pakistan
+1444653,Sufiyan Muqeem,4277234d,Pakistan,player,T20,2024-12-03,Zimbabwe,Pakistan,Pakistan
+1444653,Tayyab Tahir,431f8af4,Pakistan,player,T20,2024-12-03,Zimbabwe,Pakistan,Pakistan
+1444653,Usman Khan,bafb9238,Pakistan,player,T20,2024-12-03,Zimbabwe,Pakistan,Pakistan
+1444654,Abbas Afridi,2cec2a92,Pakistan,player,T20,2024-12-05,Pakistan,Zimbabwe,Zimbabwe
+1444654,Agha Salman,89c16049,Pakistan,player,T20,2024-12-05,Pakistan,Zimbabwe,Zimbabwe
+1444654,Arafat Minhas,f2e8b37c,Pakistan,player,T20,2024-12-05,Pakistan,Zimbabwe,Zimbabwe
+1444654,Jahandad Khan,22d73540,Pakistan,player,T20,2024-12-05,Pakistan,Zimbabwe,Zimbabwe
+1444654,Mohammad Hasnain,8596fe80,Pakistan,player,T20,2024-12-05,Pakistan,Zimbabwe,Zimbabwe
+1444654,Omair Yousuf,f8e3c0f8,Pakistan,player,T20,2024-12-05,Pakistan,Zimbabwe,Zimbabwe
+1444654,Qasim Akram,b6359668,Pakistan,player,T20,2024-12-05,Pakistan,Zimbabwe,Zimbabwe
+1444654,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2024-12-05,Pakistan,Zimbabwe,Zimbabwe
+1444654,Sufiyan Muqeem,4277234d,Pakistan,player,T20,2024-12-05,Pakistan,Zimbabwe,Zimbabwe
+1444654,Tayyab Tahir,431f8af4,Pakistan,player,T20,2024-12-05,Pakistan,Zimbabwe,Zimbabwe
+1444654,Usman Khan,bafb9238,Pakistan,player,T20,2024-12-05,Pakistan,Zimbabwe,Zimbabwe
+1432211,Abbas Afridi,2cec2a92,Pakistan,player,T20,2024-12-10,South Africa,Pakistan,South Africa
+1432211,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2024-12-10,South Africa,Pakistan,South Africa
+1432211,Babar Azam,8a75e999,Pakistan,player,T20,2024-12-10,South Africa,Pakistan,South Africa
+1432211,Haris Rauf,24bb1c2f,Pakistan,player,T20,2024-12-10,South Africa,Pakistan,South Africa
+1432211,Irfan Khan,ee95065d,Pakistan,player,T20,2024-12-10,South Africa,Pakistan,South Africa
+1432211,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2024-12-10,South Africa,Pakistan,South Africa
+1432211,Saim Ayub,33609a8c,Pakistan,player,T20,2024-12-10,South Africa,Pakistan,South Africa
+1432211,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-12-10,South Africa,Pakistan,South Africa
+1432211,Sufiyan Muqeem,4277234d,Pakistan,player,T20,2024-12-10,South Africa,Pakistan,South Africa
+1432211,Tayyab Tahir,431f8af4,Pakistan,player,T20,2024-12-10,South Africa,Pakistan,South Africa
+1432211,Usman Khan,bafb9238,Pakistan,player,T20,2024-12-10,South Africa,Pakistan,South Africa
+1432212,Abbas Afridi,2cec2a92,Pakistan,player,T20,2024-12-13,Pakistan,South Africa,South Africa
+1432212,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2024-12-13,Pakistan,South Africa,South Africa
+1432212,Babar Azam,8a75e999,Pakistan,player,T20,2024-12-13,Pakistan,South Africa,South Africa
+1432212,Haris Rauf,24bb1c2f,Pakistan,player,T20,2024-12-13,Pakistan,South Africa,South Africa
+1432212,Irfan Khan,ee95065d,Pakistan,player,T20,2024-12-13,Pakistan,South Africa,South Africa
+1432212,Jahandad Khan,22d73540,Pakistan,player,T20,2024-12-13,Pakistan,South Africa,South Africa
+1432212,Mohammad Rizwan,2f26ac1a,Pakistan,player,T20,2024-12-13,Pakistan,South Africa,South Africa
+1432212,Saim Ayub,33609a8c,Pakistan,player,T20,2024-12-13,Pakistan,South Africa,South Africa
+1432212,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2024-12-13,Pakistan,South Africa,South Africa
+1432212,Tayyab Tahir,431f8af4,Pakistan,player,T20,2024-12-13,Pakistan,South Africa,South Africa
+1432212,Usman Khan,bafb9238,Pakistan,player,T20,2024-12-13,Pakistan,South Africa,South Africa
+1432214,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2024-12-17,South Africa,Pakistan,Pakistan
+1432214,Abrar Ahmed,abb7c76c,Pakistan,player,ODI,2024-12-17,South Africa,Pakistan,Pakistan
+1432214,Agha Salman,89c16049,Pakistan,player,ODI,2024-12-17,South Africa,Pakistan,Pakistan
+1432214,Babar Azam,8a75e999,Pakistan,player,ODI,2024-12-17,South Africa,Pakistan,Pakistan
+1432214,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2024-12-17,South Africa,Pakistan,Pakistan
+1432214,Irfan Khan,ee95065d,Pakistan,player,ODI,2024-12-17,South Africa,Pakistan,Pakistan
+1432214,Kamran Ghulam,35f4cf7e,Pakistan,player,ODI,2024-12-17,South Africa,Pakistan,Pakistan
+1432214,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2024-12-17,South Africa,Pakistan,Pakistan
+1432214,Naseem Shah,9c9af282,Pakistan,player,ODI,2024-12-17,South Africa,Pakistan,Pakistan
+1432214,Saim Ayub,33609a8c,Pakistan,player,ODI,2024-12-17,South Africa,Pakistan,Pakistan
+1432214,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2024-12-17,South Africa,Pakistan,Pakistan
+1432215,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2024-12-19,Pakistan,South Africa,Pakistan
+1432215,Abrar Ahmed,abb7c76c,Pakistan,player,ODI,2024-12-19,Pakistan,South Africa,Pakistan
+1432215,Agha Salman,89c16049,Pakistan,player,ODI,2024-12-19,Pakistan,South Africa,Pakistan
+1432215,Babar Azam,8a75e999,Pakistan,player,ODI,2024-12-19,Pakistan,South Africa,Pakistan
+1432215,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2024-12-19,Pakistan,South Africa,Pakistan
+1432215,Irfan Khan,ee95065d,Pakistan,player,ODI,2024-12-19,Pakistan,South Africa,Pakistan
+1432215,Kamran Ghulam,35f4cf7e,Pakistan,player,ODI,2024-12-19,Pakistan,South Africa,Pakistan
+1432215,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2024-12-19,Pakistan,South Africa,Pakistan
+1432215,Naseem Shah,9c9af282,Pakistan,player,ODI,2024-12-19,Pakistan,South Africa,Pakistan
+1432215,Saim Ayub,33609a8c,Pakistan,player,ODI,2024-12-19,Pakistan,South Africa,Pakistan
+1432215,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2024-12-19,Pakistan,South Africa,Pakistan
+1432216,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2024-12-22,Pakistan,South Africa,Pakistan
+1432216,Agha Salman,89c16049,Pakistan,player,ODI,2024-12-22,Pakistan,South Africa,Pakistan
+1432216,Babar Azam,8a75e999,Pakistan,player,ODI,2024-12-22,Pakistan,South Africa,Pakistan
+1432216,Kamran Ghulam,35f4cf7e,Pakistan,player,ODI,2024-12-22,Pakistan,South Africa,Pakistan
+1432216,Mohammad Hasnain,8596fe80,Pakistan,player,ODI,2024-12-22,Pakistan,South Africa,Pakistan
+1432216,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2024-12-22,Pakistan,South Africa,Pakistan
+1432216,Naseem Shah,9c9af282,Pakistan,player,ODI,2024-12-22,Pakistan,South Africa,Pakistan
+1432216,Saim Ayub,33609a8c,Pakistan,player,ODI,2024-12-22,Pakistan,South Africa,Pakistan
+1432216,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2024-12-22,Pakistan,South Africa,Pakistan
+1432216,Sufiyan Muqeem,4277234d,Pakistan,player,ODI,2024-12-22,Pakistan,South Africa,Pakistan
+1432216,Tayyab Tahir,431f8af4,Pakistan,player,ODI,2024-12-22,Pakistan,South Africa,Pakistan
+1442220,Abrar Ahmed,abb7c76c,Pakistan,player,ODI,2025-02-08,New Zealand,Pakistan,New Zealand
+1442220,Agha Salman,89c16049,Pakistan,player,ODI,2025-02-08,New Zealand,Pakistan,New Zealand
+1442220,Babar Azam,8a75e999,Pakistan,player,ODI,2025-02-08,New Zealand,Pakistan,New Zealand
+1442220,Fakhar Zaman,1777c020,Pakistan,player,ODI,2025-02-08,New Zealand,Pakistan,New Zealand
+1442220,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2025-02-08,New Zealand,Pakistan,New Zealand
+1442220,Kamran Ghulam,35f4cf7e,Pakistan,player,ODI,2025-02-08,New Zealand,Pakistan,New Zealand
+1442220,Khushdil Shah,fce581b5,Pakistan,player,ODI,2025-02-08,New Zealand,Pakistan,New Zealand
+1442220,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2025-02-08,New Zealand,Pakistan,New Zealand
+1442220,Naseem Shah,9c9af282,Pakistan,player,ODI,2025-02-08,New Zealand,Pakistan,New Zealand
+1442220,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2025-02-08,New Zealand,Pakistan,New Zealand
+1442220,Tayyab Tahir,431f8af4,Pakistan,player,ODI,2025-02-08,New Zealand,Pakistan,New Zealand
+1442222,Abrar Ahmed,abb7c76c,Pakistan,player,ODI,2025-02-12,South Africa,Pakistan,Pakistan
+1442222,Agha Salman,89c16049,Pakistan,player,ODI,2025-02-12,South Africa,Pakistan,Pakistan
+1442222,Babar Azam,8a75e999,Pakistan,player,ODI,2025-02-12,South Africa,Pakistan,Pakistan
+1442222,Fakhar Zaman,1777c020,Pakistan,player,ODI,2025-02-12,South Africa,Pakistan,Pakistan
+1442222,Khushdil Shah,fce581b5,Pakistan,player,ODI,2025-02-12,South Africa,Pakistan,Pakistan
+1442222,Mohammad Hasnain,8596fe80,Pakistan,player,ODI,2025-02-12,South Africa,Pakistan,Pakistan
+1442222,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2025-02-12,South Africa,Pakistan,Pakistan
+1442222,Naseem Shah,9c9af282,Pakistan,player,ODI,2025-02-12,South Africa,Pakistan,Pakistan
+1442222,Saud Shakeel,d07c1b2f,Pakistan,player,ODI,2025-02-12,South Africa,Pakistan,Pakistan
+1442222,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2025-02-12,South Africa,Pakistan,Pakistan
+1442222,Tayyab Tahir,431f8af4,Pakistan,player,ODI,2025-02-12,South Africa,Pakistan,Pakistan
+1442223,Abrar Ahmed,abb7c76c,Pakistan,player,ODI,2025-02-14,Pakistan,New Zealand,New Zealand
+1442223,Agha Salman,89c16049,Pakistan,player,ODI,2025-02-14,Pakistan,New Zealand,New Zealand
+1442223,Babar Azam,8a75e999,Pakistan,player,ODI,2025-02-14,Pakistan,New Zealand,New Zealand
+1442223,Faheem Ashraf,bd4ea627,Pakistan,player,ODI,2025-02-14,Pakistan,New Zealand,New Zealand
+1442223,Fakhar Zaman,1777c020,Pakistan,player,ODI,2025-02-14,Pakistan,New Zealand,New Zealand
+1442223,Khushdil Shah,fce581b5,Pakistan,player,ODI,2025-02-14,Pakistan,New Zealand,New Zealand
+1442223,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2025-02-14,Pakistan,New Zealand,New Zealand
+1442223,Naseem Shah,9c9af282,Pakistan,player,ODI,2025-02-14,Pakistan,New Zealand,New Zealand
+1442223,Saud Shakeel,d07c1b2f,Pakistan,player,ODI,2025-02-14,Pakistan,New Zealand,New Zealand
+1442223,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2025-02-14,Pakistan,New Zealand,New Zealand
+1442223,Tayyab Tahir,431f8af4,Pakistan,player,ODI,2025-02-14,Pakistan,New Zealand,New Zealand
+1466414,Abrar Ahmed,abb7c76c,Pakistan,player,ODI,2025-02-19,New Zealand,Pakistan,New Zealand
+1466414,Agha Salman,89c16049,Pakistan,player,ODI,2025-02-19,New Zealand,Pakistan,New Zealand
+1466414,Babar Azam,8a75e999,Pakistan,player,ODI,2025-02-19,New Zealand,Pakistan,New Zealand
+1466414,Fakhar Zaman,1777c020,Pakistan,player,ODI,2025-02-19,New Zealand,Pakistan,New Zealand
+1466414,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2025-02-19,New Zealand,Pakistan,New Zealand
+1466414,Khushdil Shah,fce581b5,Pakistan,player,ODI,2025-02-19,New Zealand,Pakistan,New Zealand
+1466414,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2025-02-19,New Zealand,Pakistan,New Zealand
+1466414,Naseem Shah,9c9af282,Pakistan,player,ODI,2025-02-19,New Zealand,Pakistan,New Zealand
+1466414,Saud Shakeel,d07c1b2f,Pakistan,player,ODI,2025-02-19,New Zealand,Pakistan,New Zealand
+1466414,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2025-02-19,New Zealand,Pakistan,New Zealand
+1466414,Tayyab Tahir,431f8af4,Pakistan,player,ODI,2025-02-19,New Zealand,Pakistan,New Zealand
+1466418,Abrar Ahmed,abb7c76c,Pakistan,player,ODI,2025-02-23,Pakistan,India,India
+1466418,Agha Salman,89c16049,Pakistan,player,ODI,2025-02-23,Pakistan,India,India
+1466418,Babar Azam,8a75e999,Pakistan,player,ODI,2025-02-23,Pakistan,India,India
+1466418,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2025-02-23,Pakistan,India,India
+1466418,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2025-02-23,Pakistan,India,India
+1466418,Khushdil Shah,fce581b5,Pakistan,player,ODI,2025-02-23,Pakistan,India,India
+1466418,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2025-02-23,Pakistan,India,India
+1466418,Naseem Shah,9c9af282,Pakistan,player,ODI,2025-02-23,Pakistan,India,India
+1466418,Saud Shakeel,d07c1b2f,Pakistan,player,ODI,2025-02-23,Pakistan,India,India
+1466418,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2025-02-23,Pakistan,India,India
+1466418,Tayyab Tahir,431f8af4,Pakistan,player,ODI,2025-02-23,Pakistan,India,India
+1443549,Abdul Samad,8e554b6b,Pakistan,player,T20,2025-03-16,Pakistan,New Zealand,New Zealand
+1443549,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2025-03-16,Pakistan,New Zealand,New Zealand
+1443549,Agha Salman,89c16049,Pakistan,player,T20,2025-03-16,Pakistan,New Zealand,New Zealand
+1443549,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-03-16,Pakistan,New Zealand,New Zealand
+1443549,Irfan Khan,ee95065d,Pakistan,player,T20,2025-03-16,Pakistan,New Zealand,New Zealand
+1443549,Jahandad Khan,22d73540,Pakistan,player,T20,2025-03-16,Pakistan,New Zealand,New Zealand
+1443549,Khushdil Shah,fce581b5,Pakistan,player,T20,2025-03-16,Pakistan,New Zealand,New Zealand
+1443549,Mohammad Ali,a86a37ab,Pakistan,player,T20,2025-03-16,Pakistan,New Zealand,New Zealand
+1443549,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-03-16,Pakistan,New Zealand,New Zealand
+1443549,Shadab Khan,9de62878,Pakistan,player,T20,2025-03-16,Pakistan,New Zealand,New Zealand
+1443549,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2025-03-16,Pakistan,New Zealand,New Zealand
+1443550,Abdul Samad,8e554b6b,Pakistan,player,T20,2025-03-18,Pakistan,New Zealand,New Zealand
+1443550,Agha Salman,89c16049,Pakistan,player,T20,2025-03-18,Pakistan,New Zealand,New Zealand
+1443550,Haris Rauf,24bb1c2f,Pakistan,player,T20,2025-03-18,Pakistan,New Zealand,New Zealand
+1443550,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-03-18,Pakistan,New Zealand,New Zealand
+1443550,Irfan Khan,ee95065d,Pakistan,player,T20,2025-03-18,Pakistan,New Zealand,New Zealand
+1443550,Jahandad Khan,22d73540,Pakistan,player,T20,2025-03-18,Pakistan,New Zealand,New Zealand
+1443550,Khushdil Shah,fce581b5,Pakistan,player,T20,2025-03-18,Pakistan,New Zealand,New Zealand
+1443550,Mohammad Ali,a86a37ab,Pakistan,player,T20,2025-03-18,Pakistan,New Zealand,New Zealand
+1443550,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-03-18,Pakistan,New Zealand,New Zealand
+1443550,Shadab Khan,9de62878,Pakistan,player,T20,2025-03-18,Pakistan,New Zealand,New Zealand
+1443550,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2025-03-18,Pakistan,New Zealand,New Zealand
+1443551,Abbas Afridi,2cec2a92,Pakistan,player,T20,2025-03-21,New Zealand,Pakistan,Pakistan
+1443551,Abdul Samad,8e554b6b,Pakistan,player,T20,2025-03-21,New Zealand,Pakistan,Pakistan
+1443551,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2025-03-21,New Zealand,Pakistan,Pakistan
+1443551,Agha Salman,89c16049,Pakistan,player,T20,2025-03-21,New Zealand,Pakistan,Pakistan
+1443551,Haris Rauf,24bb1c2f,Pakistan,player,T20,2025-03-21,New Zealand,Pakistan,Pakistan
+1443551,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-03-21,New Zealand,Pakistan,Pakistan
+1443551,Irfan Khan,ee95065d,Pakistan,player,T20,2025-03-21,New Zealand,Pakistan,Pakistan
+1443551,Khushdil Shah,fce581b5,Pakistan,player,T20,2025-03-21,New Zealand,Pakistan,Pakistan
+1443551,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-03-21,New Zealand,Pakistan,Pakistan
+1443551,Shadab Khan,9de62878,Pakistan,player,T20,2025-03-21,New Zealand,Pakistan,Pakistan
+1443551,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2025-03-21,New Zealand,Pakistan,Pakistan
+1443552,Abbas Afridi,2cec2a92,Pakistan,player,T20,2025-03-23,New Zealand,Pakistan,New Zealand
+1443552,Abdul Samad,8e554b6b,Pakistan,player,T20,2025-03-23,New Zealand,Pakistan,New Zealand
+1443552,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2025-03-23,New Zealand,Pakistan,New Zealand
+1443552,Agha Salman,89c16049,Pakistan,player,T20,2025-03-23,New Zealand,Pakistan,New Zealand
+1443552,Haris Rauf,24bb1c2f,Pakistan,player,T20,2025-03-23,New Zealand,Pakistan,New Zealand
+1443552,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-03-23,New Zealand,Pakistan,New Zealand
+1443552,Irfan Khan,ee95065d,Pakistan,player,T20,2025-03-23,New Zealand,Pakistan,New Zealand
+1443552,Khushdil Shah,fce581b5,Pakistan,player,T20,2025-03-23,New Zealand,Pakistan,New Zealand
+1443552,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-03-23,New Zealand,Pakistan,New Zealand
+1443552,Shadab Khan,9de62878,Pakistan,player,T20,2025-03-23,New Zealand,Pakistan,New Zealand
+1443552,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2025-03-23,New Zealand,Pakistan,New Zealand
+1443553,Abdul Samad,8e554b6b,Pakistan,player,T20,2025-03-26,Pakistan,New Zealand,New Zealand
+1443553,Agha Salman,89c16049,Pakistan,player,T20,2025-03-26,Pakistan,New Zealand,New Zealand
+1443553,Haris Rauf,24bb1c2f,Pakistan,player,T20,2025-03-26,Pakistan,New Zealand,New Zealand
+1443553,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-03-26,Pakistan,New Zealand,New Zealand
+1443553,Jahandad Khan,22d73540,Pakistan,player,T20,2025-03-26,Pakistan,New Zealand,New Zealand
+1443553,Mohammad Ali,a86a37ab,Pakistan,player,T20,2025-03-26,Pakistan,New Zealand,New Zealand
+1443553,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-03-26,Pakistan,New Zealand,New Zealand
+1443553,Omair Yousuf,f8e3c0f8,Pakistan,player,T20,2025-03-26,Pakistan,New Zealand,New Zealand
+1443553,Shadab Khan,9de62878,Pakistan,player,T20,2025-03-26,Pakistan,New Zealand,New Zealand
+1443553,Sufiyan Muqeem,4277234d,Pakistan,player,T20,2025-03-26,Pakistan,New Zealand,New Zealand
+1443553,Usman Khan,bafb9238,Pakistan,player,T20,2025-03-26,Pakistan,New Zealand,New Zealand
+1443554,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2025-03-29,New Zealand,Pakistan,New Zealand
+1443554,Agha Salman,89c16049,Pakistan,player,ODI,2025-03-29,New Zealand,Pakistan,New Zealand
+1443554,Akif Javed,99d7d5b7,Pakistan,player,ODI,2025-03-29,New Zealand,Pakistan,New Zealand
+1443554,Babar Azam,8a75e999,Pakistan,player,ODI,2025-03-29,New Zealand,Pakistan,New Zealand
+1443554,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2025-03-29,New Zealand,Pakistan,New Zealand
+1443554,Irfan Khan,ee95065d,Pakistan,player,ODI,2025-03-29,New Zealand,Pakistan,New Zealand
+1443554,Mohammad Ali,a86a37ab,Pakistan,player,ODI,2025-03-29,New Zealand,Pakistan,New Zealand
+1443554,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2025-03-29,New Zealand,Pakistan,New Zealand
+1443554,Naseem Shah,9c9af282,Pakistan,player,ODI,2025-03-29,New Zealand,Pakistan,New Zealand
+1443554,Tayyab Tahir,431f8af4,Pakistan,player,ODI,2025-03-29,New Zealand,Pakistan,New Zealand
+1443554,Usman Khan,bafb9238,Pakistan,player,ODI,2025-03-29,New Zealand,Pakistan,New Zealand
+1443555,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2025-04-02,New Zealand,Pakistan,New Zealand
+1443555,Agha Salman,89c16049,Pakistan,player,ODI,2025-04-02,New Zealand,Pakistan,New Zealand
+1443555,Akif Javed,99d7d5b7,Pakistan,player,ODI,2025-04-02,New Zealand,Pakistan,New Zealand
+1443555,Babar Azam,8a75e999,Pakistan,player,ODI,2025-04-02,New Zealand,Pakistan,New Zealand
+1443555,Faheem Ashraf,bd4ea627,Pakistan,player,ODI,2025-04-02,New Zealand,Pakistan,New Zealand
+1443555,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2025-04-02,New Zealand,Pakistan,New Zealand
+1443555,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2025-04-02,New Zealand,Pakistan,New Zealand
+1443555,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2025-04-02,New Zealand,Pakistan,New Zealand
+1443555,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2025-04-02,New Zealand,Pakistan,New Zealand
+1443555,Naseem Shah,9c9af282,Pakistan,player,ODI,2025-04-02,New Zealand,Pakistan,New Zealand
+1443555,Sufiyan Muqeem,4277234d,Pakistan,player,ODI,2025-04-02,New Zealand,Pakistan,New Zealand
+1443555,Tayyab Tahir,431f8af4,Pakistan,player,ODI,2025-04-02,New Zealand,Pakistan,New Zealand
+1443556,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2025-04-05,New Zealand,Pakistan,New Zealand
+1443556,Agha Salman,89c16049,Pakistan,player,ODI,2025-04-05,New Zealand,Pakistan,New Zealand
+1443556,Akif Javed,99d7d5b7,Pakistan,player,ODI,2025-04-05,New Zealand,Pakistan,New Zealand
+1443556,Babar Azam,8a75e999,Pakistan,player,ODI,2025-04-05,New Zealand,Pakistan,New Zealand
+1443556,Faheem Ashraf,bd4ea627,Pakistan,player,ODI,2025-04-05,New Zealand,Pakistan,New Zealand
+1443556,Imam-ul-Haq,40c041ea,Pakistan,player,ODI,2025-04-05,New Zealand,Pakistan,New Zealand
+1443556,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2025-04-05,New Zealand,Pakistan,New Zealand
+1443556,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2025-04-05,New Zealand,Pakistan,New Zealand
+1443556,Naseem Shah,9c9af282,Pakistan,player,ODI,2025-04-05,New Zealand,Pakistan,New Zealand
+1443556,Sufiyan Muqeem,4277234d,Pakistan,player,ODI,2025-04-05,New Zealand,Pakistan,New Zealand
+1443556,Tayyab Tahir,431f8af4,Pakistan,player,ODI,2025-04-05,New Zealand,Pakistan,New Zealand
+1443556,Usman Khan (2),bafb9238,Pakistan,player,ODI,2025-04-05,New Zealand,Pakistan,New Zealand
+1483785,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2025-05-28,Pakistan,Bangladesh,Pakistan
+1483785,Agha Salman,89c16049,Pakistan,player,T20,2025-05-28,Pakistan,Bangladesh,Pakistan
+1483785,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-05-28,Pakistan,Bangladesh,Pakistan
+1483785,Fakhar Zaman,1777c020,Pakistan,player,T20,2025-05-28,Pakistan,Bangladesh,Pakistan
+1483785,Haris Rauf,24bb1c2f,Pakistan,player,T20,2025-05-28,Pakistan,Bangladesh,Pakistan
+1483785,Hasan Ali,2911de16,Pakistan,player,T20,2025-05-28,Pakistan,Bangladesh,Pakistan
+1483785,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-05-28,Pakistan,Bangladesh,Pakistan
+1483785,Khushdil Shah,fce581b5,Pakistan,player,T20,2025-05-28,Pakistan,Bangladesh,Pakistan
+1483785,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-05-28,Pakistan,Bangladesh,Pakistan
+1483785,Saim Ayub,33609a8c,Pakistan,player,T20,2025-05-28,Pakistan,Bangladesh,Pakistan
+1483785,Shadab Khan,9de62878,Pakistan,player,T20,2025-05-28,Pakistan,Bangladesh,Pakistan
+1483786,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2025-05-30,Pakistan,Bangladesh,Pakistan
+1483786,Agha Salman,89c16049,Pakistan,player,T20,2025-05-30,Pakistan,Bangladesh,Pakistan
+1483786,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-05-30,Pakistan,Bangladesh,Pakistan
+1483786,Haris Rauf,24bb1c2f,Pakistan,player,T20,2025-05-30,Pakistan,Bangladesh,Pakistan
+1483786,Hasan Ali,2911de16,Pakistan,player,T20,2025-05-30,Pakistan,Bangladesh,Pakistan
+1483786,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-05-30,Pakistan,Bangladesh,Pakistan
+1483786,Khushdil Shah,fce581b5,Pakistan,player,T20,2025-05-30,Pakistan,Bangladesh,Pakistan
+1483786,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-05-30,Pakistan,Bangladesh,Pakistan
+1483786,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-05-30,Pakistan,Bangladesh,Pakistan
+1483786,Saim Ayub,33609a8c,Pakistan,player,T20,2025-05-30,Pakistan,Bangladesh,Pakistan
+1483786,Shadab Khan,9de62878,Pakistan,player,T20,2025-05-30,Pakistan,Bangladesh,Pakistan
+1483787,Abbas Afridi,2cec2a92,Pakistan,player,T20,2025-06-01,Bangladesh,Pakistan,Pakistan
+1483787,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2025-06-01,Bangladesh,Pakistan,Pakistan
+1483787,Agha Salman,89c16049,Pakistan,player,T20,2025-06-01,Bangladesh,Pakistan,Pakistan
+1483787,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-06-01,Bangladesh,Pakistan,Pakistan
+1483787,Hasan Ali,2911de16,Pakistan,player,T20,2025-06-01,Bangladesh,Pakistan,Pakistan
+1483787,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-06-01,Bangladesh,Pakistan,Pakistan
+1483787,Khushdil Shah,fce581b5,Pakistan,player,T20,2025-06-01,Bangladesh,Pakistan,Pakistan
+1483787,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-06-01,Bangladesh,Pakistan,Pakistan
+1483787,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-06-01,Bangladesh,Pakistan,Pakistan
+1483787,Saim Ayub,33609a8c,Pakistan,player,T20,2025-06-01,Bangladesh,Pakistan,Pakistan
+1483787,Shadab Khan,9de62878,Pakistan,player,T20,2025-06-01,Bangladesh,Pakistan,Pakistan
+1491903,Abbas Afridi,2cec2a92,Pakistan,player,T20,2025-07-20,Pakistan,Bangladesh,Bangladesh
+1491903,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2025-07-20,Pakistan,Bangladesh,Bangladesh
+1491903,Agha Salman,89c16049,Pakistan,player,T20,2025-07-20,Pakistan,Bangladesh,Bangladesh
+1491903,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-07-20,Pakistan,Bangladesh,Bangladesh
+1491903,Fakhar Zaman,1777c020,Pakistan,player,T20,2025-07-20,Pakistan,Bangladesh,Bangladesh
+1491903,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-07-20,Pakistan,Bangladesh,Bangladesh
+1491903,Khushdil Shah,fce581b5,Pakistan,player,T20,2025-07-20,Pakistan,Bangladesh,Bangladesh
+1491903,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-07-20,Pakistan,Bangladesh,Bangladesh
+1491903,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-07-20,Pakistan,Bangladesh,Bangladesh
+1491903,Saim Ayub,33609a8c,Pakistan,player,T20,2025-07-20,Pakistan,Bangladesh,Bangladesh
+1491903,Salman Mirza,7ab1eab7,Pakistan,player,T20,2025-07-20,Pakistan,Bangladesh,Bangladesh
+1491904,Abbas Afridi,2cec2a92,Pakistan,player,T20,2025-07-22,Bangladesh,Pakistan,Bangladesh
+1491904,Agha Salman,89c16049,Pakistan,player,T20,2025-07-22,Bangladesh,Pakistan,Bangladesh
+1491904,Ahmed Daniyal,9656afbf,Pakistan,player,T20,2025-07-22,Bangladesh,Pakistan,Bangladesh
+1491904,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-07-22,Bangladesh,Pakistan,Bangladesh
+1491904,Fakhar Zaman,1777c020,Pakistan,player,T20,2025-07-22,Bangladesh,Pakistan,Bangladesh
+1491904,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-07-22,Bangladesh,Pakistan,Bangladesh
+1491904,Khushdil Shah,fce581b5,Pakistan,player,T20,2025-07-22,Bangladesh,Pakistan,Bangladesh
+1491904,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-07-22,Bangladesh,Pakistan,Bangladesh
+1491904,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-07-22,Bangladesh,Pakistan,Bangladesh
+1491904,Saim Ayub,33609a8c,Pakistan,player,T20,2025-07-22,Bangladesh,Pakistan,Bangladesh
+1491904,Salman Mirza,7ab1eab7,Pakistan,player,T20,2025-07-22,Bangladesh,Pakistan,Bangladesh
+1491905,Abbas Afridi,2cec2a92,Pakistan,player,T20,2025-07-24,Pakistan,Bangladesh,Pakistan
+1491905,Agha Salman,89c16049,Pakistan,player,T20,2025-07-24,Pakistan,Bangladesh,Pakistan
+1491905,Ahmed Daniyal,9656afbf,Pakistan,player,T20,2025-07-24,Pakistan,Bangladesh,Pakistan
+1491905,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-07-24,Pakistan,Bangladesh,Pakistan
+1491905,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-07-24,Pakistan,Bangladesh,Pakistan
+1491905,Hussain Talat,bb4b445b,Pakistan,player,T20,2025-07-24,Pakistan,Bangladesh,Pakistan
+1491905,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-07-24,Pakistan,Bangladesh,Pakistan
+1491905,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-07-24,Pakistan,Bangladesh,Pakistan
+1491905,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-07-24,Pakistan,Bangladesh,Pakistan
+1491905,Saim Ayub,33609a8c,Pakistan,player,T20,2025-07-24,Pakistan,Bangladesh,Pakistan
+1491905,Salman Mirza,7ab1eab7,Pakistan,player,T20,2025-07-24,Pakistan,Bangladesh,Pakistan
+1472525,Agha Salman,89c16049,Pakistan,player,T20,2025-07-31,Pakistan,West Indies,Pakistan
+1472525,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-07-31,Pakistan,West Indies,Pakistan
+1472525,Fakhar Zaman,1777c020,Pakistan,player,T20,2025-07-31,Pakistan,West Indies,Pakistan
+1472525,Haris Rauf,24bb1c2f,Pakistan,player,T20,2025-07-31,Pakistan,West Indies,Pakistan
+1472525,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-07-31,Pakistan,West Indies,Pakistan
+1472525,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-07-31,Pakistan,West Indies,Pakistan
+1472525,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-07-31,Pakistan,West Indies,Pakistan
+1472525,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-07-31,Pakistan,West Indies,Pakistan
+1472525,Saim Ayub,33609a8c,Pakistan,player,T20,2025-07-31,Pakistan,West Indies,Pakistan
+1472525,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2025-07-31,Pakistan,West Indies,Pakistan
+1472525,Sufiyan Muqeem,4277234d,Pakistan,player,T20,2025-07-31,Pakistan,West Indies,Pakistan
+1472526,Agha Salman,89c16049,Pakistan,player,T20,2025-08-02,Pakistan,West Indies,West Indies
+1472526,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-08-02,Pakistan,West Indies,West Indies
+1472526,Fakhar Zaman,1777c020,Pakistan,player,T20,2025-08-02,Pakistan,West Indies,West Indies
+1472526,Hasan Ali,2911de16,Pakistan,player,T20,2025-08-02,Pakistan,West Indies,West Indies
+1472526,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-08-02,Pakistan,West Indies,West Indies
+1472526,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-08-02,Pakistan,West Indies,West Indies
+1472526,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-08-02,Pakistan,West Indies,West Indies
+1472526,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-08-02,Pakistan,West Indies,West Indies
+1472526,Saim Ayub,33609a8c,Pakistan,player,T20,2025-08-02,Pakistan,West Indies,West Indies
+1472526,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2025-08-02,Pakistan,West Indies,West Indies
+1472526,Sufiyan Muqeem,4277234d,Pakistan,player,T20,2025-08-02,Pakistan,West Indies,West Indies
+1472527,Agha Salman,89c16049,Pakistan,player,T20,2025-08-03,Pakistan,West Indies,Pakistan
+1472527,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-08-03,Pakistan,West Indies,Pakistan
+1472527,Haris Rauf,24bb1c2f,Pakistan,player,T20,2025-08-03,Pakistan,West Indies,Pakistan
+1472527,Hasan Ali,2911de16,Pakistan,player,T20,2025-08-03,Pakistan,West Indies,Pakistan
+1472527,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-08-03,Pakistan,West Indies,Pakistan
+1472527,Khushdil Shah,fce581b5,Pakistan,player,T20,2025-08-03,Pakistan,West Indies,Pakistan
+1472527,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-08-03,Pakistan,West Indies,Pakistan
+1472527,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-08-03,Pakistan,West Indies,Pakistan
+1472527,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-08-03,Pakistan,West Indies,Pakistan
+1472527,Saim Ayub,33609a8c,Pakistan,player,T20,2025-08-03,Pakistan,West Indies,Pakistan
+1472527,Sufiyan Muqeem,4277234d,Pakistan,player,T20,2025-08-03,Pakistan,West Indies,Pakistan
+1472528,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2025-08-08,West Indies,Pakistan,Pakistan
+1472528,Agha Salman,89c16049,Pakistan,player,ODI,2025-08-08,West Indies,Pakistan,Pakistan
+1472528,Babar Azam,8a75e999,Pakistan,player,ODI,2025-08-08,West Indies,Pakistan,Pakistan
+1472528,Faheem Ashraf,bd4ea627,Pakistan,player,ODI,2025-08-08,West Indies,Pakistan,Pakistan
+1472528,Hassan Nawaz,26a8b2fe,Pakistan,player,ODI,2025-08-08,West Indies,Pakistan,Pakistan
+1472528,Hussain Talat,bb4b445b,Pakistan,player,ODI,2025-08-08,West Indies,Pakistan,Pakistan
+1472528,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2025-08-08,West Indies,Pakistan,Pakistan
+1472528,Naseem Shah,9c9af282,Pakistan,player,ODI,2025-08-08,West Indies,Pakistan,Pakistan
+1472528,Saim Ayub,33609a8c,Pakistan,player,ODI,2025-08-08,West Indies,Pakistan,Pakistan
+1472528,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2025-08-08,West Indies,Pakistan,Pakistan
+1472528,Sufiyan Muqeem,4277234d,Pakistan,player,ODI,2025-08-08,West Indies,Pakistan,Pakistan
+1472529,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2025-08-10,Pakistan,West Indies,West Indies
+1472529,Abrar Ahmed,abb7c76c,Pakistan,player,ODI,2025-08-10,Pakistan,West Indies,West Indies
+1472529,Agha Salman,89c16049,Pakistan,player,ODI,2025-08-10,Pakistan,West Indies,West Indies
+1472529,Babar Azam,8a75e999,Pakistan,player,ODI,2025-08-10,Pakistan,West Indies,West Indies
+1472529,Hasan Ali,2911de16,Pakistan,player,ODI,2025-08-10,Pakistan,West Indies,West Indies
+1472529,Hassan Nawaz,26a8b2fe,Pakistan,player,ODI,2025-08-10,Pakistan,West Indies,West Indies
+1472529,Hussain Talat,bb4b445b,Pakistan,player,ODI,2025-08-10,Pakistan,West Indies,West Indies
+1472529,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2025-08-10,Pakistan,West Indies,West Indies
+1472529,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2025-08-10,Pakistan,West Indies,West Indies
+1472529,Saim Ayub,33609a8c,Pakistan,player,ODI,2025-08-10,Pakistan,West Indies,West Indies
+1472529,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2025-08-10,Pakistan,West Indies,West Indies
+1472530,Abdullah Shafique,fc2fffb5,Pakistan,player,ODI,2025-08-12,West Indies,Pakistan,West Indies
+1472530,Abrar Ahmed,abb7c76c,Pakistan,player,ODI,2025-08-12,West Indies,Pakistan,West Indies
+1472530,Agha Salman,89c16049,Pakistan,player,ODI,2025-08-12,West Indies,Pakistan,West Indies
+1472530,Babar Azam,8a75e999,Pakistan,player,ODI,2025-08-12,West Indies,Pakistan,West Indies
+1472530,Hasan Ali,2911de16,Pakistan,player,ODI,2025-08-12,West Indies,Pakistan,West Indies
+1472530,Hassan Nawaz,26a8b2fe,Pakistan,player,ODI,2025-08-12,West Indies,Pakistan,West Indies
+1472530,Hussain Talat,bb4b445b,Pakistan,player,ODI,2025-08-12,West Indies,Pakistan,West Indies
+1472530,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2025-08-12,West Indies,Pakistan,West Indies
+1472530,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2025-08-12,West Indies,Pakistan,West Indies
+1472530,Naseem Shah,9c9af282,Pakistan,player,ODI,2025-08-12,West Indies,Pakistan,West Indies
+1472530,Saim Ayub,33609a8c,Pakistan,player,ODI,2025-08-12,West Indies,Pakistan,West Indies
+1497874,Agha Salman,89c16049,Pakistan,player,T20,2025-08-30,Pakistan,United Arab Emirates,Pakistan
+1497874,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-08-30,Pakistan,United Arab Emirates,Pakistan
+1497874,Fakhar Zaman,1777c020,Pakistan,player,T20,2025-08-30,Pakistan,United Arab Emirates,Pakistan
+1497874,Hasan Ali,2911de16,Pakistan,player,T20,2025-08-30,Pakistan,United Arab Emirates,Pakistan
+1497874,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-08-30,Pakistan,United Arab Emirates,Pakistan
+1497874,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-08-30,Pakistan,United Arab Emirates,Pakistan
+1497874,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-08-30,Pakistan,United Arab Emirates,Pakistan
+1497874,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-08-30,Pakistan,United Arab Emirates,Pakistan
+1497874,Saim Ayub,33609a8c,Pakistan,player,T20,2025-08-30,Pakistan,United Arab Emirates,Pakistan
+1497874,Salman Mirza,7ab1eab7,Pakistan,player,T20,2025-08-30,Pakistan,United Arab Emirates,Pakistan
+1497874,Sufiyan Muqeem,4277234d,Pakistan,player,T20,2025-08-30,Pakistan,United Arab Emirates,Pakistan
+1497877,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2025-09-04,Pakistan,United Arab Emirates,Pakistan
+1497877,Agha Salman,89c16049,Pakistan,player,T20,2025-09-04,Pakistan,United Arab Emirates,Pakistan
+1497877,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-09-04,Pakistan,United Arab Emirates,Pakistan
+1497877,Fakhar Zaman,1777c020,Pakistan,player,T20,2025-09-04,Pakistan,United Arab Emirates,Pakistan
+1497877,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-09-04,Pakistan,United Arab Emirates,Pakistan
+1497877,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-09-04,Pakistan,United Arab Emirates,Pakistan
+1497877,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-09-04,Pakistan,United Arab Emirates,Pakistan
+1497877,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-09-04,Pakistan,United Arab Emirates,Pakistan
+1497877,Saim Ayub,33609a8c,Pakistan,player,T20,2025-09-04,Pakistan,United Arab Emirates,Pakistan
+1497877,Salman Mirza,7ab1eab7,Pakistan,player,T20,2025-09-04,Pakistan,United Arab Emirates,Pakistan
+1497877,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2025-09-04,Pakistan,United Arab Emirates,Pakistan
+1496923,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2025-09-12,Pakistan,Oman,Pakistan
+1496923,Agha Salman,89c16049,Pakistan,player,T20,2025-09-12,Pakistan,Oman,Pakistan
+1496923,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-09-12,Pakistan,Oman,Pakistan
+1496923,Fakhar Zaman,1777c020,Pakistan,player,T20,2025-09-12,Pakistan,Oman,Pakistan
+1496923,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-09-12,Pakistan,Oman,Pakistan
+1496923,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-09-12,Pakistan,Oman,Pakistan
+1496923,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-09-12,Pakistan,Oman,Pakistan
+1496923,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-09-12,Pakistan,Oman,Pakistan
+1496923,Saim Ayub,33609a8c,Pakistan,player,T20,2025-09-12,Pakistan,Oman,Pakistan
+1496923,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2025-09-12,Pakistan,Oman,Pakistan
+1496923,Sufiyan Muqeem,4277234d,Pakistan,player,T20,2025-09-12,Pakistan,Oman,Pakistan
+1496925,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2025-09-14,Pakistan,India,India
+1496925,Agha Salman,89c16049,Pakistan,player,T20,2025-09-14,Pakistan,India,India
+1496925,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-09-14,Pakistan,India,India
+1496925,Fakhar Zaman,1777c020,Pakistan,player,T20,2025-09-14,Pakistan,India,India
+1496925,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-09-14,Pakistan,India,India
+1496925,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-09-14,Pakistan,India,India
+1496925,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-09-14,Pakistan,India,India
+1496925,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-09-14,Pakistan,India,India
+1496925,Saim Ayub,33609a8c,Pakistan,player,T20,2025-09-14,Pakistan,India,India
+1496925,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2025-09-14,Pakistan,India,India
+1496925,Sufiyan Muqeem,4277234d,Pakistan,player,T20,2025-09-14,Pakistan,India,India
+1496929,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2025-09-17,Pakistan,United Arab Emirates,Pakistan
+1496929,Agha Salman,89c16049,Pakistan,player,T20,2025-09-17,Pakistan,United Arab Emirates,Pakistan
+1496929,Fakhar Zaman,1777c020,Pakistan,player,T20,2025-09-17,Pakistan,United Arab Emirates,Pakistan
+1496929,Haris Rauf,24bb1c2f,Pakistan,player,T20,2025-09-17,Pakistan,United Arab Emirates,Pakistan
+1496929,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-09-17,Pakistan,United Arab Emirates,Pakistan
+1496929,Khushdil Shah,fce581b5,Pakistan,player,T20,2025-09-17,Pakistan,United Arab Emirates,Pakistan
+1496929,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-09-17,Pakistan,United Arab Emirates,Pakistan
+1496929,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-09-17,Pakistan,United Arab Emirates,Pakistan
+1496929,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-09-17,Pakistan,United Arab Emirates,Pakistan
+1496929,Saim Ayub,33609a8c,Pakistan,player,T20,2025-09-17,Pakistan,United Arab Emirates,Pakistan
+1496929,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2025-09-17,Pakistan,United Arab Emirates,Pakistan
+1496933,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2025-09-21,Pakistan,India,India
+1496933,Agha Salman,89c16049,Pakistan,player,T20,2025-09-21,Pakistan,India,India
+1496933,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-09-21,Pakistan,India,India
+1496933,Fakhar Zaman,1777c020,Pakistan,player,T20,2025-09-21,Pakistan,India,India
+1496933,Haris Rauf,24bb1c2f,Pakistan,player,T20,2025-09-21,Pakistan,India,India
+1496933,Hussain Talat,bb4b445b,Pakistan,player,T20,2025-09-21,Pakistan,India,India
+1496933,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-09-21,Pakistan,India,India
+1496933,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-09-21,Pakistan,India,India
+1496933,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-09-21,Pakistan,India,India
+1496933,Saim Ayub,33609a8c,Pakistan,player,T20,2025-09-21,Pakistan,India,India
+1496933,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2025-09-21,Pakistan,India,India
+1496934,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2025-09-23,Sri Lanka,Pakistan,Pakistan
+1496934,Agha Salman,89c16049,Pakistan,player,T20,2025-09-23,Sri Lanka,Pakistan,Pakistan
+1496934,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-09-23,Sri Lanka,Pakistan,Pakistan
+1496934,Fakhar Zaman,1777c020,Pakistan,player,T20,2025-09-23,Sri Lanka,Pakistan,Pakistan
+1496934,Haris Rauf,24bb1c2f,Pakistan,player,T20,2025-09-23,Sri Lanka,Pakistan,Pakistan
+1496934,Hussain Talat,bb4b445b,Pakistan,player,T20,2025-09-23,Sri Lanka,Pakistan,Pakistan
+1496934,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-09-23,Sri Lanka,Pakistan,Pakistan
+1496934,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-09-23,Sri Lanka,Pakistan,Pakistan
+1496934,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-09-23,Sri Lanka,Pakistan,Pakistan
+1496934,Saim Ayub,33609a8c,Pakistan,player,T20,2025-09-23,Sri Lanka,Pakistan,Pakistan
+1496934,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2025-09-23,Sri Lanka,Pakistan,Pakistan
+1496936,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2025-09-25,Pakistan,Bangladesh,Pakistan
+1496936,Agha Salman,89c16049,Pakistan,player,T20,2025-09-25,Pakistan,Bangladesh,Pakistan
+1496936,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-09-25,Pakistan,Bangladesh,Pakistan
+1496936,Fakhar Zaman,1777c020,Pakistan,player,T20,2025-09-25,Pakistan,Bangladesh,Pakistan
+1496936,Haris Rauf,24bb1c2f,Pakistan,player,T20,2025-09-25,Pakistan,Bangladesh,Pakistan
+1496936,Hussain Talat,bb4b445b,Pakistan,player,T20,2025-09-25,Pakistan,Bangladesh,Pakistan
+1496936,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-09-25,Pakistan,Bangladesh,Pakistan
+1496936,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-09-25,Pakistan,Bangladesh,Pakistan
+1496936,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-09-25,Pakistan,Bangladesh,Pakistan
+1496936,Saim Ayub,33609a8c,Pakistan,player,T20,2025-09-25,Pakistan,Bangladesh,Pakistan
+1496936,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2025-09-25,Pakistan,Bangladesh,Pakistan
+1496938,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2025-09-28,Pakistan,India,India
+1496938,Agha Salman,89c16049,Pakistan,player,T20,2025-09-28,Pakistan,India,India
+1496938,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-09-28,Pakistan,India,India
+1496938,Fakhar Zaman,1777c020,Pakistan,player,T20,2025-09-28,Pakistan,India,India
+1496938,Haris Rauf,24bb1c2f,Pakistan,player,T20,2025-09-28,Pakistan,India,India
+1496938,Hussain Talat,bb4b445b,Pakistan,player,T20,2025-09-28,Pakistan,India,India
+1496938,Mohammad Haris,ff3f6fc1,Pakistan,player,T20,2025-09-28,Pakistan,India,India
+1496938,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-09-28,Pakistan,India,India
+1496938,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-09-28,Pakistan,India,India
+1496938,Saim Ayub,33609a8c,Pakistan,player,T20,2025-09-28,Pakistan,India,India
+1496938,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2025-09-28,Pakistan,India,India
+1501895,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2025-10-28,South Africa,Pakistan,South Africa
+1501895,Agha Salman,89c16049,Pakistan,player,T20,2025-10-28,South Africa,Pakistan,South Africa
+1501895,Babar Azam,8a75e999,Pakistan,player,T20,2025-10-28,South Africa,Pakistan,South Africa
+1501895,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-10-28,South Africa,Pakistan,South Africa
+1501895,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-10-28,South Africa,Pakistan,South Africa
+1501895,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-10-28,South Africa,Pakistan,South Africa
+1501895,Naseem Shah,9c9af282,Pakistan,player,T20,2025-10-28,South Africa,Pakistan,South Africa
+1501895,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-10-28,South Africa,Pakistan,South Africa
+1501895,Saim Ayub,33609a8c,Pakistan,player,T20,2025-10-28,South Africa,Pakistan,South Africa
+1501895,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2025-10-28,South Africa,Pakistan,South Africa
+1501895,Usman Khan,bafb9238,Pakistan,player,T20,2025-10-28,South Africa,Pakistan,South Africa
+1501896,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2025-10-31,South Africa,Pakistan,Pakistan
+1501896,Agha Salman,89c16049,Pakistan,player,T20,2025-10-31,South Africa,Pakistan,Pakistan
+1501896,Babar Azam,8a75e999,Pakistan,player,T20,2025-10-31,South Africa,Pakistan,Pakistan
+1501896,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-10-31,South Africa,Pakistan,Pakistan
+1501896,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-10-31,South Africa,Pakistan,Pakistan
+1501896,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-10-31,South Africa,Pakistan,Pakistan
+1501896,Naseem Shah,9c9af282,Pakistan,player,T20,2025-10-31,South Africa,Pakistan,Pakistan
+1501896,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-10-31,South Africa,Pakistan,Pakistan
+1501896,Saim Ayub,33609a8c,Pakistan,player,T20,2025-10-31,South Africa,Pakistan,Pakistan
+1501896,Salman Mirza,7ab1eab7,Pakistan,player,T20,2025-10-31,South Africa,Pakistan,Pakistan
+1501896,Usman Khan,bafb9238,Pakistan,player,T20,2025-10-31,South Africa,Pakistan,Pakistan
+1501897,Agha Salman,89c16049,Pakistan,player,T20,2025-11-01,South Africa,Pakistan,Pakistan
+1501897,Babar Azam,8a75e999,Pakistan,player,T20,2025-11-01,South Africa,Pakistan,Pakistan
+1501897,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-11-01,South Africa,Pakistan,Pakistan
+1501897,Hassan Nawaz,26a8b2fe,Pakistan,player,T20,2025-11-01,South Africa,Pakistan,Pakistan
+1501897,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-11-01,South Africa,Pakistan,Pakistan
+1501897,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-11-01,South Africa,Pakistan,Pakistan
+1501897,Saim Ayub,33609a8c,Pakistan,player,T20,2025-11-01,South Africa,Pakistan,Pakistan
+1501897,Salman Mirza,7ab1eab7,Pakistan,player,T20,2025-11-01,South Africa,Pakistan,Pakistan
+1501897,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2025-11-01,South Africa,Pakistan,Pakistan
+1501897,Usman Khan,bafb9238,Pakistan,player,T20,2025-11-01,South Africa,Pakistan,Pakistan
+1501897,Usman Tariq,e94d1dcd,Pakistan,player,T20,2025-11-01,South Africa,Pakistan,Pakistan
+1501898,Abrar Ahmed,abb7c76c,Pakistan,player,ODI,2025-11-04,South Africa,Pakistan,Pakistan
+1501898,Agha Salman,89c16049,Pakistan,player,ODI,2025-11-04,South Africa,Pakistan,Pakistan
+1501898,Babar Azam,8a75e999,Pakistan,player,ODI,2025-11-04,South Africa,Pakistan,Pakistan
+1501898,Fakhar Zaman,1777c020,Pakistan,player,ODI,2025-11-04,South Africa,Pakistan,Pakistan
+1501898,Hassan Nawaz,26a8b2fe,Pakistan,player,ODI,2025-11-04,South Africa,Pakistan,Pakistan
+1501898,Hussain Talat,bb4b445b,Pakistan,player,ODI,2025-11-04,South Africa,Pakistan,Pakistan
+1501898,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2025-11-04,South Africa,Pakistan,Pakistan
+1501898,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2025-11-04,South Africa,Pakistan,Pakistan
+1501898,Naseem Shah,9c9af282,Pakistan,player,ODI,2025-11-04,South Africa,Pakistan,Pakistan
+1501898,Saim Ayub,33609a8c,Pakistan,player,ODI,2025-11-04,South Africa,Pakistan,Pakistan
+1501898,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2025-11-04,South Africa,Pakistan,Pakistan
+1501899,Agha Salman,89c16049,Pakistan,player,ODI,2025-11-06,Pakistan,South Africa,South Africa
+1501899,Babar Azam,8a75e999,Pakistan,player,ODI,2025-11-06,Pakistan,South Africa,South Africa
+1501899,Faheem Ashraf,bd4ea627,Pakistan,player,ODI,2025-11-06,Pakistan,South Africa,South Africa
+1501899,Fakhar Zaman,1777c020,Pakistan,player,ODI,2025-11-06,Pakistan,South Africa,South Africa
+1501899,Hussain Talat,bb4b445b,Pakistan,player,ODI,2025-11-06,Pakistan,South Africa,South Africa
+1501899,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2025-11-06,Pakistan,South Africa,South Africa
+1501899,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2025-11-06,Pakistan,South Africa,South Africa
+1501899,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2025-11-06,Pakistan,South Africa,South Africa
+1501899,Naseem Shah,9c9af282,Pakistan,player,ODI,2025-11-06,Pakistan,South Africa,South Africa
+1501899,Saim Ayub,33609a8c,Pakistan,player,ODI,2025-11-06,Pakistan,South Africa,South Africa
+1501899,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2025-11-06,Pakistan,South Africa,South Africa
+1501900,Abrar Ahmed,abb7c76c,Pakistan,player,ODI,2025-11-08,South Africa,Pakistan,Pakistan
+1501900,Agha Salman,89c16049,Pakistan,player,ODI,2025-11-08,South Africa,Pakistan,Pakistan
+1501900,Babar Azam,8a75e999,Pakistan,player,ODI,2025-11-08,South Africa,Pakistan,Pakistan
+1501900,Faheem Ashraf,bd4ea627,Pakistan,player,ODI,2025-11-08,South Africa,Pakistan,Pakistan
+1501900,Fakhar Zaman,1777c020,Pakistan,player,ODI,2025-11-08,South Africa,Pakistan,Pakistan
+1501900,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2025-11-08,South Africa,Pakistan,Pakistan
+1501900,Hussain Talat,bb4b445b,Pakistan,player,ODI,2025-11-08,South Africa,Pakistan,Pakistan
+1501900,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2025-11-08,South Africa,Pakistan,Pakistan
+1501900,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2025-11-08,South Africa,Pakistan,Pakistan
+1501900,Saim Ayub,33609a8c,Pakistan,player,ODI,2025-11-08,South Africa,Pakistan,Pakistan
+1501900,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2025-11-08,South Africa,Pakistan,Pakistan
+1502167,Agha Salman,89c16049,Pakistan,player,ODI,2025-11-11,Pakistan,Sri Lanka,Pakistan
+1502167,Babar Azam,8a75e999,Pakistan,player,ODI,2025-11-11,Pakistan,Sri Lanka,Pakistan
+1502167,Faheem Ashraf,bd4ea627,Pakistan,player,ODI,2025-11-11,Pakistan,Sri Lanka,Pakistan
+1502167,Fakhar Zaman,1777c020,Pakistan,player,ODI,2025-11-11,Pakistan,Sri Lanka,Pakistan
+1502167,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2025-11-11,Pakistan,Sri Lanka,Pakistan
+1502167,Hussain Talat,bb4b445b,Pakistan,player,ODI,2025-11-11,Pakistan,Sri Lanka,Pakistan
+1502167,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2025-11-11,Pakistan,Sri Lanka,Pakistan
+1502167,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2025-11-11,Pakistan,Sri Lanka,Pakistan
+1502167,Naseem Shah,9c9af282,Pakistan,player,ODI,2025-11-11,Pakistan,Sri Lanka,Pakistan
+1502167,Saim Ayub,33609a8c,Pakistan,player,ODI,2025-11-11,Pakistan,Sri Lanka,Pakistan
+1502167,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2025-11-11,Pakistan,Sri Lanka,Pakistan
+1502168,Abrar Ahmed,abb7c76c,Pakistan,player,ODI,2025-11-14,Sri Lanka,Pakistan,Pakistan
+1502168,Agha Salman,89c16049,Pakistan,player,ODI,2025-11-14,Sri Lanka,Pakistan,Pakistan
+1502168,Babar Azam,8a75e999,Pakistan,player,ODI,2025-11-14,Sri Lanka,Pakistan,Pakistan
+1502168,Fakhar Zaman,1777c020,Pakistan,player,ODI,2025-11-14,Sri Lanka,Pakistan,Pakistan
+1502168,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2025-11-14,Sri Lanka,Pakistan,Pakistan
+1502168,Hussain Talat,bb4b445b,Pakistan,player,ODI,2025-11-14,Sri Lanka,Pakistan,Pakistan
+1502168,Mohammad Nawaz,3086f7a4,Pakistan,player,ODI,2025-11-14,Sri Lanka,Pakistan,Pakistan
+1502168,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2025-11-14,Sri Lanka,Pakistan,Pakistan
+1502168,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2025-11-14,Sri Lanka,Pakistan,Pakistan
+1502168,Naseem Shah,9c9af282,Pakistan,player,ODI,2025-11-14,Sri Lanka,Pakistan,Pakistan
+1502168,Saim Ayub,33609a8c,Pakistan,player,ODI,2025-11-14,Sri Lanka,Pakistan,Pakistan
+1502169,Agha Salman,89c16049,Pakistan,player,ODI,2025-11-16,Sri Lanka,Pakistan,Pakistan
+1502169,Babar Azam,8a75e999,Pakistan,player,ODI,2025-11-16,Sri Lanka,Pakistan,Pakistan
+1502169,Faheem Ashraf,bd4ea627,Pakistan,player,ODI,2025-11-16,Sri Lanka,Pakistan,Pakistan
+1502169,Faisal Akram,14661bf3,Pakistan,player,ODI,2025-11-16,Sri Lanka,Pakistan,Pakistan
+1502169,Fakhar Zaman,1777c020,Pakistan,player,ODI,2025-11-16,Sri Lanka,Pakistan,Pakistan
+1502169,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2025-11-16,Sri Lanka,Pakistan,Pakistan
+1502169,Haseebullah Khan,5691931a,Pakistan,player,ODI,2025-11-16,Sri Lanka,Pakistan,Pakistan
+1502169,Hussain Talat,bb4b445b,Pakistan,player,ODI,2025-11-16,Sri Lanka,Pakistan,Pakistan
+1502169,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2025-11-16,Sri Lanka,Pakistan,Pakistan
+1502169,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2025-11-16,Sri Lanka,Pakistan,Pakistan
+1502169,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2025-11-16,Sri Lanka,Pakistan,Pakistan
+1502048,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2025-11-18,Zimbabwe,Pakistan,Pakistan
+1502048,Agha Salman,89c16049,Pakistan,player,T20,2025-11-18,Zimbabwe,Pakistan,Pakistan
+1502048,Babar Azam,8a75e999,Pakistan,player,T20,2025-11-18,Zimbabwe,Pakistan,Pakistan
+1502048,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-11-18,Zimbabwe,Pakistan,Pakistan
+1502048,Fakhar Zaman,1777c020,Pakistan,player,T20,2025-11-18,Zimbabwe,Pakistan,Pakistan
+1502048,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-11-18,Zimbabwe,Pakistan,Pakistan
+1502048,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-11-18,Zimbabwe,Pakistan,Pakistan
+1502048,Saim Ayub,33609a8c,Pakistan,player,T20,2025-11-18,Zimbabwe,Pakistan,Pakistan
+1502048,Salman Mirza,7ab1eab7,Pakistan,player,T20,2025-11-18,Zimbabwe,Pakistan,Pakistan
+1502048,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2025-11-18,Zimbabwe,Pakistan,Pakistan
+1502048,Usman Khan,bafb9238,Pakistan,player,T20,2025-11-18,Zimbabwe,Pakistan,Pakistan
+1502050,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2025-11-22,Sri Lanka,Pakistan,Pakistan
+1502050,Agha Salman,89c16049,Pakistan,player,T20,2025-11-22,Sri Lanka,Pakistan,Pakistan
+1502050,Babar Azam,8a75e999,Pakistan,player,T20,2025-11-22,Sri Lanka,Pakistan,Pakistan
+1502050,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-11-22,Sri Lanka,Pakistan,Pakistan
+1502050,Fakhar Zaman,1777c020,Pakistan,player,T20,2025-11-22,Sri Lanka,Pakistan,Pakistan
+1502050,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-11-22,Sri Lanka,Pakistan,Pakistan
+1502050,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2025-11-22,Sri Lanka,Pakistan,Pakistan
+1502050,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-11-22,Sri Lanka,Pakistan,Pakistan
+1502050,Saim Ayub,33609a8c,Pakistan,player,T20,2025-11-22,Sri Lanka,Pakistan,Pakistan
+1502050,Salman Mirza,7ab1eab7,Pakistan,player,T20,2025-11-22,Sri Lanka,Pakistan,Pakistan
+1502050,Usman Khan,bafb9238,Pakistan,player,T20,2025-11-22,Sri Lanka,Pakistan,Pakistan
+1502051,Agha Salman,89c16049,Pakistan,player,T20,2025-11-23,Pakistan,Zimbabwe,Pakistan
+1502051,Babar Azam,8a75e999,Pakistan,player,T20,2025-11-23,Pakistan,Zimbabwe,Pakistan
+1502051,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-11-23,Pakistan,Zimbabwe,Pakistan
+1502051,Fakhar Zaman,1777c020,Pakistan,player,T20,2025-11-23,Pakistan,Zimbabwe,Pakistan
+1502051,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-11-23,Pakistan,Zimbabwe,Pakistan
+1502051,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2025-11-23,Pakistan,Zimbabwe,Pakistan
+1502051,Naseem Shah,9c9af282,Pakistan,player,T20,2025-11-23,Pakistan,Zimbabwe,Pakistan
+1502051,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-11-23,Pakistan,Zimbabwe,Pakistan
+1502051,Saim Ayub,33609a8c,Pakistan,player,T20,2025-11-23,Pakistan,Zimbabwe,Pakistan
+1502051,Usman Khan,bafb9238,Pakistan,player,T20,2025-11-23,Pakistan,Zimbabwe,Pakistan
+1502051,Usman Tariq,e94d1dcd,Pakistan,player,T20,2025-11-23,Pakistan,Zimbabwe,Pakistan
+1502053,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2025-11-27,Sri Lanka,Pakistan,Sri Lanka
+1502053,Agha Salman,89c16049,Pakistan,player,T20,2025-11-27,Sri Lanka,Pakistan,Sri Lanka
+1502053,Babar Azam,8a75e999,Pakistan,player,T20,2025-11-27,Sri Lanka,Pakistan,Sri Lanka
+1502053,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-11-27,Sri Lanka,Pakistan,Sri Lanka
+1502053,Fakhar Zaman,1777c020,Pakistan,player,T20,2025-11-27,Sri Lanka,Pakistan,Sri Lanka
+1502053,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-11-27,Sri Lanka,Pakistan,Sri Lanka
+1502053,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2025-11-27,Sri Lanka,Pakistan,Sri Lanka
+1502053,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-11-27,Sri Lanka,Pakistan,Sri Lanka
+1502053,Saim Ayub,33609a8c,Pakistan,player,T20,2025-11-27,Sri Lanka,Pakistan,Sri Lanka
+1502053,Salman Mirza,7ab1eab7,Pakistan,player,T20,2025-11-27,Sri Lanka,Pakistan,Sri Lanka
+1502053,Usman Khan,bafb9238,Pakistan,player,T20,2025-11-27,Sri Lanka,Pakistan,Sri Lanka
+1502054,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2025-11-29,Sri Lanka,Pakistan,Pakistan
+1502054,Agha Salman,89c16049,Pakistan,player,T20,2025-11-29,Sri Lanka,Pakistan,Pakistan
+1502054,Babar Azam,8a75e999,Pakistan,player,T20,2025-11-29,Sri Lanka,Pakistan,Pakistan
+1502054,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2025-11-29,Sri Lanka,Pakistan,Pakistan
+1502054,Fakhar Zaman,1777c020,Pakistan,player,T20,2025-11-29,Sri Lanka,Pakistan,Pakistan
+1502054,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2025-11-29,Sri Lanka,Pakistan,Pakistan
+1502054,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2025-11-29,Sri Lanka,Pakistan,Pakistan
+1502054,Saim Ayub,33609a8c,Pakistan,player,T20,2025-11-29,Sri Lanka,Pakistan,Pakistan
+1502054,Salman Mirza,7ab1eab7,Pakistan,player,T20,2025-11-29,Sri Lanka,Pakistan,Pakistan
+1502054,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2025-11-29,Sri Lanka,Pakistan,Pakistan
+1502054,Usman Khan,bafb9238,Pakistan,player,T20,2025-11-29,Sri Lanka,Pakistan,Pakistan
+1514480,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2026-01-07,Sri Lanka,Pakistan,Pakistan
+1514480,Agha Salman,89c16049,Pakistan,player,T20,2026-01-07,Sri Lanka,Pakistan,Pakistan
+1514480,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2026-01-07,Sri Lanka,Pakistan,Pakistan
+1514480,Fakhar Zaman,1777c020,Pakistan,player,T20,2026-01-07,Sri Lanka,Pakistan,Pakistan
+1514480,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2026-01-07,Sri Lanka,Pakistan,Pakistan
+1514480,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2026-01-07,Sri Lanka,Pakistan,Pakistan
+1514480,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2026-01-07,Sri Lanka,Pakistan,Pakistan
+1514480,Saim Ayub,33609a8c,Pakistan,player,T20,2026-01-07,Sri Lanka,Pakistan,Pakistan
+1514480,Salman Mirza,7ab1eab7,Pakistan,player,T20,2026-01-07,Sri Lanka,Pakistan,Pakistan
+1514480,Shadab Khan,9de62878,Pakistan,player,T20,2026-01-07,Sri Lanka,Pakistan,Pakistan
+1514480,Usman Khan,bafb9238,Pakistan,player,T20,2026-01-07,Sri Lanka,Pakistan,Pakistan
+1514482,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2026-01-11,Sri Lanka,Pakistan,Sri Lanka
+1514482,Agha Salman,89c16049,Pakistan,player,T20,2026-01-11,Sri Lanka,Pakistan,Sri Lanka
+1514482,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2026-01-11,Sri Lanka,Pakistan,Sri Lanka
+1514482,Khawaja Nafay,3cf54e77,Pakistan,player,T20,2026-01-11,Sri Lanka,Pakistan,Sri Lanka
+1514482,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2026-01-11,Sri Lanka,Pakistan,Sri Lanka
+1514482,Mohammad Wasim,9e9af5f2,Pakistan,player,T20,2026-01-11,Sri Lanka,Pakistan,Sri Lanka
+1514482,Naseem Shah,9c9af282,Pakistan,player,T20,2026-01-11,Sri Lanka,Pakistan,Sri Lanka
+1514482,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2026-01-11,Sri Lanka,Pakistan,Sri Lanka
+1514482,Saim Ayub,33609a8c,Pakistan,player,T20,2026-01-11,Sri Lanka,Pakistan,Sri Lanka
+1514482,Shadab Khan,9de62878,Pakistan,player,T20,2026-01-11,Sri Lanka,Pakistan,Sri Lanka
+1514482,Usman Khan,bafb9238,Pakistan,player,T20,2026-01-11,Sri Lanka,Pakistan,Sri Lanka
+1519636,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2026-01-29,Pakistan,Australia,Pakistan
+1519636,Agha Salman,89c16049,Pakistan,player,T20,2026-01-29,Pakistan,Australia,Pakistan
+1519636,Babar Azam,8a75e999,Pakistan,player,T20,2026-01-29,Pakistan,Australia,Pakistan
+1519636,Fakhar Zaman,1777c020,Pakistan,player,T20,2026-01-29,Pakistan,Australia,Pakistan
+1519636,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2026-01-29,Pakistan,Australia,Pakistan
+1519636,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2026-01-29,Pakistan,Australia,Pakistan
+1519636,Saim Ayub,33609a8c,Pakistan,player,T20,2026-01-29,Pakistan,Australia,Pakistan
+1519636,Salman Mirza,7ab1eab7,Pakistan,player,T20,2026-01-29,Pakistan,Australia,Pakistan
+1519636,Shadab Khan,9de62878,Pakistan,player,T20,2026-01-29,Pakistan,Australia,Pakistan
+1519636,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2026-01-29,Pakistan,Australia,Pakistan
+1519636,Usman Khan,bafb9238,Pakistan,player,T20,2026-01-29,Pakistan,Australia,Pakistan
+1519637,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2026-01-31,Pakistan,Australia,Pakistan
+1519637,Agha Salman,89c16049,Pakistan,player,T20,2026-01-31,Pakistan,Australia,Pakistan
+1519637,Babar Azam,8a75e999,Pakistan,player,T20,2026-01-31,Pakistan,Australia,Pakistan
+1519637,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2026-01-31,Pakistan,Australia,Pakistan
+1519637,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2026-01-31,Pakistan,Australia,Pakistan
+1519637,Naseem Shah,9c9af282,Pakistan,player,T20,2026-01-31,Pakistan,Australia,Pakistan
+1519637,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2026-01-31,Pakistan,Australia,Pakistan
+1519637,Saim Ayub,33609a8c,Pakistan,player,T20,2026-01-31,Pakistan,Australia,Pakistan
+1519637,Shadab Khan,9de62878,Pakistan,player,T20,2026-01-31,Pakistan,Australia,Pakistan
+1519637,Usman Khan,bafb9238,Pakistan,player,T20,2026-01-31,Pakistan,Australia,Pakistan
+1519637,Usman Tariq,e94d1dcd,Pakistan,player,T20,2026-01-31,Pakistan,Australia,Pakistan
+1519638,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2026-02-01,Pakistan,Australia,Pakistan
+1519638,Agha Salman,89c16049,Pakistan,player,T20,2026-02-01,Pakistan,Australia,Pakistan
+1519638,Babar Azam,8a75e999,Pakistan,player,T20,2026-02-01,Pakistan,Australia,Pakistan
+1519638,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2026-02-01,Pakistan,Australia,Pakistan
+1519638,Fakhar Zaman,1777c020,Pakistan,player,T20,2026-02-01,Pakistan,Australia,Pakistan
+1519638,Khawaja Nafay,3cf54e77,Pakistan,player,T20,2026-02-01,Pakistan,Australia,Pakistan
+1519638,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2026-02-01,Pakistan,Australia,Pakistan
+1519638,Naseem Shah,9c9af282,Pakistan,player,T20,2026-02-01,Pakistan,Australia,Pakistan
+1519638,Saim Ayub,33609a8c,Pakistan,player,T20,2026-02-01,Pakistan,Australia,Pakistan
+1519638,Shadab Khan,9de62878,Pakistan,player,T20,2026-02-01,Pakistan,Australia,Pakistan
+1519638,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2026-02-01,Pakistan,Australia,Pakistan
+1512719,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2026-02-07,Netherlands,Pakistan,Pakistan
+1512719,Agha Salman,89c16049,Pakistan,player,T20,2026-02-07,Netherlands,Pakistan,Pakistan
+1512719,Babar Azam,8a75e999,Pakistan,player,T20,2026-02-07,Netherlands,Pakistan,Pakistan
+1512719,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2026-02-07,Netherlands,Pakistan,Pakistan
+1512719,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2026-02-07,Netherlands,Pakistan,Pakistan
+1512719,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2026-02-07,Netherlands,Pakistan,Pakistan
+1512719,Saim Ayub,33609a8c,Pakistan,player,T20,2026-02-07,Netherlands,Pakistan,Pakistan
+1512719,Salman Mirza,7ab1eab7,Pakistan,player,T20,2026-02-07,Netherlands,Pakistan,Pakistan
+1512719,Shadab Khan,9de62878,Pakistan,player,T20,2026-02-07,Netherlands,Pakistan,Pakistan
+1512719,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2026-02-07,Netherlands,Pakistan,Pakistan
+1512719,Usman Khan,bafb9238,Pakistan,player,T20,2026-02-07,Netherlands,Pakistan,Pakistan
+1512730,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2026-02-10,Pakistan,United States of America,Pakistan
+1512730,Agha Salman,89c16049,Pakistan,player,T20,2026-02-10,Pakistan,United States of America,Pakistan
+1512730,Babar Azam,8a75e999,Pakistan,player,T20,2026-02-10,Pakistan,United States of America,Pakistan
+1512730,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2026-02-10,Pakistan,United States of America,Pakistan
+1512730,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2026-02-10,Pakistan,United States of America,Pakistan
+1512730,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2026-02-10,Pakistan,United States of America,Pakistan
+1512730,Saim Ayub,33609a8c,Pakistan,player,T20,2026-02-10,Pakistan,United States of America,Pakistan
+1512730,Shadab Khan,9de62878,Pakistan,player,T20,2026-02-10,Pakistan,United States of America,Pakistan
+1512730,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2026-02-10,Pakistan,United States of America,Pakistan
+1512730,Usman Khan,bafb9238,Pakistan,player,T20,2026-02-10,Pakistan,United States of America,Pakistan
+1512730,Usman Tariq,e94d1dcd,Pakistan,player,T20,2026-02-10,Pakistan,United States of America,Pakistan
+1512745,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2026-02-15,India,Pakistan,India
+1512745,Agha Salman,89c16049,Pakistan,player,T20,2026-02-15,India,Pakistan,India
+1512745,Babar Azam,8a75e999,Pakistan,player,T20,2026-02-15,India,Pakistan,India
+1512745,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2026-02-15,India,Pakistan,India
+1512745,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2026-02-15,India,Pakistan,India
+1512745,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2026-02-15,India,Pakistan,India
+1512745,Saim Ayub,33609a8c,Pakistan,player,T20,2026-02-15,India,Pakistan,India
+1512745,Shadab Khan,9de62878,Pakistan,player,T20,2026-02-15,India,Pakistan,India
+1512745,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2026-02-15,India,Pakistan,India
+1512745,Usman Khan,bafb9238,Pakistan,player,T20,2026-02-15,India,Pakistan,India
+1512745,Usman Tariq,e94d1dcd,Pakistan,player,T20,2026-02-15,India,Pakistan,India
+1512753,Agha Salman,89c16049,Pakistan,player,T20,2026-02-18,Pakistan,Namibia,Pakistan
+1512753,Babar Azam,8a75e999,Pakistan,player,T20,2026-02-18,Pakistan,Namibia,Pakistan
+1512753,Faheem Ashraf,bd4ea627,Pakistan,player,T20,2026-02-18,Pakistan,Namibia,Pakistan
+1512753,Khawaja Nafay,3cf54e77,Pakistan,player,T20,2026-02-18,Pakistan,Namibia,Pakistan
+1512753,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2026-02-18,Pakistan,Namibia,Pakistan
+1512753,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2026-02-18,Pakistan,Namibia,Pakistan
+1512753,Saim Ayub,33609a8c,Pakistan,player,T20,2026-02-18,Pakistan,Namibia,Pakistan
+1512753,Salman Mirza,7ab1eab7,Pakistan,player,T20,2026-02-18,Pakistan,Namibia,Pakistan
+1512753,Shadab Khan,9de62878,Pakistan,player,T20,2026-02-18,Pakistan,Namibia,Pakistan
+1512753,Usman Khan,bafb9238,Pakistan,player,T20,2026-02-18,Pakistan,Namibia,Pakistan
+1512753,Usman Tariq,e94d1dcd,Pakistan,player,T20,2026-02-18,Pakistan,Namibia,Pakistan
+1512763,Agha Salman,89c16049,Pakistan,player,T20,2026-02-24,Pakistan,England,England
+1512763,Babar Azam,8a75e999,Pakistan,player,T20,2026-02-24,Pakistan,England,England
+1512763,Fakhar Zaman,1777c020,Pakistan,player,T20,2026-02-24,Pakistan,England,England
+1512763,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2026-02-24,Pakistan,England,England
+1512763,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2026-02-24,Pakistan,England,England
+1512763,Saim Ayub,33609a8c,Pakistan,player,T20,2026-02-24,Pakistan,England,England
+1512763,Salman Mirza,7ab1eab7,Pakistan,player,T20,2026-02-24,Pakistan,England,England
+1512763,Shadab Khan,9de62878,Pakistan,player,T20,2026-02-24,Pakistan,England,England
+1512763,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2026-02-24,Pakistan,England,England
+1512763,Usman Khan,bafb9238,Pakistan,player,T20,2026-02-24,Pakistan,England,England
+1512763,Usman Tariq,e94d1dcd,Pakistan,player,T20,2026-02-24,Pakistan,England,England
+1512768,Abrar Ahmed,abb7c76c,Pakistan,player,T20,2026-02-28,Pakistan,Sri Lanka,Pakistan
+1512768,Agha Salman,89c16049,Pakistan,player,T20,2026-02-28,Pakistan,Sri Lanka,Pakistan
+1512768,Fakhar Zaman,1777c020,Pakistan,player,T20,2026-02-28,Pakistan,Sri Lanka,Pakistan
+1512768,Khawaja Nafay,3cf54e77,Pakistan,player,T20,2026-02-28,Pakistan,Sri Lanka,Pakistan
+1512768,Mohammad Nawaz,3086f7a4,Pakistan,player,T20,2026-02-28,Pakistan,Sri Lanka,Pakistan
+1512768,Naseem Shah,9c9af282,Pakistan,player,T20,2026-02-28,Pakistan,Sri Lanka,Pakistan
+1512768,Sahibzada Farhan,1aba45cd,Pakistan,player,T20,2026-02-28,Pakistan,Sri Lanka,Pakistan
+1512768,Shadab Khan,9de62878,Pakistan,player,T20,2026-02-28,Pakistan,Sri Lanka,Pakistan
+1512768,Shaheen Shah Afridi,45a7e761,Pakistan,player,T20,2026-02-28,Pakistan,Sri Lanka,Pakistan
+1512768,Usman Khan,bafb9238,Pakistan,player,T20,2026-02-28,Pakistan,Sri Lanka,Pakistan
+1512768,Usman Tariq,e94d1dcd,Pakistan,player,T20,2026-02-28,Pakistan,Sri Lanka,Pakistan
+1525652,Abdul Samad,8e554b6b,Pakistan,player,ODI,2026-03-11,Pakistan,Bangladesh,Bangladesh
+1525652,Abrar Ahmed,abb7c76c,Pakistan,player,ODI,2026-03-11,Pakistan,Bangladesh,Bangladesh
+1525652,Agha Salman,89c16049,Pakistan,player,ODI,2026-03-11,Pakistan,Bangladesh,Bangladesh
+1525652,Faheem Ashraf,bd4ea627,Pakistan,player,ODI,2026-03-11,Pakistan,Bangladesh,Bangladesh
+1525652,Hussain Talat,bb4b445b,Pakistan,player,ODI,2026-03-11,Pakistan,Bangladesh,Bangladesh
+1525652,Maaz Sadaqat,6d9560f3,Pakistan,player,ODI,2026-03-11,Pakistan,Bangladesh,Bangladesh
+1525652,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2026-03-11,Pakistan,Bangladesh,Bangladesh
+1525652,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2026-03-11,Pakistan,Bangladesh,Bangladesh
+1525652,Sahibzada Farhan,1aba45cd,Pakistan,player,ODI,2026-03-11,Pakistan,Bangladesh,Bangladesh
+1525652,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2026-03-11,Pakistan,Bangladesh,Bangladesh
+1525652,Shamyl Hussain,d3395043,Pakistan,player,ODI,2026-03-11,Pakistan,Bangladesh,Bangladesh
+1525653,Abdul Samad,8e554b6b,Pakistan,player,ODI,2026-03-13,Pakistan,Bangladesh,Pakistan
+1525653,Agha Salman,89c16049,Pakistan,player,ODI,2026-03-13,Pakistan,Bangladesh,Pakistan
+1525653,Faheem Ashraf,bd4ea627,Pakistan,player,ODI,2026-03-13,Pakistan,Bangladesh,Pakistan
+1525653,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2026-03-13,Pakistan,Bangladesh,Pakistan
+1525653,Hussain Talat,bb4b445b,Pakistan,player,ODI,2026-03-13,Pakistan,Bangladesh,Pakistan
+1525653,Maaz Sadaqat,6d9560f3,Pakistan,player,ODI,2026-03-13,Pakistan,Bangladesh,Pakistan
+1525653,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2026-03-13,Pakistan,Bangladesh,Pakistan
+1525653,Mohammad Wasim,9e9af5f2,Pakistan,player,ODI,2026-03-13,Pakistan,Bangladesh,Pakistan
+1525653,Sahibzada Farhan,1aba45cd,Pakistan,player,ODI,2026-03-13,Pakistan,Bangladesh,Pakistan
+1525653,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2026-03-13,Pakistan,Bangladesh,Pakistan
+1525653,Shamyl Hussain,d3395043,Pakistan,player,ODI,2026-03-13,Pakistan,Bangladesh,Pakistan
+1525654,Abdul Samad,8e554b6b,Pakistan,player,ODI,2026-03-15,Bangladesh,Pakistan,Bangladesh
+1525654,Abrar Ahmed,abb7c76c,Pakistan,player,ODI,2026-03-15,Bangladesh,Pakistan,Bangladesh
+1525654,Agha Salman,89c16049,Pakistan,player,ODI,2026-03-15,Bangladesh,Pakistan,Bangladesh
+1525654,Faheem Ashraf,bd4ea627,Pakistan,player,ODI,2026-03-15,Bangladesh,Pakistan,Bangladesh
+1525654,Ghazi Ghori,28b61a48,Pakistan,player,ODI,2026-03-15,Bangladesh,Pakistan,Bangladesh
+1525654,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2026-03-15,Bangladesh,Pakistan,Bangladesh
+1525654,Maaz Sadaqat,6d9560f3,Pakistan,player,ODI,2026-03-15,Bangladesh,Pakistan,Bangladesh
+1525654,Mohammad Rizwan,2f26ac1a,Pakistan,player,ODI,2026-03-15,Bangladesh,Pakistan,Bangladesh
+1525654,Saad Masood,b2498b5d,Pakistan,player,ODI,2026-03-15,Bangladesh,Pakistan,Bangladesh
+1525654,Sahibzada Farhan,1aba45cd,Pakistan,player,ODI,2026-03-15,Bangladesh,Pakistan,Bangladesh
+1525654,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2026-03-15,Bangladesh,Pakistan,Bangladesh
+1535645,Abdul Samad,8e554b6b,Pakistan,player,ODI,2026-05-30,Australia,Pakistan,Pakistan
+1535645,Abrar Ahmed,abb7c76c,Pakistan,player,ODI,2026-05-30,Australia,Pakistan,Pakistan
+1535645,Agha Salman,89c16049,Pakistan,player,ODI,2026-05-30,Australia,Pakistan,Pakistan
+1535645,Arafat Minhas,f2e8b37c,Pakistan,player,ODI,2026-05-30,Australia,Pakistan,Pakistan
+1535645,Babar Azam,8a75e999,Pakistan,player,ODI,2026-05-30,Australia,Pakistan,Pakistan
+1535645,Ghazi Ghori,28b61a48,Pakistan,player,ODI,2026-05-30,Australia,Pakistan,Pakistan
+1535645,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2026-05-30,Australia,Pakistan,Pakistan
+1535645,Maaz Sadaqat,6d9560f3,Pakistan,player,ODI,2026-05-30,Australia,Pakistan,Pakistan
+1535645,Sahibzada Farhan,1aba45cd,Pakistan,player,ODI,2026-05-30,Australia,Pakistan,Pakistan
+1535645,Shadab Khan,9de62878,Pakistan,player,ODI,2026-05-30,Australia,Pakistan,Pakistan
+1535645,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2026-05-30,Australia,Pakistan,Pakistan
+1535646,Abdul Samad,8e554b6b,Pakistan,player,ODI,2026-06-02,Australia,Pakistan,Australia
+1535646,Abrar Ahmed,abb7c76c,Pakistan,player,ODI,2026-06-02,Australia,Pakistan,Australia
+1535646,Agha Salman,89c16049,Pakistan,player,ODI,2026-06-02,Australia,Pakistan,Australia
+1535646,Arafat Minhas,f2e8b37c,Pakistan,player,ODI,2026-06-02,Australia,Pakistan,Australia
+1535646,Babar Azam,8a75e999,Pakistan,player,ODI,2026-06-02,Australia,Pakistan,Australia
+1535646,Ghazi Ghori,28b61a48,Pakistan,player,ODI,2026-06-02,Australia,Pakistan,Australia
+1535646,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2026-06-02,Australia,Pakistan,Australia
+1535646,Maaz Sadaqat,6d9560f3,Pakistan,player,ODI,2026-06-02,Australia,Pakistan,Australia
+1535646,Sahibzada Farhan,1aba45cd,Pakistan,player,ODI,2026-06-02,Australia,Pakistan,Australia
+1535646,Shadab Khan,9de62878,Pakistan,player,ODI,2026-06-02,Australia,Pakistan,Australia
+1535646,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2026-06-02,Australia,Pakistan,Australia
+1535647,Abdul Samad,8e554b6b,Pakistan,player,ODI,2026-06-04,Australia,Pakistan,Pakistan
+1535647,Abrar Ahmed,abb7c76c,Pakistan,player,ODI,2026-06-04,Australia,Pakistan,Pakistan
+1535647,Agha Salman,89c16049,Pakistan,player,ODI,2026-06-04,Australia,Pakistan,Pakistan
+1535647,Arafat Minhas,f2e8b37c,Pakistan,player,ODI,2026-06-04,Australia,Pakistan,Pakistan
+1535647,Babar Azam,8a75e999,Pakistan,player,ODI,2026-06-04,Australia,Pakistan,Pakistan
+1535647,Ghazi Ghori,28b61a48,Pakistan,player,ODI,2026-06-04,Australia,Pakistan,Pakistan
+1535647,Haris Rauf,24bb1c2f,Pakistan,player,ODI,2026-06-04,Australia,Pakistan,Pakistan
+1535647,Maaz Sadaqat,6d9560f3,Pakistan,player,ODI,2026-06-04,Australia,Pakistan,Pakistan
+1535647,Sahibzada Farhan,1aba45cd,Pakistan,player,ODI,2026-06-04,Australia,Pakistan,Pakistan
+1535647,Shadab Khan,9de62878,Pakistan,player,ODI,2026-06-04,Australia,Pakistan,Pakistan
+1535647,Shaheen Shah Afridi,45a7e761,Pakistan,player,ODI,2026-06-04,Australia,Pakistan,Pakistan
