@@ -154,17 +154,7 @@ The reference interval \(D_{\text{ref}}\) has not been finalized. Rest days and 
 
 The current candidate decision score is:
 
-\[
-S=w_pPS+w_w(100-W)
-\]
 
-| Match Priority | Performance Weight | Workload Weight |
-|---|---:|---:|
-| 1 | 50% | 50% |
-| 2 | 60% | 40% |
-| 3 | 70% | 30% |
-| 4 | 80% | 20% |
-| 5 | 90% | 10% |
 
 Priority 5 represents the most important match. These weights are provisional and require comparison on representative players.
 
@@ -178,17 +168,3 @@ The optimizer must also enforce team constraints:
 
 The score supports the optimizer; it does not independently determine the Playing XI. Player roles, availability, and team constraints must be enforced separately.
 
-## 6. Validation Status
-
-| Component | Status |
-|---|---|
-| Batting score implementation | Implemented; automated checks passed |
-| Batting benchmarks | Selected for testing |
-| Small-sample adjustment | Removed; not part of the final batting formula |
-| Bowling formula and benchmarks | Formula defined; implementation/configuration verification pending |
-| Workload formula | Defined; full sample verification pending |
-| Rest calculation | Basic formula defined; reference interval pending |
-| Match-priority weights | Proposed; comparative testing pending |
-| Playing XI and multi-match rotation | End-to-end validation pending |
-
-**Important:** Passing code checks confirms that the implementation follows specified rules; it does not prove that a formula is statistically optimal. All reference values and weights should be documented and tested before final integration.

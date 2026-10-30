@@ -1,9 +1,26 @@
 import sqlite3
-import pandas as pd
+from pathlib import Path
 
-db_path = "database/cricket_agent.db"
+db_path = Path(__file__).resolve().parent / "cricket_agent.db"
+
 conn = sqlite3.connect(db_path)
-df = pd.read_sql("SELECT * FROM players LIMIT 1", conn)
-conn.close()
+cursor = conn.cursor()
 
-print("Available columns in players table:", df.columns.tolist())
+print("DATABASE TABLES:")
+
+cursor.execute("""
+    SELECT name
+    FROM sqlite_master
+    WHERE type = 'table'
+""")
+
+for table in cursor.fetchall():
+    print(table[0])
+
+print("\nRECORD COUNTS:")
+
+for table in ["simulation_runs", "fixtures", "recommendations"]:
+    cursor.execute(f"SELECT COUNT(*) FROM {table}")
+    print(f"{table}: {cursor.fetchone()[0]}")
+
+conn.close()
